@@ -9,13 +9,14 @@ def predictPlayoffs(db, table, target, split_year):
     conn = sqlite3.connect(database)
     query = "SELECT * FROM " + table + ";"
     data = pd.read_sql_query(query, conn)
+    data.set_index("tmID")
 
     data["year"] = pd.to_numeric(data["year"])
     data = data.drop(
         [
             "lgID",
-            "franchID",
             "tmID",
+            "franchID",
             "confID",
             "name",
             "firstRound",

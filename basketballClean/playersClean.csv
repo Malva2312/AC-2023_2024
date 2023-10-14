@@ -1,816 +1,2446 @@
 bioID,pos,height,weight,college,collegeOther,birthDate
-abrahta01w,C,74,190,George Washington,,27/09/1975
-abrossv01w,F,74,169,Connecticut,,09/07/1980
-adairje01w,C,76,197,George Washington,,19/12/1986
-adamsda01w,F-C,73,239,Texas A&M,Jefferson College (JC),19/02/1989
-adamsjo01w,C,75,180,New Mexico,,24/05/1981
-aguilel01w,G,67,165,George Washington,,15/10/1976
-ajavoma01w,G,68,160,Rutgers,,07/05/1986
-alberma01w,G,64,0,Ohio State,,12/04/1975
-aldrima01w,G,71,153,UNC Charlotte,,15/09/1973
-alexaer01w,G,67,140,California-Santa Barbara,,25/04/1975
-alhalta01w,F-G,72,149,DePaul,,17/10/1974
-allench01w,G,71,135,Notre Dame,,23/07/1986
-amachma01w,F,73,175,,,30/01/1978
-ambermo01w,F,76,169,Arizona State,,21/12/1970
-anderam01w,F,72,167,Brigham Young,,14/03/1984
-anderch01w,C,78,190,Vanderbilt,,22/01/1981
-anderjo01w,G,68,166,Wisconsin,,22/07/1986
-anderke01w,G,67,125,Wisconsin,,17/05/1974
-andrame01w,F,71,165,Old Dominion,,31/12/1975
-angelyv01w,G,68,160,Ohio State,,14/10/1963
-anosini01w,C,75,211,Tennessee,,27/02/1986
-appelja01w,C,76,210,Stanford,,14/05/1988
-arcaija01w,G,71,147,none,,11/04/1969
-artiska01w,F,73,155,Northeastern,,09/07/1973
-askamma01w,C,77,198,none,,07/08/1970
-atkinla01w,G-F,72,172,North Carolina,,22/03/1984
-atunrmo01w,G-F,70,143,Texas A&M,,14/04/1986
-augusse01w,F,72,179,Louisiana State,,30/04/1984
-aycocan01w,G-F,74,172,Kansas,,28/02/1973
-ayimmi01w,F,75,0,Pepperdine,,06/05/1988
-azizle01w,F,75,177,Syracuse,,28/02/1979
-azzije01w,G,68,143,Stanford,,31/08/1968
-badertr01w,G,64,125,Boise State,,26/02/1973
-bakerla01w,G,67,140,California,,18/12/1968
-bakersh01w,G,68,125,Georgia,,03/12/1982
-balesal01w,C,79,218,Duke,,04/04/1985
-banchrh01w,C,75,185,Washington,,01/05/1973
-baranel01w,F,77,182,Academy of Sport Moscow,,28/01/1972
-barksla01w,G,70,156,North Carolina,,03/10/1979
-barnead01w,F,71,165,Arizona,,03/02/1977
-barnequ01w,C,77,185,Indiana,,26/09/1976
-bassmi01w,F,75,184,Duke,,02/12/1983
-batkosu01w,C,76,203,,,17/12/1980
-batteja01w,F,73,163,Notre Dame,,26/03/1983
-battlas01w,F,72,170,Connecticut,,31/05/1982
-bauerca01w,F-C,76,180,Montana State,,27/06/1972
-beardal01w,G-F,71,160,Duke,,14/05/1982
-becenry01w,G,66,140,Arizona State,Scottsdale CC (JC),11/08/1971
-beckki01w,G,68,125,George Washington,,27/12/1985
-bellje01w,F,73,160,Florida International,,26/05/1970
-bennije01w,F,75,185,Vanderbilt,,06/10/1981
-berezva01w,C,76,0,Rice,,10/04/1986
-berggas01w,G,70,170,Illinois,,18/11/1976
-berrysh01w,F-C,75,175,Iowa,,06/07/1967
-berthlu01w,F-C,74,188,Old Dominion,,31/03/1978
-berubca01w,F,72,155,Connecticut,,02/09/1975
-beviltu01w,G,67,145,,,19/07/1972
-bibbyje01w,G,67,139,,,23/08/1979
-bibrzag01w,G-F,74,168,,,21/10/1982
-birdsu01w,G,69,150,Connecticut,,16/10/1980
-bishoab01w,F-C,74,0,,,29/11/1988
-bjedoni01w,C,78,195,,,18/05/1971
-bjorkan01w,F,72,166,Tennessee,,14/07/1989
-bjorkte01w,C,76,175,Colorado,,29/06/1982
-blackch01w,C,77,188,Duke,,12/11/1985
-blackde01w,G,63,124,St. Joseph's,,29/07/1966
-bladerh01w,G,67,138,Vanderbilt,,29/10/1972
-blodgci01w,G,69,130,Maine,,23/12/1975
-blueni01w,G,68,163,UCLA,,29/03/1984
-blueoc01w,F,73,163,Miami (FL),,18/08/1976
-bobbish01w,G,62,130,Tennessee,,06/12/1985
-boddiwh01w,G,69,149,Auburn,,23/01/1987
-boldeba01w,G,74,180,Louisiana Tech,,16/06/1969
-boltoru01w,G,69,150,Auburn,,25/05/1967
-bondla01w,G,67,132,Missouri,,13/02/1984
-bonfisu01w,G,68,145,,,08/09/1974
-bonnede01w,G,76,136,Auburn,,21/08/1987
-bookeka01w,C,73,170,Vanderbilt,,10/04/1965
-bosweca01w,F-G,72,168,Illinois State,,10/11/1962
-bouceje01w,G,68,130,Virginia,,20/12/1973
-bouchke01w,F,74,163,,,13/01/1968
-bowenli01w,G,67,145,Michigan State,,25/10/1983
-boydca01w,F,73,172,,,31/10/1975
-bradlki01w,F-C,77,185,Oral Roberts,,26/08/1974
-brancli01w,G,64,0,Texas A&M,,0000-00-00
-branzal01w,F,76,180,Florida International,,17/07/1971
-branzge01w,F,76,175,Florida International,,25/07/1976
-braxtja01w,F-C,75,178,Louisiana Tech,,06/10/1973
-braxtka01w,F-C,78,210,Georgia,,18/02/1983
-brazian01w,F,74,169,Texas Tech,,18/09/1976
-brcanra01w,C,80,198,none,,15/04/1967
-brelaje01w,F,75,170,North Carolina,,23/02/1988
-bristre01w,G,70,139,Arizona,,10/02/1978
-brogami01w,F,73,177,,,08/02/1973
-brondsa01w,G,67,136,U. Western Sydney,,20/08/1968
-brownci01w,F-C,74,183,Long Beach State,,16/03/1965
-brownco01w,G,69,150,North Carolina,,21/10/1980
-browned01w,G-F,69,163,Texas,,01/07/1978
-brownki01w,G,70,134,Georgia,,13/01/1979
-brownla01w,C,75,180,Louisiana Tech,,01/12/1972
-brownle01w,F,72,166,Virginia,,03/06/1977
-brownru01w,F,74,175,Furman,,05/05/1972
-brumfma01w,G,68,133,Rice,,06/06/1978
-brungje01w,F,73,165,Penn State,,16/04/1982
-brunsre01w,F,75,175,Georgetown,,11/12/1981
-bullevi01w,F,75,185,Maryland,,04/10/1967
-burgean01w,G,67,141,,,10/04/1969
-burgehe01w,C,77,195,Virginia,,11/11/1971
-burgehe02w,F,77,180,Virginia,,11/11/1971
-burgeli01w,F,73,173,Alabama,,27/07/1969
-burraal01w,C,75,218,Louisiana Tech,,23/06/1975
-burseja01w,C,77,199,Tulane,,19/05/1979
-buttsta01w,G,71,160,Tennessee,,10/03/1982
-byearla01w,G-F,71,206,DePaul,NE Oklahoma A&M (JC),12/08/1973
-byrdla01w,G,66,131,Eastern Michigan,,01/02/1960
-cabezli01w,F-C,75,178,Central Florida CC,,25/10/1973
-cainke01w,C,78,220,Tennessee,,16/05/1989
-camba01w,C,80,215,none,,18/08/1991
-campbed01w,G,68,152,Texas,,26/11/1968
-campbmi01w,F-C,77,170,USC,,20/02/1974
-cantydo01w,G-F,69,162,Alabama,,02/03/1977
-careyja01w,G,66,135,Texas,,12/03/1981
-carsoes01w,G-F,72,165,Rutgers,,28/07/1986
-carteam01w,F,74,185,Louisiana State,,21/06/1982
-cartede01w,G-F,72,185,Georgia,,03/01/1972
-cartesy01w,G,66,0,Texas A&M,,18/11/1990
-cashsw01w,F,73,162,Connecticut,,22/09/1979
-cassija01w,C,75,187,Maine,,12/09/1978
-castriz01w,F-G,72,140,,,13/03/1982
-catchta01w,F,73,167,Tennessee,,21/07/1979
-caufila01w,G,69,159,Oklahoma,,25/05/1980
-cebriel01w,C,77,190,none,,07/02/1971
-chacoke01w,G,69,151,George Mason,,21/12/1974
-chambco01w,G,69,160,Georgia,,06/07/1985
-chanequ01w,G,71,160,Louisiana State,,14/04/1986
-chapmji01w,C,75,206,Indiana,,04/11/1979
-charlda01w,F-C,75,141,Tennessee,,22/11/1968
-charlti01w,C,76,198,Connecticut,,05/12/1988
-chaseso01w,G,69,150,Maryland,,09/03/1976
-cheekjo01w,F,73,201,Duke,,25/06/1988
-cheruam01w,G,70,140,Indiana,,18/04/1970
-chestfe01w,F,75,180,DePaul,,24/03/1988
-choneka01w,C,75,180,North Carolina State,,11/01/1981
-chriska01w,F,74,171,UC Santa Barbara,,16/11/1980
-chriska02w,F,72,180,Duke,,11/09/1989
-chrissh01w,F,73,170,Arkansas,,15/02/1982
-cironkr01w,G,68,150,Illinois State,,19/05/1987
-clarkal01w,F,70,167,Middle Tennessee State,,07/07/1987
-clarkma01w,F-C,75,0,Arizona,,01/01/1971
-clearmi01w,G,66,126,Australian Institute of Sport,,16/07/1974
-clinest01w,G,65,148,UC Santa Barbara,,22/04/1978
-coggicl01w,G,71,170,Kansas State,,19/05/1985
-cokermo01w,F,73,180,Old Dominion,,28/11/1982
-colemco01w,F,72,170,Ohio State,,13/04/1981
-colemma01w,G-F,73,160,Maryland,,04/01/1987
-colleka01w,G-F,70,145,Maryland,,17/03/1971
-colsosy01w,G,68,140,Texas A&M,,06/08/1989
-compame01w,G,69,143,St. Joseph's,,18/09/1975
-congran01w,F-C,74,183,Mercer,,03/06/1970
-conklab01w,F,75,175,Tennessee,,10/02/1975
-consuca01w,G,68,144,Iowa,,04/03/1979
-coopeca01w,C,76,176,Purdue,,05/02/1979
-coopecy01w,G,70,150,USC,,14/04/1963
-crawlsy01w,F-C,77,187,North Carolina,,27/09/1972
-crockda01w,F,73,158,Baylor,,11/02/1981
-crockwi01w,F,74,215,Connecticut,,05/07/1984
-cronika01w,G,72,155,Colorado State,,08/09/1977
-crosssh01w,G,70,155,Tennessee,,07/09/1983
-crumpca01w,G,70,158,Alabama,,29/10/1962
-cummiki01w,F,75,188,Long Beach State,,29/08/1963
-cunnibe01w,G,72,163,Notre Dame,,05/06/1975
-cunnida01w,F,72,187,Rutgers,,27/01/1980
-cunnima01w,F-C,76,0,Vanderbilt,,20/05/1973
-currimo01w,F,72,177,Duke,,25/02/1983
-curryed01w,G,64,138,Oregon,,09/07/1979
-dalesst01w,G-F,72,155,Oklahoma,,05/09/1979
-daleygr01w,G,66,147,Tulane,,26/06/1978
-darlihe01w,G,66,164,Penn State,,29/08/1978
-davenje01w,C,77,215,Ohio State,,24/06/1985
-davisbr01w,G,72,172,Oregon,,01/01/1983
-daviscl01w,F,73,165,Texas,,04/06/1967
-davisde01w,G,67,138,Vanderbilt,,08/11/1984
-davisla01w,G,67,145,Tennessee,,08/10/1974
-davista01w,F,70,160,Washington,,25/09/1972
-davista02w,G,71,0,Florida State,,07/06/1987
-dedenka01w,F,76,170,Washington,,23/09/1969
-deforan01w,G,70,160,Nebraska,,14/04/1976
-derevje01w,G,70,140,George Mason,,29/03/1982
-desouer01w,F-C,77,190,,,03/03/1982
-dickeke01w,F,71,165,Texas Tech,,20/04/1978
-dillata01w,G,69,154,Texas,,06/05/1981
-dixonin01w,C,75,0,California,,16/09/1972
-dixonta01w,G,69,148,Kansas,,14/12/1975
-doagela01w,G,66,137,Nebraska,,15/05/1975
-domonna01w,G,70,132,Iowa,,28/09/1975
-donapbe01w,F-C,74,195,Stanford,,27/08/1980
-doronsh01w,G,69,145,Maryland,,01/04/1985
-dossaci01w,C,77,187,,,31/01/1975
-douglka01w,G-F,72,167,Purdue,,07/05/1979
-duffyme01w,G,67,135,Notre Dame,,13/07/1984
-dunlavi01w,F,73,160,Kentucky,,19/09/1989
-dupreca01w,F,74,162,Temple,,16/08/1984
-dydekka01w,F-C,79,190,Evangel,,21/03/1970
-dydekma01w,C,9,223,,,28/04/1974
-edwarmi01w,G,69,150,Rutgers,,06/03/1966
-edwarsi01w,C,76,164,Iowa,,17/11/1973
-edwarte01w,G-F,71,155,Georgia,,09/07/1964
-edwarto01w,G,70,160,Tennessee,,13/03/1968
-elysh01w,F,74,182,Tennessee,,09/08/1983
-enissh01w,F-C,73,185,Alabama,,03/12/1974
-erbsu01w,C,78,240,North Carolina State,,25/07/1977
-ervinla01w,F,76,171,Arkansas,,24/03/1985
-evansda01w,G,67,0,James Madison,,30/06/1989
-evansde01w,G,64,125,Virginia,,11/10/1970
-fallotr01w,G-F,75,165,,,23/07/1972
-farriba01w,C-F,75,200,Tulane,,10/09/1976
-feastal01w,F,71,168,Harvard,,11/02/1976
-feifesu01w,G,73,162,,,29/01/1979
-feldeja01w,F,73,0,Southern Mississippi,,16/10/1969
-ferdima01w,G,69,153,Louisiana State,,13/10/1978
-fernama01w,G,71,138,,,21/12/1981
-ferrama01w,F,75,190,,,11/02/1972
-figgsuk01w,G,69,142,Purdue,,31/03/1977
-fijalis01w,C,77,200,Colorado,,23/05/1972
-firsool01w,C,78,215,Kansas State,,23/04/1976
-floremi01w,G,66,125,Stanford,,19/10/1977
-flukety01w,C,77,209,Tennessee,,27/12/1984
-folklkr01w,F,74,190,Stanford,,19/12/1975
-fordch01w,F,75,198,Louisiana Tech,,06/06/1981
-fordki01w,G-F,70,153,Georgia Tech,,04/04/1975
-fordst01w,F,74,185,Georgia,,14/01/1969
-fosteto01w,F,73,175,Iowa,,16/10/1971
-fowlesy01w,C,78,200,Louisiana State,,06/10/1985
-francde01w,F,70,193,Iowa State,,24/08/1975
-frankaq01w,G,64,154,Texas A&M,,29/09/1985
-frankba01w,F-C,0,0,Wisconsin,,0000-00-00
-frazeme01w,F,75,191,Liberty,,29/03/1987
-freemla01w,F,73,175,Auburn,,17/03/1971
-fresest01w,G,68,126,Iowa State,,23/09/1976
-frettla01w,F,75,170,Georgia,,12/06/1975
-friertr01w,F,74,186,Louisiana Tech,,23/08/1979
-frohlli01w,F-C,75,185,,,23/06/1979
-frostsh01w,C,76,184,Tennessee,,19/12/1966
-futreca01w,G,70,154,Duquesne,,10/07/1982
-gaithka01w,C,75,170,Notre Dame,,13/08/1975
-gamblam01w,F,70,163,Arizona,,17/12/1964
-ganttr01w,C,74,181,Lamar,,10/10/1971
-garcibe01w,G,65,135,,,03/09/1976
-gardike01w,F,73,168,Virginia Tech,,19/05/1984
-gardnan01w,F-C,75,190,Howard,,23/12/1979
-garnean01w,F-C,75,160,Penn State,,05/01/1979
-gaydeco01w,G,69,150,Louisiana State,,11/05/1971
-gaypi01w,G-F,71,183,Louisiana State,,21/08/1974
-gearlka01w,G-F,73,184,Purdue,,26/10/1984
-gessiki01w,F,75,175,USC,,29/12/1970
-gibsoke01w,F-G,70,136,Maryland,,10/11/1976
-gilbrbr01w,G,73,0,USC,,16/08/1990
-gilloje01w,F-C,75,180,Mississippi,,13/06/1964
-gilmous01w,G,71,158,Rutgers,,24/08/1978
-gisseka01w,F,73,178,Penn State,North Carolina State,27/07/1985
-givench01w,G,70,0,Middle Tennessee State,,26/07/1985
-godbyli01w,F-C,78,163,Auburn,,17/10/1968
-gomisem01w,G,71,134,,,18/10/1983
-goodemo01w,G,66,130,Stanford,,08/02/1972
-goodeti01w,F,71,165,Iowa,,23/10/1975
-goodlsa01w,C,77,239,Georgia Tech,,09/08/1990
-goodsad01w,F,72,165,Old Dominion,,19/10/1966
-gordobr01w,F,72,159,Tennessee,,27/04/1967
-goringi01w,C,79,225,North Carolina State (jr-sr),Arkansas-Fort Smith (fr-so),07/06/1983
-gortmsh01w,G,70,158,South Carolina,,07/12/1979
-grahama01w,C,75,240,Houston,,18/12/1970
-granter01w,G,68,125,Texas Tech,,13/06/1984
-gravede01w,C,77,212,Howard,,16/09/1975
-graylal01w,G,68,176,California,,21/04/1987
-grecomi01w,G,69,145,UCLA,,24/03/1980
-greenci01w,C,77,183,Texas Tech,,04/04/1983
-greenka01w,G,70,170,Connecticut,,13/07/1987
-grginve01w,F,73,160,,,13/01/1975
-griffke01w,F,74,179,Nebraska,,02/07/1987
-griffyo01w,C-F,75,188,Florida Atlantic,,01/03/1970
-groomla01w,G-F,70,160,Georgia,,12/09/1970
-grubigo01w,G,71,165,,,20/08/1972
-grudasa01w,F-C,76,185,,,25/06/1987
-guytowa01w,F,73,178,South Florida,,14/10/1965
-hagiwmi01w,G,71,161,,,27/04/1970
-hairska01w,F,72,150,Temple,,18/08/1985
-hallam01w,F,75,180,Washington,,29/12/1977
-hallvi01w,F,73,180,Texas,,03/10/1969
-hamblan01w,G,70,170,Iowa,,30/09/1976
-hammobe01w,G,66,136,Colorado State,,11/03/1977
-hamptky01w,F,74,210,Arizona State,,03/11/1962
-hamzoro01w,G,69,152,,,17/08/1970
-hardili01w,G,68,139,Duke,,12/06/1984
-hardish01w,G,69,165,Louisiana Tech,,27/06/1969
-harpela01w,F-C,77,190,Maryland,,11/04/1986
-harriam01w,F,77,202,Xavier,,16/01/1988
-harrido01w,F,75,190,Old Dominion,,29/09/1966
-harrifr01w,G,72,154,Texas,,12/03/1965
-harrili01w,F,73,164,Tennessee,,02/01/1971
-harrokr01w,G,64,139,,,04/03/1975
-haydeva01w,C,76,240,Florida,,05/06/1982
-hayesti01w,G,70,0,Connecticut,,20/09/1989
-haynikr01w,G,69,147,Michigan State,,17/06/1983
-headde01w,G,70,160,Tennessee,,16/08/1970
-hedgpch01w,G,69,143,Stanford,,17/02/1972
-hemmera01w,F-C,75,0,Stanford,,02/04/1973
-hendene01w,G,68,144,Texas,,28/02/1973
-hendetr01w,C,75,200,Georgia,,31/12/1974
-henniso01w,G,67,143,Stanford,,04/10/1969
-henryan01w,F,75,205,Florida,,13/02/1986
-herriam01w,C,76,189,Iowa,,06/06/1977
-hibbeka01w,G-F,70,140,Louisiana State,,29/09/1977
-hicksje01w,F-C,76,188,Maryland,,02/12/1971
-hightal01w,G,70,139,Louisiana State,,06/04/1988
-hillec01w,G,67,173,Northern Illinois,,06/04/1971
-hledeko01w,G,69,150,Duquesne,,29/03/1975
-hodgeda01w,G-F,73,170,St. Joseph's,,21/01/1968
-hodgedo01w,G,69,160,Louisiana State,,19/07/1982
-hodgero01w,G,71,165,Florida State,,19/07/1982
-hodgesa01w,F-G,69,0,New Orleans,,31/07/1962
-hoffmeb01w,F,74,215,USC,,27/08/1982
-holdsch01w,F,74,172,Tennessee,,09/08/1977
-hollake01w,G,68,129,Georgia,,05/11/1974
-holliqu01w,C,77,201,Virginia Commonwealth,,15/11/1988
-holmejo01w,F,70,150,Purdue,,31/03/1969
-holmese01w,G-F,73,155,UNLV,,13/06/1986
-holtam01w,F,72,168,Middle Tennessee State,,07/06/1985
-hopeky01w,C,74,165,Miami (FL),,23/11/1977
-hopsosu01w,F-C,74,175,Mars Hill,,21/06/1974
-hornbal01w,G,71,155,Tennessee,,16/10/1985
-houstch01w,F,72,189,Connecticut,,10/04/1986
-houtsas01w,G,66,140,Georgia,,31/12/1987
-howarje01w,G,66,130,North Carolina State,,21/01/1975
-howarme01w,G,69,145,SW Missouri State,,02/04/1972
-hudsopa01w,F,71,139,Northwestern State,,19/09/1968
-humphta01w,C,75,190,Georgia,,29/12/1985
-ibekwif01w,F,74,0,Arizona,,05/10/1989
-irvinsa01w,F,75,185,Texas Christian,,23/02/1982
-ivanyda01w,G,70,135,Florida International,,18/03/1976
-iveyni01w,G,67,149,Notre Dame,,24/09/1977
-jacksan01w,C,76,205,Texas,,30/03/1976
-jacksde01w,F,74,155,Alabama-Birmingham,,15/12/1979
-jacksgw01w,F,75,182,Tennessee,,23/10/1980
-jacksla01w,F-C,77,187,,,11/05/1981
-jacksta01w,F-C,75,179,Florida,,03/12/1962
-jacksta02w,G,66,118,Louisiana Tech,,22/04/1978
-jacksti01w,F,71,148,Iowa,,21/04/1972
-jacksti02w,F,75,185,Texas,,26/04/1985
-jacobam01w,G,68,152,Boston College,,29/06/1982
-jacobje01w,G,68,130,Purdue,,20/02/1973
-jamesta01w,F,69,158,Miami (FL),,13/06/1984
-januabr01w,G,68,144,Arizona State,,11/01/1987
-jekaban01w,G,69,180,,,12/08/1983
-joensca01w,G-F,71,165,George Washington,,12/02/1981
-johnsad01w,G,70,154,Ohio State,,05/02/1974
-johnsch01w,C,75,185,Wisconsin-Green Bay,,19/03/1981
-johnsda01w,C,74,197,Tennessee,,19/02/1973
-johnsgl01w,F,75,170,Tennessee,,27/07/1990
-johnsja01w,F,72,201,Kansas,,16/03/1979
-johnsla01w,F,73,150,Memphis,,17/08/1975
-johnsle01w,F,74,220,Western Kentucky,,12/01/1975
-johnsni01w,G,69,146,Alabama,,07/02/1973
-johnspo01w,C,75,165,Michigan,,06/11/1975
-johnssh01w,G,67,152,South Carolina,,18/08/1974
-johnssh02w,G,71,0,Miami,,08/12/1990
-johnste01w,G,63,132,Louisiana State,,06/09/1982
-johnsti01w,C,76,240,Tennessee,,27/12/1975
-johnsvi01w,G-F,69,150,Louisiana Tech,,15/04/1972
-jollyke01w,G,69,148,Tennessee,,03/05/1977
-jonesas01w,F,74,196,Connecticut,,01/08/1980
-jonesch01w,G-F,69,150,Houston,,25/03/1982
-jonesja01w,G,69,158,UNC Charlotte,,13/09/1978
-jonesla01w,G,73,180,Ohio State,,24/07/1977
-jonesma01w,G,70,150,North Carolina,,12/10/1975
-jonesme01w,G,69,147,Florida,,21/07/1973
-jordapa01w,C,75,205,UNLV,,27/04/1968
-joyneja01w,F,70,154,UCLA,,03/03/1962
-kaplaan01w,C,77,180,Stanford,,22/04/1973
-kausaan01w,F,72,155,Emporia State,,30/11/1970
-kellycr01w,F,74,190,Western Kentucky,,15/09/1986
-kingbsu01w,G,67,135,Stanford,,27/07/1981
-kingija01w,G,68,150,,,20/01/1976
-kizerly01w,F-C,76,215,Maryland,,04/04/1990
-klimezu01w,F,74,181,Vanderbilt,,21/01/1979
-kobryew01w,F-C,75,210,,,07/05/1982
-koehnla01w,G,68,145,Kansas State,,13/05/1982
-korstil01w,G,70,160,,,30/05/1980
-kossgr01w,F,73,145,Montana,,12/06/1974
-kostaan01w,G,67,137,,,26/03/1978
-kostita01w,F,73,163,Oregon State,,10/11/1972
-kraayca01w,F,76,180,Oregon,,30/09/1981
-kubikni01w,G,69,145,Nebraska,,01/03/1978
-kukloan01w,G,72,150,,,16/07/1971
-laceyal01w,G,72,159,Iowa State,,26/12/1987
-lacyje01w,F,75,175,Pepperdine,,21/03/1983
-lacyna01w,G,70,165,UTEP (sr),Texas Christian (fr-jr),08/07/1985
-lacyve01w,C,76,234,Louisiana Tech,,09/02/1967
-lambesh01w,G,67,125,Baylor,Grayson County (JC),21/07/1980
-lambmo01w,C,77,206,USC,,11/10/1964
-langeme01w,F-C,78,205,UNLV,,28/04/1969
-langhcr01w,F-C,74,184,Maryland,,27/10/1986
-langja01w,F,72,185,Colorado,,23/06/1972
-larakr01w,G,68,130,,,30/09/1969
-larkier01w,F,73,210,North Carolina,,02/04/1986
-lassiam01w,F,73,160,Missouri,,09/06/1979
-lattaiv01w,G,66,143,North Carolina,,24/09/1984
-lavenja01w,C,76,185,Ohio State,,12/11/1988
-lawsoed01w,G,66,130,,,14/05/1979
-lawsoka01w,G,69,165,Tennessee,,14/02/1981
-lazicka01w,F-C,70,147,,,25/05/1980
-lehnish01w,G,69,147,Kansas State,,27/10/1986
-lennobe01w,G,68,143,Louisiana Tech,,04/12/1976
-leslili01w,C,77,170,USC,,07/07/1972
-leuchye01w,C,77,195,West Virginia,,30/04/1983
-levanni01w,G,68,163,Xavier,,17/05/1979
-levesni01w,G,63,115,Wake Forest,,11/04/1972
-lewista01w,F-C,74,212,Louisiana Tech,,10/07/1979
-lewisty01w,G,70,152,North Carolina State,,08/05/1979
-liebena01w,G,70,150,Old Dominion,,01/07/1958
-lilleta01w,G,66,130,Oregon,,29/02/1988
-listr01w,G-F,70,0,Providence,,0000-00-00
-littlca01w,F,74,180,North Carolina,,18/01/1985
-lloydan01w,F,74,175,Texas,,09/02/1965
-lobore01w,F,76,190,Connecticut,,06/10/1973
-lovelst01w,F,76,170,Purdue,,05/12/1974
-luckepa01w,F,73,165,Houston,,14/05/1975
-luzhe01w,G,68,144,,,23/11/1972
-lyttlsa01w,F,76,175,Houston,,20/09/1983
-mabikmw01w,G-F,71,165,,,27/07/1976
-macchla01w,F,73,169,,,24/05/1979
-machacl01w,C-F,77,180,Old Dominion,,04/10/1976
-mahonme01w,F,72,160,Kansas State,,13/02/1983
-mahonsh01w,F,76,178,Western Kentucky,,03/07/1977
-maigaha01w,G-F,73,160,Old Dominion,,25/04/1978
-malcona01w,F,73,170,Providence,,27/11/1975
-malloam01w,G,64,148,St. Joseph's,,21/04/1970
-malloso01w,C,77,210,Georgia Tech,,02/09/1981
-maltsev01w,G,71,165,,,20/12/1978
-mannish01w,F-C,75,186,North Carolina State,,20/03/1969
-mannkr01w,F,73,185,UC Santa Barbara,,10/08/1983
-mapprh01w,C,74,190,North Carolina State,,13/10/1969
-marcimi01w,G,70,154,Tennessee,,29/10/1973
-margiga01w,F,73,164,Drexel,,12/02/1987
-martima01w,F,76,172,UCLA,,17/04/1978
-martinu01w,G,69,167,,,29/02/1984
-mascira01w,F,72,169,,,30/09/1980
-maslemi01w,F,74,170,Penn State,,10/10/1974
-matteca01w,G,69,167,Ohio State,,22/08/1982
-matteka01w,C,80,240,Liberty,,17/11/1982
-maxwean01w,F,71,186,New Mexico State,,07/04/1974
-maxwemo01w,F,69,162,Louisiana Tech,,21/12/1976
-maytuet01w,F,72,0,Oklahoma,,28/04/1973
-mazzake01w,G,72,155,Penn State,,02/02/1982
-mccaibr01w,G,63,135,Florida,,21/09/1979
-mccaiti01w,G-F,70,167,Kentucky,,06/10/1976
-mccanra01w,F,73,161,North Carolina,,17/11/1986
-mccarja01w,C,74,205,Minnesota,,03/11/1982
-mccarjo01w,G,67,130,Illinois-Chicago,,26/10/1974
-mccarst01w,G-F,69,155,Purdue,,20/06/1977
-mcclaka01w,F-C,74,180,Georgia,,19/09/1965
-mcconsu01w,G,65,125,Penn State,,29/07/1966
-mccouan01w,F,73,160,Louisville,,10/09/1986
-mccrada01w,G-F,71,170,Kansas,,08/10/1987
-mccrani01w,G,71,158,Tennessee,,11/12/1971
-mccrini01w,G,68,125,USC,,22/03/1972
-mcculda01w,F-C,75,180,Western Kentucky,,18/01/1975
-mcgeepa01w,C-F,75,200,USC,,01/12/1962
-mcgheca01w,F-C,73,179,Tennessee,,06/03/1968
-mckivte01w,C-F,75,220,Tulane,,05/10/1980
-mcwilta01w,F-C,74,188,St. Edwards,,20/10/1970
-melvich01w,C-F,75,185,North Carolina State,,03/05/1976
-mendigi01w,G,71,174,Washington,,09/01/1982
-miaomi01w,G,71,153,,,03/06/1981
-millebr01w,C,76,0,Florida State,,10/08/1987
-milleco01w,G,69,140,Georgia,,06/09/1978
-milleke01w,G,70,140,Georgia,,06/09/1978
-millsta01w,C,75,232,Alabama,,29/02/1976
-miltode01w,F,73,185,Florida,,11/09/1974
-mitchle01w,G,65,130,Utah,,15/06/1985
-mizrali01w,G,67,130,Maryland,,24/06/1970
-moeggli01w,F,73,195,Michigan State,,25/05/1984
-moisead01w,G,66,140,,,06/12/1978
-mokanch01w,F,77,0,Mississippi State (jr-sr),Southeastern Illinois (fr-so),13/10/1988
-monroja01w,C,77,162,Florida State,,04/09/1988
-montaan01w,F,73,190,George Washington,,24/10/1980
-montgal01w,G-F,73,185,Georgia Tech,,12/11/1988
-montgre01w,G,67,139,Connecticut,,02/12/1986
-mooreja01w,C,73,207,Long Beach State,,06/11/1979
-mooreje01w,F-C,75,175,Connecticut,,09/07/1982
-moorelo01w,G,69,165,Tennessee,,21/03/1983
-moorema01w,F,72,175,Connecticut,,11/06/1989
-moorena01w,G,70,145,Alabama,,04/11/1984
-moorepe01w,F,72,135,Long Beach State,,25/01/1969
-mooreta01w,G-F,71,167,Wisconsin,,11/04/1980
-mooreyo01w,F,72,174,Mississippi,,01/07/1974
-moosca01w,F-C,78,182,Stanford,,23/05/1978
-morehmo01w,F-C,75,175,Auburn,,18/01/1974
-morgale01w,F,73,0,Francis Marion,,01/11/1969
-morrich01w,F,0,0,Southern Nazarene,,0000-00-00
-morrije01w,G,69,146,San Diego State,,21/07/1987
-morrila01w,F,73,160,Auburn,,26/05/1974
-morrizi01w,C,76,0,none,,15/02/1989
-mosbybe01w,F,73,172,Baylor,Florida,14/02/1984
-mosleju01w,F,73,170,Hawai'i,,17/03/1968
-moweje01w,C,77,236,Oregon,,25/02/1978
-mulitna01w,C,75,207,Stanford,,06/03/1976
-murphsh01w,G,71,164,USC,,15/04/1985
-nagyan01w,G,67,147,Florida International,,16/11/1971
-nanch01w,C,78,204,,,06/01/1983
-ndiayas01w,F-C,75,182,Southern Nazarene,,05/11/1973
-ndongem01w,C,74,170,,,25/04/1983
-nemcoev01w,F,74,178,,,03/12/1972
-neroja01w,F,71,180,Alabama-Birmingham,,08/11/1968
-nevescl01w,G,68,136,,,17/02/1975
-newtoch01w,G,71,154,Rutgers,,17/02/1983
-ngarsch01w,C,75,168,Missouri,,23/06/1983
-ngoyibe01w,C,76,195,,,26/08/1982
-nichoti01w,G,63,146,Penn State,,27/09/1973
-nieuwma01w,C,77,180,Valparaiso,,12/04/1980
-nikolmi01w,F,75,185,,,04/07/1971
-nnamach01w,G,72,156,Georgia Tech,,15/06/1985
-nolande01w,G-F,69,147,Georgia,,25/08/1979
-novosna01w,G,71,165,Notre Dame,,0000-00-00
-nygaava01w,F,73,166,Stanford,,13/03/1975
-ogayu01w,G,66,140,,,17/10/1982
-ogwumnn01w,F,74,0,Stanford,,02/07/1990
-oheaje01w,G-F,73,174,Australian Institute of Sport,,06/06/1987
-ohldeni01w,F-C,77,190,Kansas State,,13/03/1982
-olajuab01w,C,76,236,Oklahoma,,06/07/1988
-oneilkr01w,G-F,73,158,Washington,,12/04/1983
-orrki01w,G,66,141,Duke,,16/09/1975
-osburde01w,C,76,0,Oregon,,11/02/1972
-osipoir01w,C,77,190,,,25/06/1981
-owenhe01w,F,77,212,Stanford,,06/05/1976
-owenssh01w,C,74,175,Kentucky,,16/05/1978
-pageda01w,F,74,179,Nebraska,,14/11/1986
-pagemu01w,F,74,160,Florida,,18/09/1975
-paigeyo01w,G,66,147,West Virginia,,18/09/1983
-paliesa01w,G,67,159,,,23/07/1981
-palmewe01w,F,74,165,Virginia,,12/08/1974
-parisco01w,C,76,250,Oklahoma,,21/09/1987
-parkeca01w,F,76,175,Tennessee,,19/04/1986
-pascafl01w,C,76,187,,,19/01/1982
-paschti01w,F,73,165,Florida State,,22/03/1969
-pavlimi01w,F-C,75,175,Denver,,27/11/1977
-payeka01w,G,68,150,Stanford,,06/03/1974
-pederka01w,F,76,190,Stanford,,04/04/1989
-penicti01w,G,71,145,Old Dominion,,18/09/1974
-pennjo01w,F,72,160,South Carolina,,10/09/1979
-perazja01w,G-F,72,170,Maryland,,06/12/1960
-perkiji01w,G,68,155,Texas Tech,,23/02/1982
-perpeer01w,F-G,75,181,The Master's College,,05/06/1979
-perroki01w,G,65,130,SW Louisiana,,18/01/1967
-peterde01w,F,74,170,Notre Dame,,08/10/1989
-petroso01w,F,73,0,none,,18/02/1989
-pettibr01w,G,69,150,Florida,,01/01/1971
-philler01w,G,67,162,,,19/05/1985
-phillpo01w,F,74,173,Georgia,,13/01/1988
-phillta01w,F-C,74,200,Central Florida,,06/03/1969
-phillta02w,C,78,198,Xavier,,24/01/1989
-pierspl01w,F-C,74,181,Texas Tech,,30/08/1981
-plowdvi01w,F,72,0,Miami (FL),,22/07/1971
-pohleje01w,G,72,179,Stanford,,02/05/1989
-pollica01w,F,77,165,Texas,,16/03/1966
-pondeca01w,G,69,160,Rutgers,,07/01/1983
-potthan01w,F,73,191,Penn State,,12/06/1974
-powelel01w,G,68,150,Louisiana State,,09/08/1975
-powelni01w,F,74,175,Stanford,,22/06/1982
-prahasa01w,G,67,129,Ohio State,,23/01/1990
-pricear01w,G-F,69,133,Mississippi,,03/04/1985
-pricefr01w,G,69,178,Iowa,,28/04/1968
-priceka01w,G,70,148,Stephen F. Austin,,03/12/1975
-pridely01w,F-G,74,180,Kansas,,16/10/1978
-princep01w,G,69,167,Rutgers,,11/01/1988
-pringla01w,F-C,75,162,North Carolina,,11/09/1986
-queenbr01w,F,74,185,Boston College,,10/04/1984
-quiglal01w,G,70,140,DePaul,,20/06/1986
-quinnno01w,G,72,175,UCLA,,03/01/1985
-quinnte01w,F,76,165,Seton Hall,,07/09/1974
-radunha01w,C,75,187,,,10/01/1978
-raglafe01w,G,67,133,Oregon State,,03/02/1980
-randase01w,G,69,164,Tennessee,,07/02/1979
-rasmukr01w,F,76,174,Michigan State,,01/11/1978
-ravenbr01w,G,72,162,Texas,,01/08/1988
-raymost01w,G,65,139,Northern Illinois,,15/01/1985
-raymota01w,F,74,195,Connecticut,,12/04/1980
-reddja01w,F,73,164,Washington,,05/11/1977
-redmoka01w,G-F,73,0,Gonzaga,Washington,11/10/1988
-reedbr01w,F,73,168,Southern Mississippi,,17/02/1977
-reedch01w,F,73,165,Arkansas-Little Rock,,28/03/1989
-reedmi01w,G,71,165,Western Kentucky,,24/05/1973
-reidtr01w,F,71,150,North Carolina,,01/11/1976
-reissta01w,G,66,129,Virginia,,02/04/1970
-resska01w,F,76,194,Boston College,,26/06/1985
-reynoch01w,F,74,180,Houston,,08/02/1972
-rileyan01w,G,65,136,Oklahoma State,,22/07/1988
-rileyru01w,C,77,198,Notre Dame,,28/08/1979
-rizzoje01w,G,66,146,Connecticut,,15/05/1974
-roberav01w,G,69,145,Ohio State,,29/01/1970
-roberny01w,C,75,209,Old Dominion,,10/03/1976
-robinas01w,C,76,180,Tennessee,,12/08/1982
-robincr01w,F-G,71,155,SE Oklahoma State,,22/01/1974
-robinda01w,G,69,125,Oklahoma,,10/05/1989
-robinre01w,G,71,166,Virginia,,15/06/1978
-robinsc01w,G,71,155,Louisiana State,,09/01/1983
-rolanja01w,G-F,73,167,Purdue,,03/02/1975
-rossad01w,G,68,142,Texas Christian,,23/11/1984
-rouilni01w,G,67,130,Loyola Marymount,,23/01/1970
-roundsa01w,G,67,145,Georgia,,04/10/1976
-ruffje01w,G-F,71,140,Washington State,,12/09/1974
-rushle01w,F,73,175,Oklahoma,,25/10/1984
-ryankr01w,F,71,150,Sacramento State,,19/11/1972
-rycraeu01w,C,75,175,Cal State Fullerton,,06/12/1968
-salesny01w,G-F,72,184,Connecticut,,10/05/1976
-sampsch01w,G,71,175,Kansas,,01/09/1974
-sampsto01w,G,70,0,North Carolina,,02/03/1972
-samsh01w,F-G,72,160,Vanderbilt,,05/05/1974
-sanchis01w,G,70,152,,,28/11/1976
-sandeam01w,G,71,156,Hawai'i,,05/06/1983
-sandish01w,G,72,145,,,22/01/1969
-sanfona01w,F-C,76,200,Kansas,,10/05/1976
-sanniol01w,C,74,0,West Virginia,,21/08/1986
-santoal01w,C,77,181,,,02/12/1973
-santoke01w,F,75,188,,,10/11/1979
-sarenra01w,C,78,222,,,27/06/1974
-sauerpa01w,C,76,203,Connecticut,,08/12/1977
-saundja01w,F,71,145,Texas A&M,,21/08/1979
-saureau01w,G,70,163,,,31/10/1976
-savasla01w,G,68,134,Washington,,18/03/1974
-schumke01w,C,77,183,Connecticut,,14/10/1977
-schwege01w,G-F,72,160,Duke,,31/01/1979
-scottol01w,C,74,175,Stanford,,05/08/1976
-scottra01w,F,75,169,Colorado,,12/08/1975
-shakiel01w,F-C,75,190,,,02/06/1970
-sharpkb01w,G,69,145,Cincinnati,,18/04/1981
-sheetsh01w,G,66,130,Colorado,,15/08/1975
-shegoch01w,C,77,0,North Carolina,,22/02/1990
-shielas01w,G,70,155,SW Tennessee CC,,15/07/1985
-shudlca01w,C,72,0,Minnesota,,13/05/1972
-shulead01w,G,66,153,Georgia,,24/04/1969
-simondy01w,G,65,137,Arizona State,,29/09/1989
-simpsda01w,F,75,160,Houston,,11/04/1969
-slaisma01w,G,68,173,Cincinnati,,23/08/1973
-slauggw01w,F,75,181,Tulane,,01/07/1980
-slavtge01w,G,73,160,Florida International,,20/10/1979
-smithai01w,F,74,173,Louisiana State,,18/07/1980
-smithbr01w,F-C,75,195,Stanford,,30/04/1984
-smithch01w,G,67,140,Arkansas,,14/08/1975
-smithch02w,F,70,145,Stanford,,02/05/1975
-smithch03w,G,72,148,North Carolina,,23/08/1973
-smithcr01w,G,66,121,Iowa,,12/03/1984
-smithje01w,C,75,198,Michigan,,10/04/1982
-smithka01w,G-F,71,174,Ohio State,,04/06/1974
-smithki01w,F,73,158,Utah,,07/05/1984
-smithla01w,G,67,150,Mississippi State,,06/02/1974
-smithta01w,F-C,76,160,Iowa,,01/04/1977
-smithty01w,F,72,0,Delaware,,21/04/1985
-smithwa01w,G,71,175,Duke,,09/07/1985
-snellbe01w,G,69,170,University of Sydney,,01/10/1981
-snowmi01w,C,77,158,Tennessee,,20/03/1980
-sobrale01w,F,73,183,,,22/11/1974
-sobrama01w,C,75,163,,,23/03/1964
-spencsi01w,G,75,183,Tennessee,,07/03/1985
-spornra01w,F,74,150,,,26/05/1968
-stafftr01w,F,73,180,California,,11/11/1970
-staleda01w,G,66,134,Virginia,,04/05/1970
-stansti01w,F-C,75,183,North Carolina State,,16/01/1983
-starbka01w,G,73,153,Stanford,,30/07/1975
-stedika01w,F-G,72,173,Stanford,,11/12/1967
-stepama01w,C,80,187,,,23/02/1979
-stephre01w,G,71,160,UCLA,,28/12/1969
-stephst01w,C,76,205,Texas,,21/01/1982
-sterkca01w,F,74,170,Central Michigan,,0000-00-00
-stevema01w,F-C,75,166,Auburn,,04/02/1982
-stileja01w,G,68,144,Missouri State,,21/12/1978
-stillva01w,F-C,73,151,Kentucky,,14/05/1961
-stinsan01w,G,70,158,North Carolina State,,25/11/1967
-stiresh01w,F,71,208,Kansas State,,21/05/1972
-stockta01w,F-C,74,165,Florida,,29/01/1979
-streiju01w,F,74,165,,,14/05/1972
-stricsh01w,G-F,74,178,Tennessee,,30/07/1990
-strotan01w,G-F,75,166,Connecticut,,11/12/1983
-suberto01w,G,67,137,Virginia,,23/11/1974
-summela01w,C,74,167,,,13/12/1983
-sun-mju01w,C,73,168,,,12/10/1974
-suttota01w,C,76,199,Rutgers,,27/01/1978
-swanike01w,G,67,144,Connecticut,,10/08/1986
-swoopsh01w,F-G,72,145,Texas Tech,,25/03/1971
-swordca01w,C,78,210,Boston College,,19/07/1989
-sykesap01w,G-F,72,0,Rutgers,,30/07/1990
-tatede01w,G,68,150,Maryland,,13/05/1966
-tateso01w,G,66,157,Arkansas State,,07/09/1971
-tauradi01w,F-G,72,172,Connecticut,,11/06/1982
-tayloli01w,C,80,200,UC Santa Barbara,,20/05/1981
-taylope01w,F,73,168,,,24/05/1981
-teaslni01w,G,72,169,North Carolina,,22/03/1979
-teilaza01w,C,79,170,Western Illinois,,24/09/1983
-terryka01w,C-F,75,183,Georgia Tech,,21/10/1983
-thirdtr01w,F,71,160,Washington,,27/02/1968
-thomaca01w,F,75,200,Vanderbilt,,31/10/1985
-thomach01w,C,75,185,Georgia,,14/08/1982
-thomaja01w,G,69,145,Duke,,30/09/1989
-thomakr01w,C,77,195,Duke,,10/06/1989
-thomala01w,F,74,165,Mississippi State,,06/07/1981
-thomast01w,F,70,154,Michigan,,29/08/1978
-thompal01w,F,73,180,Texas Tech,,30/06/1976
-thompam01w,F,73,170,Oklahoma,,18/11/1987
-thomppa01w,F,73,193,Tennessee,,16/01/1975
-thompti01w,F,74,178,USC,,10/02/1975
-thorbsh01w,G,69,149,Utah,,07/08/1982
-thorner01w,G,70,150,Brigham Young,,19/05/1981
-threaro01w,G,67,150,Wisconsin,,01/07/1970
-tilliic01w,C-F,77,165,Duke,,06/12/1981
-timmsmi01w,G,67,132,,,28/06/1965
-tolerpe01w,G,68,132,Long Beach State,,24/03/1966
-tolivkr01w,G,67,130,Maryland,,27/01/1987
-torniel01w,F,73,160,,,27/05/1965
-torrele01w,C,75,171,Florida State,,06/04/1978
-traviti01w,G-F,71,145,Flordia,,20/03/1978
-tremich01w,G,66,142,Auburn,,20/10/1969
-tricetr01w,F-C,74,180,North Carolina State,,04/08/1965
-tunsine01w,G-F,73,170,Iowa State,,22/08/1970
-turneba01w,G-F,72,172,Connecticut,,08/06/1984
-tutermo01w,G,72,155,Arizona State,,25/08/1975
-tuvicsl01w,C,76,194,,,19/09/1977
-tzekopo01w,C,76,189,,,30/04/1968
-udokamf01w,F,72,187,DePaul,,16/06/1976
-ujhelpe01w,F-C,76,200,South Carolina,,17/12/1980
-umoh-it01w,G,67,140,Clemson,,21/02/1977
-valdeam01w,F,73,160,,,18/08/1976
-vandeco01w,G,68,130,Gonzaga,,08/02/1989
-vanemal01w,F,75,175,UCLA,,14/04/1968
-vangomi01w,C,78,187,Duke,,10/05/1977
-vaughki01w,C,76,208,Rutgers,,24/01/1987
-vaughkr01w,F,73,160,Virginia Commonwealth,,08/09/1986
-vealkr01w,G,70,150,,,24/07/1981
-veselja01w,F,75,195,none,,31/12/1983
-vidicbo01w,G,69,133,Oregon State,,07/01/1973
-viglida01w,G,70,157,Texas,,07/03/1975
-vilipda01w,F-C,76,207,,,30/03/1975
-vodicka01w,F-C,76,190,,,19/12/1972
-vodopna01w,F,75,181,,,06/04/1981
-voigtka01w,G,73,162,Wisconsin,,07/04/1975
-vukadmi01w,G,73,150,California,,18/11/1968
-walkeas01w,F-C,73,200,California,,24/02/1987
-walkeay01w,F,75,142,Louisiana Tech,,10/09/1979
-walkede01w,F,75,168,Virginia,,28/11/1977
-walkema01w,C,75,253,Pittsburgh,,17/10/1986
-walsema01w,F,74,184,Penn State,,28/10/1978
-wardvo01w,C,78,170,Tennessee,,16/03/1973
-warleav01w,C,75,0,Liberty,,17/05/1987
-washico01w,G,66,138,Notre Dame,,17/01/1971
-washito01w,F,71,160,Florida,,30/12/1977
-wautean01w,C,76,193,,,12/10/1980
-weathte01w,G,68,161,Louisiana Tech,,08/12/1965
-webbum01w,G-F,70,162,North Carolina State,,26/06/1975
-weberma01w,C,77,200,Iona,,01/06/1982
-weckeke01w,F,73,172,Kansas State,,16/12/1982
-whaleli01w,G,68,150,Minnesota,,09/05/1982
-whitede01w,F,71,180,Louisiana State,,03/04/1980
-whiteer01w,G,63,135,Louisiana State,,26/08/1986
-whiteta01w,G,67,154,Mississippi State,,27/09/1982
-whitiva01w,C-F,74,199,Stanford,,09/04/1972
-whitmta01w,F,74,190,Memphis,,05/06/1977
-whittje01w,C,77,176,,,05/09/1973
-whittkh01w,F,73,185,North Carolina State,,05/08/1986
-wickssu01w,F,75,191,Rutgers,,26/11/1966
-widemja01w,G,66,135,Stanford,,16/10/1975
-wiggica01w,G,71,154,Stanford,,14/02/1987
-wilkeda01w,G,65,121,Long Beach State,,27/02/1969
-wilkibr01w,C,75,185,Iowa State,,15/06/1983
-williad01w,F-C,77,170,USC,,15/02/1977
-willian01w,G,72,149,Illinois,,21/07/1983
-willibe01w,G,69,145,Texas,,09/11/1965
-willide01w,G,68,160,Louisiana Tech,,23/09/1972
-williki01w,G,66,136,DePaul,Westark CC,14/10/1974
-willile01w,F,72,200,Auburn,,10/02/1981
-willile02w,G-F,71,155,DePaul,,04/07/1979
-willili01w,G,71,170,UCLA,,13/06/1984
-willina01w,F-C,74,210,UCLA,,30/11/1970
-williri01w,G,66,135,Connecticut,,14/01/1976
-williri02w,G,67,165,Miami,,28/05/1990
-willisa01w,G-F,72,0,Auburn,,24/09/1973
-willish01w,G,66,135,Oregon,,14/04/1980
-willita01w,G,71,170,Auburn,,23/07/1974
-willito01w,G,68,138,Texas A&M,,11/01/1982
-williwe01w,G,67,141,Arkansas,,18/11/1978
-wilsoam01w,F,71,176,Louisiana Tech,,06/02/1977
-wirthch01w,F,73,185,Vanderbilt,,18/04/1987
-wisdoli01w,F,74,186,Purdue,,26/05/1986
-witheso01w,G,70,145,Florida,,06/07/1969
-wojtaju01w,G-F,72,175,Wisconsin-Green Bay,,09/04/1989
-wolteka01w,C,79,227,Connecticut,,15/08/1975
-wolvean01w,F-C,75,205,Oregon,,08/12/1978
-woodaly01w,G,72,160,Kansas,,12/08/1959
-woodki01w,C,76,0,Wisconsin-Green Bay,,16/09/1972
-wooslti01w,G,67,132,Tennessee,,04/04/1973
-wrighfa01w,G,66,130,San Diego State,,28/01/1973
-wrighmo01w,G,71,178,Virginia,,15/07/1988
-wrighsh01w,F,70,155,Purdue,,21/09/1981
-wrighta01w,G,71,165,Penn State,,20/11/1983
-wyckobr01w,F,73,183,Florida State,,30/03/1980
-wynneda01w,F,74,175,Seton Hall,,02/02/1975
-yamasli01w,G,73,190,Stanford,,02/06/1980
-yasenco01w,G,72,160,Purdue,,05/12/1973
-yilmane01w,F-C,76,193,,,06/06/1980
-youngca01w,G,69,175,Auburn,,28/07/1969
-youngso01w,F,73,165,Baylor,,15/12/1983
-youngta01w,F,74,166,James Madison,,30/10/1986
-zakalok01w,C,78,174,,,18/12/1977
-zarafr01w,G,70,146,,,08/12/1976
-zellosh01w,G,70,155,Pittsburgh,,28/08/1986
-zhengha01w,C,80,254,,,07/03/1967
-zirkozu01w,G,69,145,,,06/06/1980
-zollsh01w,G,67,148,Virginia,,11/07/1986
+abrahta01w,C,74.0,190,George Washington,none,27/09/1975
+abrossv01w,F,74.0,169,Connecticut,none,09/07/1980
+adairje01w,C,76.0,197,George Washington,none,19/12/1986
+adamsda01w,F-C,73.0,239,Texas A&M,Jefferson College (JC),19/02/1989
+adamsjo01w,C,75.0,180,New Mexico,none,24/05/1981
+aguilel01w,G,67.0,165,George Washington,none,15/10/1976
+ajavoma01w,G,68.0,160,Rutgers,none,07/05/1986
+alberma01w,G,64.0,167,Ohio State,none,12/04/1975
+aldrima01w,G,71.0,153,UNC Charlotte,none,15/09/1973
+alexaer01w,G,67.0,140,California-Santa Barbara,none,25/04/1975
+alhalta01w,F-G,72.0,149,DePaul,none,17/10/1974
+allench01w,G,71.0,135,Notre Dame,none,23/07/1986
+amachma01w,F,73.0,175,none,none,30/01/1978
+ambermo01w,F,76.0,169,Arizona State,none,21/12/1970
+anderam01w,F,72.0,167,Brigham Young,none,14/03/1984
+anderch01w,C,78.0,190,Vanderbilt,none,22/01/1981
+anderjo01w,G,68.0,166,Wisconsin,none,22/07/1986
+anderke01w,G,67.0,125,Wisconsin,none,17/05/1974
+andrame01w,F,71.0,165,Old Dominion,none,31/12/1975
+angelyv01w,G,68.0,160,Ohio State,none,14/10/1963
+anosini01w,C,75.0,211,Tennessee,none,27/02/1986
+appelja01w,C,76.0,210,Stanford,none,14/05/1988
+arcaija01w,G,71.0,147,none,none,11/04/1969
+artiska01w,F,73.0,155,Northeastern,none,09/07/1973
+askamma01w,C,77.0,198,none,none,07/08/1970
+atkinla01w,G-F,72.0,172,North Carolina,none,22/03/1984
+atunrmo01w,G-F,70.0,143,Texas A&M,none,14/04/1986
+augusse01w,F,72.0,179,Louisiana State,none,30/04/1984
+aycocan01w,G-F,74.0,172,Kansas,none,28/02/1973
+ayimmi01w,F,75.0,167,Pepperdine,none,06/05/1988
+azizle01w,F,75.0,177,Syracuse,none,28/02/1979
+azzije01w,G,68.0,143,Stanford,none,31/08/1968
+badertr01w,G,64.0,125,Boise State,none,26/02/1973
+bakerla01w,G,67.0,140,California,none,18/12/1968
+bakersh01w,G,68.0,125,Georgia,none,03/12/1982
+balesal01w,C,79.0,218,Duke,none,04/04/1985
+banchrh01w,C,75.0,185,Washington,none,01/05/1973
+baranel01w,F,77.0,182,Academy of Sport Moscow,none,28/01/1972
+barksla01w,G,70.0,156,North Carolina,none,03/10/1979
+barnead01w,F,71.0,165,Arizona,none,03/02/1977
+barnequ01w,C,77.0,185,Indiana,none,26/09/1976
+bassmi01w,F,75.0,184,Duke,none,02/12/1983
+batkosu01w,C,76.0,203,none,none,17/12/1980
+batteja01w,F,73.0,163,Notre Dame,none,26/03/1983
+battlas01w,F,72.0,170,Connecticut,none,31/05/1982
+bauerca01w,F-C,76.0,180,Montana State,none,27/06/1972
+beardal01w,G-F,71.0,160,Duke,none,14/05/1982
+becenry01w,G,66.0,140,Arizona State,Scottsdale CC (JC),11/08/1971
+beckki01w,G,68.0,125,George Washington,none,27/12/1985
+bellje01w,F,73.0,160,Florida International,none,26/05/1970
+bennije01w,F,75.0,185,Vanderbilt,none,06/10/1981
+berezva01w,C,76.0,167,Rice,none,10/04/1986
+berggas01w,G,70.0,170,Illinois,none,18/11/1976
+berrysh01w,F-C,75.0,175,Iowa,none,06/07/1967
+berthlu01w,F-C,74.0,188,Old Dominion,none,31/03/1978
+berubca01w,F,72.0,155,Connecticut,none,02/09/1975
+beviltu01w,G,67.0,145,none,none,19/07/1972
+bibbyje01w,G,67.0,139,none,none,23/08/1979
+bibrzag01w,G-F,74.0,168,none,none,21/10/1982
+birdsu01w,G,69.0,150,Connecticut,none,16/10/1980
+bishoab01w,F-C,74.0,167,none,none,29/11/1988
+bjedoni01w,C,78.0,195,none,none,18/05/1971
+bjorkan01w,F,72.0,166,Tennessee,none,14/07/1989
+bjorkte01w,C,76.0,175,Colorado,none,29/06/1982
+blackch01w,C,77.0,188,Duke,none,12/11/1985
+blackde01w,G,63.0,124,St. Joseph's,none,29/07/1966
+bladerh01w,G,67.0,138,Vanderbilt,none,29/10/1972
+blodgci01w,G,69.0,130,Maine,none,23/12/1975
+blueni01w,G,68.0,163,UCLA,none,29/03/1984
+blueoc01w,F,73.0,163,Miami (FL),none,18/08/1976
+bobbish01w,G,62.0,130,Tennessee,none,06/12/1985
+boddiwh01w,G,69.0,149,Auburn,none,23/01/1987
+boldeba01w,G,74.0,180,Louisiana Tech,none,16/06/1969
+boltoru01w,G,69.0,150,Auburn,none,25/05/1967
+bondla01w,G,67.0,132,Missouri,none,13/02/1984
+bonfisu01w,G,68.0,145,none,none,08/09/1974
+bonnede01w,G,76.0,136,Auburn,none,21/08/1987
+bookeka01w,C,73.0,170,Vanderbilt,none,10/04/1965
+bosweca01w,F-G,72.0,168,Illinois State,none,10/11/1962
+bouceje01w,G,68.0,130,Virginia,none,20/12/1973
+bouchke01w,F,74.0,163,none,none,13/01/1968
+bowenli01w,G,67.0,145,Michigan State,none,25/10/1983
+boydca01w,F,73.0,172,none,none,31/10/1975
+bradlki01w,F-C,77.0,185,Oral Roberts,none,26/08/1974
+brancli01w,G,64.0,167,Texas A&M,none,0000-00-00
+branzal01w,F,76.0,180,Florida International,none,17/07/1971
+branzge01w,F,76.0,175,Florida International,none,25/07/1976
+braxtja01w,F-C,75.0,178,Louisiana Tech,none,06/10/1973
+braxtka01w,F-C,78.0,210,Georgia,none,18/02/1983
+brazian01w,F,74.0,169,Texas Tech,none,18/09/1976
+brcanra01w,C,80.0,198,none,none,15/04/1967
+brelaje01w,F,75.0,170,North Carolina,none,23/02/1988
+bristre01w,G,70.0,139,Arizona,none,10/02/1978
+brogami01w,F,73.0,177,none,none,08/02/1973
+brondsa01w,G,67.0,136,U. Western Sydney,none,20/08/1968
+brownci01w,F-C,74.0,183,Long Beach State,none,16/03/1965
+brownco01w,G,69.0,150,North Carolina,none,21/10/1980
+browned01w,G-F,69.0,163,Texas,none,01/07/1978
+brownki01w,G,70.0,134,Georgia,none,13/01/1979
+brownla01w,C,75.0,180,Louisiana Tech,none,01/12/1972
+brownle01w,F,72.0,166,Virginia,none,03/06/1977
+brownru01w,F,74.0,175,Furman,none,05/05/1972
+brumfma01w,G,68.0,133,Rice,none,06/06/1978
+brungje01w,F,73.0,165,Penn State,none,16/04/1982
+brunsre01w,F,75.0,175,Georgetown,none,11/12/1981
+bullevi01w,F,75.0,185,Maryland,none,04/10/1967
+burgean01w,G,67.0,141,none,none,10/04/1969
+burgehe01w,C,77.0,195,Virginia,none,11/11/1971
+burgehe02w,F,77.0,180,Virginia,none,11/11/1971
+burgeli01w,F,73.0,173,Alabama,none,27/07/1969
+burraal01w,C,75.0,218,Louisiana Tech,none,23/06/1975
+burseja01w,C,77.0,199,Tulane,none,19/05/1979
+buttsta01w,G,71.0,160,Tennessee,none,10/03/1982
+byearla01w,G-F,71.0,206,DePaul,NE Oklahoma A&M (JC),12/08/1973
+byrdla01w,G,66.0,131,Eastern Michigan,none,01/02/1960
+cabezli01w,F-C,75.0,178,Central Florida CC,none,25/10/1973
+cainke01w,C,78.0,220,Tennessee,none,16/05/1989
+camba01w,C,80.0,215,none,none,18/08/1991
+campbed01w,G,68.0,152,Texas,none,26/11/1968
+campbmi01w,F-C,77.0,170,USC,none,20/02/1974
+cantydo01w,G-F,69.0,162,Alabama,none,02/03/1977
+careyja01w,G,66.0,135,Texas,none,12/03/1981
+carsoes01w,G-F,72.0,165,Rutgers,none,28/07/1986
+carteam01w,F,74.0,185,Louisiana State,none,21/06/1982
+cartede01w,G-F,72.0,185,Georgia,none,03/01/1972
+cartesy01w,G,66.0,167,Texas A&M,none,18/11/1990
+cashsw01w,F,73.0,162,Connecticut,none,22/09/1979
+cassija01w,C,75.0,187,Maine,none,12/09/1978
+castriz01w,F-G,72.0,140,none,none,13/03/1982
+catchta01w,F,73.0,167,Tennessee,none,21/07/1979
+caufila01w,G,69.0,159,Oklahoma,none,25/05/1980
+cebriel01w,C,77.0,190,none,none,07/02/1971
+chacoke01w,G,69.0,151,George Mason,none,21/12/1974
+chambco01w,G,69.0,160,Georgia,none,06/07/1985
+chanequ01w,G,71.0,160,Louisiana State,none,14/04/1986
+chapmji01w,C,75.0,206,Indiana,none,04/11/1979
+charlda01w,F-C,75.0,141,Tennessee,none,22/11/1968
+charlti01w,C,76.0,198,Connecticut,none,05/12/1988
+chaseso01w,G,69.0,150,Maryland,none,09/03/1976
+cheekjo01w,F,73.0,201,Duke,none,25/06/1988
+cheruam01w,G,70.0,140,Indiana,none,18/04/1970
+chestfe01w,F,75.0,180,DePaul,none,24/03/1988
+choneka01w,C,75.0,180,North Carolina State,none,11/01/1981
+chriska01w,F,74.0,171,UC Santa Barbara,none,16/11/1980
+chriska02w,F,72.0,180,Duke,none,11/09/1989
+chrissh01w,F,73.0,170,Arkansas,none,15/02/1982
+cironkr01w,G,68.0,150,Illinois State,none,19/05/1987
+clarkal01w,F,70.0,167,Middle Tennessee State,none,07/07/1987
+clarkma01w,F-C,75.0,167,Arizona,none,01/01/1971
+clearmi01w,G,66.0,126,Australian Institute of Sport,none,16/07/1974
+clinest01w,G,65.0,148,UC Santa Barbara,none,22/04/1978
+coggicl01w,G,71.0,170,Kansas State,none,19/05/1985
+cokermo01w,F,73.0,180,Old Dominion,none,28/11/1982
+colemco01w,F,72.0,170,Ohio State,none,13/04/1981
+colemma01w,G-F,73.0,160,Maryland,none,04/01/1987
+colleka01w,G-F,70.0,145,Maryland,none,17/03/1971
+colsosy01w,G,68.0,140,Texas A&M,none,06/08/1989
+compame01w,G,69.0,143,St. Joseph's,none,18/09/1975
+congran01w,F-C,74.0,183,Mercer,none,03/06/1970
+conklab01w,F,75.0,175,Tennessee,none,10/02/1975
+consuca01w,G,68.0,144,Iowa,none,04/03/1979
+coopeca01w,C,76.0,176,Purdue,none,05/02/1979
+coopecy01w,G,70.0,150,USC,none,14/04/1963
+crawlsy01w,F-C,77.0,187,North Carolina,none,27/09/1972
+crockda01w,F,73.0,158,Baylor,none,11/02/1981
+crockwi01w,F,74.0,215,Connecticut,none,05/07/1984
+cronika01w,G,72.0,155,Colorado State,none,08/09/1977
+crosssh01w,G,70.0,155,Tennessee,none,07/09/1983
+crumpca01w,G,70.0,158,Alabama,none,29/10/1962
+cummiki01w,F,75.0,188,Long Beach State,none,29/08/1963
+cunnibe01w,G,72.0,163,Notre Dame,none,05/06/1975
+cunnida01w,F,72.0,187,Rutgers,none,27/01/1980
+cunnima01w,F-C,76.0,167,Vanderbilt,none,20/05/1973
+currimo01w,F,72.0,177,Duke,none,25/02/1983
+curryed01w,G,64.0,138,Oregon,none,09/07/1979
+dalesst01w,G-F,72.0,155,Oklahoma,none,05/09/1979
+daleygr01w,G,66.0,147,Tulane,none,26/06/1978
+darlihe01w,G,66.0,164,Penn State,none,29/08/1978
+davenje01w,C,77.0,215,Ohio State,none,24/06/1985
+davisbr01w,G,72.0,172,Oregon,none,01/01/1983
+daviscl01w,F,73.0,165,Texas,none,04/06/1967
+davisde01w,G,67.0,138,Vanderbilt,none,08/11/1984
+davisla01w,G,67.0,145,Tennessee,none,08/10/1974
+davista01w,F,70.0,160,Washington,none,25/09/1972
+davista02w,G,71.0,167,Florida State,none,07/06/1987
+dedenka01w,F,76.0,170,Washington,none,23/09/1969
+deforan01w,G,70.0,160,Nebraska,none,14/04/1976
+derevje01w,G,70.0,140,George Mason,none,29/03/1982
+desouer01w,F-C,77.0,190,none,none,03/03/1982
+dickeke01w,F,71.0,165,Texas Tech,none,20/04/1978
+dillata01w,G,69.0,154,Texas,none,06/05/1981
+dixonin01w,C,75.0,167,California,none,16/09/1972
+dixonta01w,G,69.0,148,Kansas,none,14/12/1975
+doagela01w,G,66.0,137,Nebraska,none,15/05/1975
+domonna01w,G,70.0,132,Iowa,none,28/09/1975
+donapbe01w,F-C,74.0,195,Stanford,none,27/08/1980
+doronsh01w,G,69.0,145,Maryland,none,01/04/1985
+dossaci01w,C,77.0,187,none,none,31/01/1975
+douglka01w,G-F,72.0,167,Purdue,none,07/05/1979
+duffyme01w,G,67.0,135,Notre Dame,none,13/07/1984
+dunlavi01w,F,73.0,160,Kentucky,none,19/09/1989
+dupreca01w,F,74.0,162,Temple,none,16/08/1984
+dydekka01w,F-C,79.0,190,Evangel,none,21/03/1970
+edwarmi01w,G,69.0,150,Rutgers,none,06/03/1966
+edwarsi01w,C,76.0,164,Iowa,none,17/11/1973
+edwarte01w,G-F,71.0,155,Georgia,none,09/07/1964
+edwarto01w,G,70.0,160,Tennessee,none,13/03/1968
+elysh01w,F,74.0,182,Tennessee,none,09/08/1983
+enissh01w,F-C,73.0,185,Alabama,none,03/12/1974
+erbsu01w,C,78.0,240,North Carolina State,none,25/07/1977
+ervinla01w,F,76.0,171,Arkansas,none,24/03/1985
+evansda01w,G,67.0,167,James Madison,none,30/06/1989
+evansde01w,G,64.0,125,Virginia,none,11/10/1970
+fallotr01w,G-F,75.0,165,none,none,23/07/1972
+farriba01w,C-F,75.0,200,Tulane,none,10/09/1976
+feastal01w,F,71.0,168,Harvard,none,11/02/1976
+feifesu01w,G,73.0,162,none,none,29/01/1979
+feldeja01w,F,73.0,167,Southern Mississippi,none,16/10/1969
+ferdima01w,G,69.0,153,Louisiana State,none,13/10/1978
+fernama01w,G,71.0,138,none,none,21/12/1981
+ferrama01w,F,75.0,190,none,none,11/02/1972
+figgsuk01w,G,69.0,142,Purdue,none,31/03/1977
+fijalis01w,C,77.0,200,Colorado,none,23/05/1972
+firsool01w,C,78.0,215,Kansas State,none,23/04/1976
+floremi01w,G,66.0,125,Stanford,none,19/10/1977
+flukety01w,C,77.0,209,Tennessee,none,27/12/1984
+folklkr01w,F,74.0,190,Stanford,none,19/12/1975
+fordch01w,F,75.0,198,Louisiana Tech,none,06/06/1981
+fordki01w,G-F,70.0,153,Georgia Tech,none,04/04/1975
+fordst01w,F,74.0,185,Georgia,none,14/01/1969
+fosteto01w,F,73.0,175,Iowa,none,16/10/1971
+fowlesy01w,C,78.0,200,Louisiana State,none,06/10/1985
+francde01w,F,70.0,193,Iowa State,none,24/08/1975
+frankaq01w,G,64.0,154,Texas A&M,none,29/09/1985
+frankba01w,F-C,74.5,167,Wisconsin,none,0000-00-00
+frazeme01w,F,75.0,191,Liberty,none,29/03/1987
+freemla01w,F,73.0,175,Auburn,none,17/03/1971
+fresest01w,G,68.0,126,Iowa State,none,23/09/1976
+frettla01w,F,75.0,170,Georgia,none,12/06/1975
+friertr01w,F,74.0,186,Louisiana Tech,none,23/08/1979
+frohlli01w,F-C,75.0,185,none,none,23/06/1979
+frostsh01w,C,76.0,184,Tennessee,none,19/12/1966
+futreca01w,G,70.0,154,Duquesne,none,10/07/1982
+gaithka01w,C,75.0,170,Notre Dame,none,13/08/1975
+gamblam01w,F,70.0,163,Arizona,none,17/12/1964
+ganttr01w,C,74.0,181,Lamar,none,10/10/1971
+garcibe01w,G,65.0,135,none,none,03/09/1976
+gardike01w,F,73.0,168,Virginia Tech,none,19/05/1984
+gardnan01w,F-C,75.0,190,Howard,none,23/12/1979
+garnean01w,F-C,75.0,160,Penn State,none,05/01/1979
+gaydeco01w,G,69.0,150,Louisiana State,none,11/05/1971
+gaypi01w,G-F,71.0,183,Louisiana State,none,21/08/1974
+gearlka01w,G-F,73.0,184,Purdue,none,26/10/1984
+gessiki01w,F,75.0,175,USC,none,29/12/1970
+gibsoke01w,F-G,70.0,136,Maryland,none,10/11/1976
+gilbrbr01w,G,73.0,167,USC,none,16/08/1990
+gilloje01w,F-C,75.0,180,Mississippi,none,13/06/1964
+gilmous01w,G,71.0,158,Rutgers,none,24/08/1978
+gisseka01w,F,73.0,178,Penn State,North Carolina State,27/07/1985
+givench01w,G,70.0,167,Middle Tennessee State,none,26/07/1985
+godbyli01w,F-C,78.0,163,Auburn,none,17/10/1968
+gomisem01w,G,71.0,134,none,none,18/10/1983
+goodemo01w,G,66.0,130,Stanford,none,08/02/1972
+goodeti01w,F,71.0,165,Iowa,none,23/10/1975
+goodlsa01w,C,77.0,239,Georgia Tech,none,09/08/1990
+goodsad01w,F,72.0,165,Old Dominion,none,19/10/1966
+gordobr01w,F,72.0,159,Tennessee,none,27/04/1967
+goringi01w,C,79.0,225,North Carolina State (jr-sr),Arkansas-Fort Smith (fr-so),07/06/1983
+gortmsh01w,G,70.0,158,South Carolina,none,07/12/1979
+grahama01w,C,75.0,240,Houston,none,18/12/1970
+granter01w,G,68.0,125,Texas Tech,none,13/06/1984
+gravede01w,C,77.0,212,Howard,none,16/09/1975
+graylal01w,G,68.0,176,California,none,21/04/1987
+grecomi01w,G,69.0,145,UCLA,none,24/03/1980
+greenci01w,C,77.0,183,Texas Tech,none,04/04/1983
+greenka01w,G,70.0,170,Connecticut,none,13/07/1987
+grginve01w,F,73.0,160,none,none,13/01/1975
+griffke01w,F,74.0,179,Nebraska,none,02/07/1987
+griffyo01w,C-F,75.0,188,Florida Atlantic,none,01/03/1970
+groomla01w,G-F,70.0,160,Georgia,none,12/09/1970
+grubigo01w,G,71.0,165,none,none,20/08/1972
+grudasa01w,F-C,76.0,185,none,none,25/06/1987
+guytowa01w,F,73.0,178,South Florida,none,14/10/1965
+hagiwmi01w,G,71.0,161,none,none,27/04/1970
+hairska01w,F,72.0,150,Temple,none,18/08/1985
+hallam01w,F,75.0,180,Washington,none,29/12/1977
+hallvi01w,F,73.0,180,Texas,none,03/10/1969
+hamblan01w,G,70.0,170,Iowa,none,30/09/1976
+hammobe01w,G,66.0,136,Colorado State,none,11/03/1977
+hamptky01w,F,74.0,210,Arizona State,none,03/11/1962
+hamzoro01w,G,69.0,152,none,none,17/08/1970
+hardili01w,G,68.0,139,Duke,none,12/06/1984
+hardish01w,G,69.0,165,Louisiana Tech,none,27/06/1969
+harpela01w,F-C,77.0,190,Maryland,none,11/04/1986
+harriam01w,F,77.0,202,Xavier,none,16/01/1988
+harrido01w,F,75.0,190,Old Dominion,none,29/09/1966
+harrifr01w,G,72.0,154,Texas,none,12/03/1965
+harrili01w,F,73.0,164,Tennessee,none,02/01/1971
+harrokr01w,G,64.0,139,none,none,04/03/1975
+haydeva01w,C,76.0,240,Florida,none,05/06/1982
+hayesti01w,G,70.0,167,Connecticut,none,20/09/1989
+haynikr01w,G,69.0,147,Michigan State,none,17/06/1983
+headde01w,G,70.0,160,Tennessee,none,16/08/1970
+hedgpch01w,G,69.0,143,Stanford,none,17/02/1972
+hemmera01w,F-C,75.0,167,Stanford,none,02/04/1973
+hendene01w,G,68.0,144,Texas,none,28/02/1973
+hendetr01w,C,75.0,200,Georgia,none,31/12/1974
+henniso01w,G,67.0,143,Stanford,none,04/10/1969
+henryan01w,F,75.0,205,Florida,none,13/02/1986
+herriam01w,C,76.0,189,Iowa,none,06/06/1977
+hibbeka01w,G-F,70.0,140,Louisiana State,none,29/09/1977
+hicksje01w,F-C,76.0,188,Maryland,none,02/12/1971
+hightal01w,G,70.0,139,Louisiana State,none,06/04/1988
+hillec01w,G,67.0,173,Northern Illinois,none,06/04/1971
+hledeko01w,G,69.0,150,Duquesne,none,29/03/1975
+hodgeda01w,G-F,73.0,170,St. Joseph's,none,21/01/1968
+hodgedo01w,G,69.0,160,Louisiana State,none,19/07/1982
+hodgero01w,G,71.0,165,Florida State,none,19/07/1982
+hodgesa01w,F-G,69.0,167,New Orleans,none,31/07/1962
+hoffmeb01w,F,74.0,215,USC,none,27/08/1982
+holdsch01w,F,74.0,172,Tennessee,none,09/08/1977
+hollake01w,G,68.0,129,Georgia,none,05/11/1974
+holliqu01w,C,77.0,201,Virginia Commonwealth,none,15/11/1988
+holmejo01w,F,70.0,150,Purdue,none,31/03/1969
+holmese01w,G-F,73.0,155,UNLV,none,13/06/1986
+holtam01w,F,72.0,168,Middle Tennessee State,none,07/06/1985
+hopeky01w,C,74.0,165,Miami (FL),none,23/11/1977
+hopsosu01w,F-C,74.0,175,Mars Hill,none,21/06/1974
+hornbal01w,G,71.0,155,Tennessee,none,16/10/1985
+houstch01w,F,72.0,189,Connecticut,none,10/04/1986
+houtsas01w,G,66.0,140,Georgia,none,31/12/1987
+howarje01w,G,66.0,130,North Carolina State,none,21/01/1975
+howarme01w,G,69.0,145,SW Missouri State,none,02/04/1972
+hudsopa01w,F,71.0,139,Northwestern State,none,19/09/1968
+humphta01w,C,75.0,190,Georgia,none,29/12/1985
+ibekwif01w,F,74.0,167,Arizona,none,05/10/1989
+irvinsa01w,F,75.0,185,Texas Christian,none,23/02/1982
+ivanyda01w,G,70.0,135,Florida International,none,18/03/1976
+iveyni01w,G,67.0,149,Notre Dame,none,24/09/1977
+jacksan01w,C,76.0,205,Texas,none,30/03/1976
+jacksde01w,F,74.0,155,Alabama-Birmingham,none,15/12/1979
+jacksgw01w,F,75.0,182,Tennessee,none,23/10/1980
+jacksla01w,F-C,77.0,187,none,none,11/05/1981
+jacksta01w,F-C,75.0,179,Florida,none,03/12/1962
+jacksta02w,G,66.0,118,Louisiana Tech,none,22/04/1978
+jacksti01w,F,71.0,148,Iowa,none,21/04/1972
+jacksti02w,F,75.0,185,Texas,none,26/04/1985
+jacobam01w,G,68.0,152,Boston College,none,29/06/1982
+jacobje01w,G,68.0,130,Purdue,none,20/02/1973
+jamesta01w,F,69.0,158,Miami (FL),none,13/06/1984
+januabr01w,G,68.0,144,Arizona State,none,11/01/1987
+jekaban01w,G,69.0,180,none,none,12/08/1983
+joensca01w,G-F,71.0,165,George Washington,none,12/02/1981
+johnsad01w,G,70.0,154,Ohio State,none,05/02/1974
+johnsch01w,C,75.0,185,Wisconsin-Green Bay,none,19/03/1981
+johnsda01w,C,74.0,197,Tennessee,none,19/02/1973
+johnsgl01w,F,75.0,170,Tennessee,none,27/07/1990
+johnsja01w,F,72.0,201,Kansas,none,16/03/1979
+johnsla01w,F,73.0,150,Memphis,none,17/08/1975
+johnsle01w,F,74.0,220,Western Kentucky,none,12/01/1975
+johnsni01w,G,69.0,146,Alabama,none,07/02/1973
+johnspo01w,C,75.0,165,Michigan,none,06/11/1975
+johnssh01w,G,67.0,152,South Carolina,none,18/08/1974
+johnssh02w,G,71.0,167,Miami,none,08/12/1990
+johnste01w,G,63.0,132,Louisiana State,none,06/09/1982
+johnsti01w,C,76.0,240,Tennessee,none,27/12/1975
+johnsvi01w,G-F,69.0,150,Louisiana Tech,none,15/04/1972
+jollyke01w,G,69.0,148,Tennessee,none,03/05/1977
+jonesas01w,F,74.0,196,Connecticut,none,01/08/1980
+jonesch01w,G-F,69.0,150,Houston,none,25/03/1982
+jonesja01w,G,69.0,158,UNC Charlotte,none,13/09/1978
+jonesla01w,G,73.0,180,Ohio State,none,24/07/1977
+jonesma01w,G,70.0,150,North Carolina,none,12/10/1975
+jonesme01w,G,69.0,147,Florida,none,21/07/1973
+jordapa01w,C,75.0,205,UNLV,none,27/04/1968
+joyneja01w,F,70.0,154,UCLA,none,03/03/1962
+kaplaan01w,C,77.0,180,Stanford,none,22/04/1973
+kausaan01w,F,72.0,155,Emporia State,none,30/11/1970
+kellycr01w,F,74.0,190,Western Kentucky,none,15/09/1986
+kingbsu01w,G,67.0,135,Stanford,none,27/07/1981
+kingija01w,G,68.0,150,none,none,20/01/1976
+kizerly01w,F-C,76.0,215,Maryland,none,04/04/1990
+klimezu01w,F,74.0,181,Vanderbilt,none,21/01/1979
+kobryew01w,F-C,75.0,210,none,none,07/05/1982
+koehnla01w,G,68.0,145,Kansas State,none,13/05/1982
+korstil01w,G,70.0,160,none,none,30/05/1980
+kossgr01w,F,73.0,145,Montana,none,12/06/1974
+kostaan01w,G,67.0,137,none,none,26/03/1978
+kostita01w,F,73.0,163,Oregon State,none,10/11/1972
+kraayca01w,F,76.0,180,Oregon,none,30/09/1981
+kubikni01w,G,69.0,145,Nebraska,none,01/03/1978
+kukloan01w,G,72.0,150,none,none,16/07/1971
+laceyal01w,G,72.0,159,Iowa State,none,26/12/1987
+lacyje01w,F,75.0,175,Pepperdine,none,21/03/1983
+lacyna01w,G,70.0,165,UTEP (sr),Texas Christian (fr-jr),08/07/1985
+lacyve01w,C,76.0,234,Louisiana Tech,none,09/02/1967
+lambesh01w,G,67.0,125,Baylor,Grayson County (JC),21/07/1980
+lambmo01w,C,77.0,206,USC,none,11/10/1964
+langeme01w,F-C,78.0,205,UNLV,none,28/04/1969
+langhcr01w,F-C,74.0,184,Maryland,none,27/10/1986
+langja01w,F,72.0,185,Colorado,none,23/06/1972
+larakr01w,G,68.0,130,none,none,30/09/1969
+larkier01w,F,73.0,210,North Carolina,none,02/04/1986
+lassiam01w,F,73.0,160,Missouri,none,09/06/1979
+lattaiv01w,G,66.0,143,North Carolina,none,24/09/1984
+lavenja01w,C,76.0,185,Ohio State,none,12/11/1988
+lawsoed01w,G,66.0,130,none,none,14/05/1979
+lawsoka01w,G,69.0,165,Tennessee,none,14/02/1981
+lazicka01w,F-C,70.0,147,none,none,25/05/1980
+lehnish01w,G,69.0,147,Kansas State,none,27/10/1986
+lennobe01w,G,68.0,143,Louisiana Tech,none,04/12/1976
+leslili01w,C,77.0,170,USC,none,07/07/1972
+leuchye01w,C,77.0,195,West Virginia,none,30/04/1983
+levanni01w,G,68.0,163,Xavier,none,17/05/1979
+levesni01w,G,63.0,115,Wake Forest,none,11/04/1972
+lewista01w,F-C,74.0,212,Louisiana Tech,none,10/07/1979
+lewisty01w,G,70.0,152,North Carolina State,none,08/05/1979
+liebena01w,G,70.0,150,Old Dominion,none,01/07/1958
+lilleta01w,G,66.0,130,Oregon,none,29/02/1988
+listr01w,G-F,70.0,167,Providence,none,0000-00-00
+littlca01w,F,74.0,180,North Carolina,none,18/01/1985
+lloydan01w,F,74.0,175,Texas,none,09/02/1965
+lobore01w,F,76.0,190,Connecticut,none,06/10/1973
+lovelst01w,F,76.0,170,Purdue,none,05/12/1974
+luckepa01w,F,73.0,165,Houston,none,14/05/1975
+luzhe01w,G,68.0,144,none,none,23/11/1972
+lyttlsa01w,F,76.0,175,Houston,none,20/09/1983
+mabikmw01w,G-F,71.0,165,none,none,27/07/1976
+macchla01w,F,73.0,169,none,none,24/05/1979
+machacl01w,C-F,77.0,180,Old Dominion,none,04/10/1976
+mahonme01w,F,72.0,160,Kansas State,none,13/02/1983
+mahonsh01w,F,76.0,178,Western Kentucky,none,03/07/1977
+maigaha01w,G-F,73.0,160,Old Dominion,none,25/04/1978
+malcona01w,F,73.0,170,Providence,none,27/11/1975
+malloam01w,G,64.0,148,St. Joseph's,none,21/04/1970
+malloso01w,C,77.0,210,Georgia Tech,none,02/09/1981
+maltsev01w,G,71.0,165,none,none,20/12/1978
+mannish01w,F-C,75.0,186,North Carolina State,none,20/03/1969
+mannkr01w,F,73.0,185,UC Santa Barbara,none,10/08/1983
+mapprh01w,C,74.0,190,North Carolina State,none,13/10/1969
+marcimi01w,G,70.0,154,Tennessee,none,29/10/1973
+margiga01w,F,73.0,164,Drexel,none,12/02/1987
+martima01w,F,76.0,172,UCLA,none,17/04/1978
+martinu01w,G,69.0,167,none,none,29/02/1984
+mascira01w,F,72.0,169,none,none,30/09/1980
+maslemi01w,F,74.0,170,Penn State,none,10/10/1974
+matteca01w,G,69.0,167,Ohio State,none,22/08/1982
+matteka01w,C,80.0,240,Liberty,none,17/11/1982
+maxwean01w,F,71.0,186,New Mexico State,none,07/04/1974
+maxwemo01w,F,69.0,162,Louisiana Tech,none,21/12/1976
+maytuet01w,F,72.0,167,Oklahoma,none,28/04/1973
+mazzake01w,G,72.0,155,Penn State,none,02/02/1982
+mccaibr01w,G,63.0,135,Florida,none,21/09/1979
+mccaiti01w,G-F,70.0,167,Kentucky,none,06/10/1976
+mccanra01w,F,73.0,161,North Carolina,none,17/11/1986
+mccarja01w,C,74.0,205,Minnesota,none,03/11/1982
+mccarjo01w,G,67.0,130,Illinois-Chicago,none,26/10/1974
+mccarst01w,G-F,69.0,155,Purdue,none,20/06/1977
+mcclaka01w,F-C,74.0,180,Georgia,none,19/09/1965
+mcconsu01w,G,65.0,125,Penn State,none,29/07/1966
+mccouan01w,F,73.0,160,Louisville,none,10/09/1986
+mccrada01w,G-F,71.0,170,Kansas,none,08/10/1987
+mccrani01w,G,71.0,158,Tennessee,none,11/12/1971
+mccrini01w,G,68.0,125,USC,none,22/03/1972
+mcculda01w,F-C,75.0,180,Western Kentucky,none,18/01/1975
+mcgeepa01w,C-F,75.0,200,USC,none,01/12/1962
+mcgheca01w,F-C,73.0,179,Tennessee,none,06/03/1968
+mckivte01w,C-F,75.0,220,Tulane,none,05/10/1980
+mcwilta01w,F-C,74.0,188,St. Edwards,none,20/10/1970
+melvich01w,C-F,75.0,185,North Carolina State,none,03/05/1976
+mendigi01w,G,71.0,174,Washington,none,09/01/1982
+miaomi01w,G,71.0,153,none,none,03/06/1981
+millebr01w,C,76.0,167,Florida State,none,10/08/1987
+milleco01w,G,69.0,140,Georgia,none,06/09/1978
+milleke01w,G,70.0,140,Georgia,none,06/09/1978
+millsta01w,C,75.0,232,Alabama,none,29/02/1976
+miltode01w,F,73.0,185,Florida,none,11/09/1974
+mitchle01w,G,65.0,130,Utah,none,15/06/1985
+mizrali01w,G,67.0,130,Maryland,none,24/06/1970
+moeggli01w,F,73.0,195,Michigan State,none,25/05/1984
+moisead01w,G,66.0,140,none,none,06/12/1978
+mokanch01w,F,77.0,167,Mississippi State (jr-sr),Southeastern Illinois (fr-so),13/10/1988
+monroja01w,C,77.0,162,Florida State,none,04/09/1988
+montaan01w,F,73.0,190,George Washington,none,24/10/1980
+montgal01w,G-F,73.0,185,Georgia Tech,none,12/11/1988
+montgre01w,G,67.0,139,Connecticut,none,02/12/1986
+mooreja01w,C,73.0,207,Long Beach State,none,06/11/1979
+mooreje01w,F-C,75.0,175,Connecticut,none,09/07/1982
+moorelo01w,G,69.0,165,Tennessee,none,21/03/1983
+moorema01w,F,72.0,175,Connecticut,none,11/06/1989
+moorena01w,G,70.0,145,Alabama,none,04/11/1984
+moorepe01w,F,72.0,135,Long Beach State,none,25/01/1969
+mooreta01w,G-F,71.0,167,Wisconsin,none,11/04/1980
+mooreyo01w,F,72.0,174,Mississippi,none,01/07/1974
+moosca01w,F-C,78.0,182,Stanford,none,23/05/1978
+morehmo01w,F-C,75.0,175,Auburn,none,18/01/1974
+morgale01w,F,73.0,167,Francis Marion,none,01/11/1969
+morrich01w,F,73.2,167,Southern Nazarene,none,0000-00-00
+morrije01w,G,69.0,146,San Diego State,none,21/07/1987
+morrila01w,F,73.0,160,Auburn,none,26/05/1974
+morrizi01w,C,76.0,167,none,none,15/02/1989
+mosbybe01w,F,73.0,172,Baylor,Florida,14/02/1984
+mosleju01w,F,73.0,170,Hawai'i,none,17/03/1968
+moweje01w,C,77.0,236,Oregon,none,25/02/1978
+mulitna01w,C,75.0,207,Stanford,none,06/03/1976
+murphsh01w,G,71.0,164,USC,none,15/04/1985
+nagyan01w,G,67.0,147,Florida International,none,16/11/1971
+nanch01w,C,78.0,204,none,none,06/01/1983
+ndiayas01w,F-C,75.0,182,Southern Nazarene,none,05/11/1973
+ndongem01w,C,74.0,170,none,none,25/04/1983
+nemcoev01w,F,74.0,178,none,none,03/12/1972
+neroja01w,F,71.0,180,Alabama-Birmingham,none,08/11/1968
+nevescl01w,G,68.0,136,none,none,17/02/1975
+newtoch01w,G,71.0,154,Rutgers,none,17/02/1983
+ngarsch01w,C,75.0,168,Missouri,none,23/06/1983
+ngoyibe01w,C,76.0,195,none,none,26/08/1982
+nichoti01w,G,63.0,146,Penn State,none,27/09/1973
+nieuwma01w,C,77.0,180,Valparaiso,none,12/04/1980
+nikolmi01w,F,75.0,185,none,none,04/07/1971
+nnamach01w,G,72.0,156,Georgia Tech,none,15/06/1985
+nolande01w,G-F,69.0,147,Georgia,none,25/08/1979
+novosna01w,G,71.0,165,Notre Dame,none,0000-00-00
+nygaava01w,F,73.0,166,Stanford,none,13/03/1975
+ogayu01w,G,66.0,140,none,none,17/10/1982
+ogwumnn01w,F,74.0,167,Stanford,none,02/07/1990
+oheaje01w,G-F,73.0,174,Australian Institute of Sport,none,06/06/1987
+ohldeni01w,F-C,77.0,190,Kansas State,none,13/03/1982
+olajuab01w,C,76.0,236,Oklahoma,none,06/07/1988
+oneilkr01w,G-F,73.0,158,Washington,none,12/04/1983
+orrki01w,G,66.0,141,Duke,none,16/09/1975
+osburde01w,C,76.0,167,Oregon,none,11/02/1972
+osipoir01w,C,77.0,190,none,none,25/06/1981
+owenhe01w,F,77.0,212,Stanford,none,06/05/1976
+owenssh01w,C,74.0,175,Kentucky,none,16/05/1978
+pageda01w,F,74.0,179,Nebraska,none,14/11/1986
+pagemu01w,F,74.0,160,Florida,none,18/09/1975
+paigeyo01w,G,66.0,147,West Virginia,none,18/09/1983
+paliesa01w,G,67.0,159,none,none,23/07/1981
+palmewe01w,F,74.0,165,Virginia,none,12/08/1974
+parisco01w,C,76.0,250,Oklahoma,none,21/09/1987
+parkeca01w,F,76.0,175,Tennessee,none,19/04/1986
+pascafl01w,C,76.0,187,none,none,19/01/1982
+paschti01w,F,73.0,165,Florida State,none,22/03/1969
+pavlimi01w,F-C,75.0,175,Denver,none,27/11/1977
+payeka01w,G,68.0,150,Stanford,none,06/03/1974
+pederka01w,F,76.0,190,Stanford,none,04/04/1989
+penicti01w,G,71.0,145,Old Dominion,none,18/09/1974
+pennjo01w,F,72.0,160,South Carolina,none,10/09/1979
+perazja01w,G-F,72.0,170,Maryland,none,06/12/1960
+perkiji01w,G,68.0,155,Texas Tech,none,23/02/1982
+perpeer01w,F-G,75.0,181,The Master's College,none,05/06/1979
+perroki01w,G,65.0,130,SW Louisiana,none,18/01/1967
+peterde01w,F,74.0,170,Notre Dame,none,08/10/1989
+petroso01w,F,73.0,167,none,none,18/02/1989
+pettibr01w,G,69.0,150,Florida,none,01/01/1971
+philler01w,G,67.0,162,none,none,19/05/1985
+phillpo01w,F,74.0,173,Georgia,none,13/01/1988
+phillta01w,F-C,74.0,200,Central Florida,none,06/03/1969
+phillta02w,C,78.0,198,Xavier,none,24/01/1989
+pierspl01w,F-C,74.0,181,Texas Tech,none,30/08/1981
+plowdvi01w,F,72.0,167,Miami (FL),none,22/07/1971
+pohleje01w,G,72.0,179,Stanford,none,02/05/1989
+pollica01w,F,77.0,165,Texas,none,16/03/1966
+pondeca01w,G,69.0,160,Rutgers,none,07/01/1983
+potthan01w,F,73.0,191,Penn State,none,12/06/1974
+powelel01w,G,68.0,150,Louisiana State,none,09/08/1975
+powelni01w,F,74.0,175,Stanford,none,22/06/1982
+prahasa01w,G,67.0,129,Ohio State,none,23/01/1990
+pricear01w,G-F,69.0,133,Mississippi,none,03/04/1985
+pricefr01w,G,69.0,178,Iowa,none,28/04/1968
+priceka01w,G,70.0,148,Stephen F. Austin,none,03/12/1975
+pridely01w,F-G,74.0,180,Kansas,none,16/10/1978
+princep01w,G,69.0,167,Rutgers,none,11/01/1988
+pringla01w,F-C,75.0,162,North Carolina,none,11/09/1986
+queenbr01w,F,74.0,185,Boston College,none,10/04/1984
+quiglal01w,G,70.0,140,DePaul,none,20/06/1986
+quinnno01w,G,72.0,175,UCLA,none,03/01/1985
+quinnte01w,F,76.0,165,Seton Hall,none,07/09/1974
+radunha01w,C,75.0,187,none,none,10/01/1978
+raglafe01w,G,67.0,133,Oregon State,none,03/02/1980
+randase01w,G,69.0,164,Tennessee,none,07/02/1979
+rasmukr01w,F,76.0,174,Michigan State,none,01/11/1978
+ravenbr01w,G,72.0,162,Texas,none,01/08/1988
+raymost01w,G,65.0,139,Northern Illinois,none,15/01/1985
+raymota01w,F,74.0,195,Connecticut,none,12/04/1980
+reddja01w,F,73.0,164,Washington,none,05/11/1977
+redmoka01w,G-F,73.0,167,Gonzaga,Washington,11/10/1988
+reedbr01w,F,73.0,168,Southern Mississippi,none,17/02/1977
+reedch01w,F,73.0,165,Arkansas-Little Rock,none,28/03/1989
+reedmi01w,G,71.0,165,Western Kentucky,none,24/05/1973
+reidtr01w,F,71.0,150,North Carolina,none,01/11/1976
+reissta01w,G,66.0,129,Virginia,none,02/04/1970
+resska01w,F,76.0,194,Boston College,none,26/06/1985
+reynoch01w,F,74.0,180,Houston,none,08/02/1972
+rileyan01w,G,65.0,136,Oklahoma State,none,22/07/1988
+rileyru01w,C,77.0,198,Notre Dame,none,28/08/1979
+rizzoje01w,G,66.0,146,Connecticut,none,15/05/1974
+roberav01w,G,69.0,145,Ohio State,none,29/01/1970
+roberny01w,C,75.0,209,Old Dominion,none,10/03/1976
+robinas01w,C,76.0,180,Tennessee,none,12/08/1982
+robincr01w,F-G,71.0,155,SE Oklahoma State,none,22/01/1974
+robinda01w,G,69.0,125,Oklahoma,none,10/05/1989
+robinre01w,G,71.0,166,Virginia,none,15/06/1978
+robinsc01w,G,71.0,155,Louisiana State,none,09/01/1983
+rolanja01w,G-F,73.0,167,Purdue,none,03/02/1975
+rossad01w,G,68.0,142,Texas Christian,none,23/11/1984
+rouilni01w,G,67.0,130,Loyola Marymount,none,23/01/1970
+roundsa01w,G,67.0,145,Georgia,none,04/10/1976
+ruffje01w,G-F,71.0,140,Washington State,none,12/09/1974
+rushle01w,F,73.0,175,Oklahoma,none,25/10/1984
+ryankr01w,F,71.0,150,Sacramento State,none,19/11/1972
+rycraeu01w,C,75.0,175,Cal State Fullerton,none,06/12/1968
+salesny01w,G-F,72.0,184,Connecticut,none,10/05/1976
+sampsch01w,G,71.0,175,Kansas,none,01/09/1974
+sampsto01w,G,70.0,167,North Carolina,none,02/03/1972
+samsh01w,F-G,72.0,160,Vanderbilt,none,05/05/1974
+sanchis01w,G,70.0,152,none,none,28/11/1976
+sandeam01w,G,71.0,156,Hawai'i,none,05/06/1983
+sandish01w,G,72.0,145,none,none,22/01/1969
+sanfona01w,F-C,76.0,200,Kansas,none,10/05/1976
+sanniol01w,C,74.0,167,West Virginia,none,21/08/1986
+santoal01w,C,77.0,181,none,none,02/12/1973
+santoke01w,F,75.0,188,none,none,10/11/1979
+sarenra01w,C,78.0,222,none,none,27/06/1974
+sauerpa01w,C,76.0,203,Connecticut,none,08/12/1977
+saundja01w,F,71.0,145,Texas A&M,none,21/08/1979
+saureau01w,G,70.0,163,none,none,31/10/1976
+savasla01w,G,68.0,134,Washington,none,18/03/1974
+schumke01w,C,77.0,183,Connecticut,none,14/10/1977
+schwege01w,G-F,72.0,160,Duke,none,31/01/1979
+scottol01w,C,74.0,175,Stanford,none,05/08/1976
+scottra01w,F,75.0,169,Colorado,none,12/08/1975
+shakiel01w,F-C,75.0,190,none,none,02/06/1970
+sharpkb01w,G,69.0,145,Cincinnati,none,18/04/1981
+sheetsh01w,G,66.0,130,Colorado,none,15/08/1975
+shegoch01w,C,77.0,167,North Carolina,none,22/02/1990
+shielas01w,G,70.0,155,SW Tennessee CC,none,15/07/1985
+shudlca01w,C,72.0,167,Minnesota,none,13/05/1972
+shulead01w,G,66.0,153,Georgia,none,24/04/1969
+simondy01w,G,65.0,137,Arizona State,none,29/09/1989
+simpsda01w,F,75.0,160,Houston,none,11/04/1969
+slaisma01w,G,68.0,173,Cincinnati,none,23/08/1973
+slauggw01w,F,75.0,181,Tulane,none,01/07/1980
+slavtge01w,G,73.0,160,Florida International,none,20/10/1979
+smithai01w,F,74.0,173,Louisiana State,none,18/07/1980
+smithbr01w,F-C,75.0,195,Stanford,none,30/04/1984
+smithch01w,G,67.0,140,Arkansas,none,14/08/1975
+smithch02w,F,70.0,145,Stanford,none,02/05/1975
+smithch03w,G,72.0,148,North Carolina,none,23/08/1973
+smithcr01w,G,66.0,121,Iowa,none,12/03/1984
+smithje01w,C,75.0,198,Michigan,none,10/04/1982
+smithka01w,G-F,71.0,174,Ohio State,none,04/06/1974
+smithki01w,F,73.0,158,Utah,none,07/05/1984
+smithla01w,G,67.0,150,Mississippi State,none,06/02/1974
+smithta01w,F-C,76.0,160,Iowa,none,01/04/1977
+smithty01w,F,72.0,167,Delaware,none,21/04/1985
+smithwa01w,G,71.0,175,Duke,none,09/07/1985
+snellbe01w,G,69.0,170,University of Sydney,none,01/10/1981
+snowmi01w,C,77.0,158,Tennessee,none,20/03/1980
+sobrale01w,F,73.0,183,none,none,22/11/1974
+sobrama01w,C,75.0,163,none,none,23/03/1964
+spencsi01w,G,75.0,183,Tennessee,none,07/03/1985
+spornra01w,F,74.0,150,none,none,26/05/1968
+stafftr01w,F,73.0,180,California,none,11/11/1970
+staleda01w,G,66.0,134,Virginia,none,04/05/1970
+stansti01w,F-C,75.0,183,North Carolina State,none,16/01/1983
+starbka01w,G,73.0,153,Stanford,none,30/07/1975
+stedika01w,F-G,72.0,173,Stanford,none,11/12/1967
+stepama01w,C,80.0,187,none,none,23/02/1979
+stephre01w,G,71.0,160,UCLA,none,28/12/1969
+stephst01w,C,76.0,205,Texas,none,21/01/1982
+sterkca01w,F,74.0,170,Central Michigan,none,0000-00-00
+stevema01w,F-C,75.0,166,Auburn,none,04/02/1982
+stileja01w,G,68.0,144,Missouri State,none,21/12/1978
+stillva01w,F-C,73.0,151,Kentucky,none,14/05/1961
+stinsan01w,G,70.0,158,North Carolina State,none,25/11/1967
+stiresh01w,F,71.0,208,Kansas State,none,21/05/1972
+stockta01w,F-C,74.0,165,Florida,none,29/01/1979
+streiju01w,F,74.0,165,none,none,14/05/1972
+stricsh01w,G-F,74.0,178,Tennessee,none,30/07/1990
+strotan01w,G-F,75.0,166,Connecticut,none,11/12/1983
+suberto01w,G,67.0,137,Virginia,none,23/11/1974
+summela01w,C,74.0,167,none,none,13/12/1983
+sun-mju01w,C,73.0,168,none,none,12/10/1974
+suttota01w,C,76.0,199,Rutgers,none,27/01/1978
+swanike01w,G,67.0,144,Connecticut,none,10/08/1986
+swoopsh01w,F-G,72.0,145,Texas Tech,none,25/03/1971
+swordca01w,C,78.0,210,Boston College,none,19/07/1989
+sykesap01w,G-F,72.0,167,Rutgers,none,30/07/1990
+tatede01w,G,68.0,150,Maryland,none,13/05/1966
+tateso01w,G,66.0,157,Arkansas State,none,07/09/1971
+tauradi01w,F-G,72.0,172,Connecticut,none,11/06/1982
+tayloli01w,C,80.0,200,UC Santa Barbara,none,20/05/1981
+taylope01w,F,73.0,168,none,none,24/05/1981
+teaslni01w,G,72.0,169,North Carolina,none,22/03/1979
+teilaza01w,C,79.0,170,Western Illinois,none,24/09/1983
+terryka01w,C-F,75.0,183,Georgia Tech,none,21/10/1983
+thirdtr01w,F,71.0,160,Washington,none,27/02/1968
+thomaca01w,F,75.0,200,Vanderbilt,none,31/10/1985
+thomach01w,C,75.0,185,Georgia,none,14/08/1982
+thomaja01w,G,69.0,145,Duke,none,30/09/1989
+thomakr01w,C,77.0,195,Duke,none,10/06/1989
+thomala01w,F,74.0,165,Mississippi State,none,06/07/1981
+thomast01w,F,70.0,154,Michigan,none,29/08/1978
+thompal01w,F,73.0,180,Texas Tech,none,30/06/1976
+thompam01w,F,73.0,170,Oklahoma,none,18/11/1987
+thomppa01w,F,73.0,193,Tennessee,none,16/01/1975
+thompti01w,F,74.0,178,USC,none,10/02/1975
+thorbsh01w,G,69.0,149,Utah,none,07/08/1982
+thorner01w,G,70.0,150,Brigham Young,none,19/05/1981
+threaro01w,G,67.0,150,Wisconsin,none,01/07/1970
+tilliic01w,C-F,77.0,165,Duke,none,06/12/1981
+timmsmi01w,G,67.0,132,none,none,28/06/1965
+tolerpe01w,G,68.0,132,Long Beach State,none,24/03/1966
+tolivkr01w,G,67.0,130,Maryland,none,27/01/1987
+torniel01w,F,73.0,160,none,none,27/05/1965
+torrele01w,C,75.0,171,Florida State,none,06/04/1978
+traviti01w,G-F,71.0,145,Flordia,none,20/03/1978
+tremich01w,G,66.0,142,Auburn,none,20/10/1969
+tricetr01w,F-C,74.0,180,North Carolina State,none,04/08/1965
+tunsine01w,G-F,73.0,170,Iowa State,none,22/08/1970
+turneba01w,G-F,72.0,172,Connecticut,none,08/06/1984
+tutermo01w,G,72.0,155,Arizona State,none,25/08/1975
+tuvicsl01w,C,76.0,194,none,none,19/09/1977
+tzekopo01w,C,76.0,189,none,none,30/04/1968
+udokamf01w,F,72.0,187,DePaul,none,16/06/1976
+ujhelpe01w,F-C,76.0,200,South Carolina,none,17/12/1980
+umoh-it01w,G,67.0,140,Clemson,none,21/02/1977
+valdeam01w,F,73.0,160,none,none,18/08/1976
+vandeco01w,G,68.0,130,Gonzaga,none,08/02/1989
+vanemal01w,F,75.0,175,UCLA,none,14/04/1968
+vangomi01w,C,78.0,187,Duke,none,10/05/1977
+vaughki01w,C,76.0,208,Rutgers,none,24/01/1987
+vaughkr01w,F,73.0,160,Virginia Commonwealth,none,08/09/1986
+vealkr01w,G,70.0,150,none,none,24/07/1981
+veselja01w,F,75.0,195,none,none,31/12/1983
+vidicbo01w,G,69.0,133,Oregon State,none,07/01/1973
+viglida01w,G,70.0,157,Texas,none,07/03/1975
+vilipda01w,F-C,76.0,207,none,none,30/03/1975
+vodicka01w,F-C,76.0,190,none,none,19/12/1972
+vodopna01w,F,75.0,181,none,none,06/04/1981
+voigtka01w,G,73.0,162,Wisconsin,none,07/04/1975
+vukadmi01w,G,73.0,150,California,none,18/11/1968
+walkeas01w,F-C,73.0,200,California,none,24/02/1987
+walkeay01w,F,75.0,142,Louisiana Tech,none,10/09/1979
+walkede01w,F,75.0,168,Virginia,none,28/11/1977
+walkema01w,C,75.0,253,Pittsburgh,none,17/10/1986
+walsema01w,F,74.0,184,Penn State,none,28/10/1978
+wardvo01w,C,78.0,170,Tennessee,none,16/03/1973
+warleav01w,C,75.0,167,Liberty,none,17/05/1987
+washico01w,G,66.0,138,Notre Dame,none,17/01/1971
+washito01w,F,71.0,160,Florida,none,30/12/1977
+wautean01w,C,76.0,193,none,none,12/10/1980
+weathte01w,G,68.0,161,Louisiana Tech,none,08/12/1965
+webbum01w,G-F,70.0,162,North Carolina State,none,26/06/1975
+weberma01w,C,77.0,200,Iona,none,01/06/1982
+weckeke01w,F,73.0,172,Kansas State,none,16/12/1982
+whaleli01w,G,68.0,150,Minnesota,none,09/05/1982
+whitede01w,F,71.0,180,Louisiana State,none,03/04/1980
+whiteer01w,G,63.0,135,Louisiana State,none,26/08/1986
+whiteta01w,G,67.0,154,Mississippi State,none,27/09/1982
+whitiva01w,C-F,74.0,199,Stanford,none,09/04/1972
+whitmta01w,F,74.0,190,Memphis,none,05/06/1977
+whittje01w,C,77.0,176,none,none,05/09/1973
+whittkh01w,F,73.0,185,North Carolina State,none,05/08/1986
+wickssu01w,F,75.0,191,Rutgers,none,26/11/1966
+widemja01w,G,66.0,135,Stanford,none,16/10/1975
+wiggica01w,G,71.0,154,Stanford,none,14/02/1987
+wilkeda01w,G,65.0,121,Long Beach State,none,27/02/1969
+wilkibr01w,C,75.0,185,Iowa State,none,15/06/1983
+williad01w,F-C,77.0,170,USC,none,15/02/1977
+willian01w,G,72.0,149,Illinois,none,21/07/1983
+willibe01w,G,69.0,145,Texas,none,09/11/1965
+willide01w,G,68.0,160,Louisiana Tech,none,23/09/1972
+williki01w,G,66.0,136,DePaul,Westark CC,14/10/1974
+willile01w,F,72.0,200,Auburn,none,10/02/1981
+willile02w,G-F,71.0,155,DePaul,none,04/07/1979
+willili01w,G,71.0,170,UCLA,none,13/06/1984
+willina01w,F-C,74.0,210,UCLA,none,30/11/1970
+williri01w,G,66.0,135,Connecticut,none,14/01/1976
+williri02w,G,67.0,165,Miami,none,28/05/1990
+willisa01w,G-F,72.0,167,Auburn,none,24/09/1973
+willish01w,G,66.0,135,Oregon,none,14/04/1980
+willita01w,G,71.0,170,Auburn,none,23/07/1974
+willito01w,G,68.0,138,Texas A&M,none,11/01/1982
+williwe01w,G,67.0,141,Arkansas,none,18/11/1978
+wilsoam01w,F,71.0,176,Louisiana Tech,none,06/02/1977
+wirthch01w,F,73.0,185,Vanderbilt,none,18/04/1987
+wisdoli01w,F,74.0,186,Purdue,none,26/05/1986
+witheso01w,G,70.0,145,Florida,none,06/07/1969
+wojtaju01w,G-F,72.0,175,Wisconsin-Green Bay,none,09/04/1989
+wolteka01w,C,79.0,227,Connecticut,none,15/08/1975
+wolvean01w,F-C,75.0,205,Oregon,none,08/12/1978
+woodaly01w,G,72.0,160,Kansas,none,12/08/1959
+woodki01w,C,76.0,167,Wisconsin-Green Bay,none,16/09/1972
+wooslti01w,G,67.0,132,Tennessee,none,04/04/1973
+wrighfa01w,G,66.0,130,San Diego State,none,28/01/1973
+wrighmo01w,G,71.0,178,Virginia,none,15/07/1988
+wrighsh01w,F,70.0,155,Purdue,none,21/09/1981
+wrighta01w,G,71.0,165,Penn State,none,20/11/1983
+wyckobr01w,F,73.0,183,Florida State,none,30/03/1980
+wynneda01w,F,74.0,175,Seton Hall,none,02/02/1975
+yamasli01w,G,73.0,190,Stanford,none,02/06/1980
+yasenco01w,G,72.0,160,Purdue,none,05/12/1973
+yilmane01w,F-C,76.0,193,none,none,06/06/1980
+youngca01w,G,69.0,175,Auburn,none,28/07/1969
+youngso01w,F,73.0,165,Baylor,none,15/12/1983
+youngta01w,F,74.0,166,James Madison,none,30/10/1986
+zakalok01w,C,78.0,174,none,none,18/12/1977
+zarafr01w,G,70.0,146,none,none,08/12/1976
+zellosh01w,G,70.0,155,Pittsburgh,none,28/08/1986
+zhengha01w,C,80.0,254,none,none,07/03/1967
+zirkozu01w,G,69.0,145,none,none,06/06/1980
+zollsh01w,G,67.0,148,Virginia,none,11/07/1986
+dydekma01w,C,75.7,223,none,none,28/04/1974
+abrahta01w,C,74.0,190,George Washington,none,27/09/1975
+abrossv01w,F,74.0,169,Connecticut,none,09/07/1980
+adairje01w,C,76.0,197,George Washington,none,19/12/1986
+adamsda01w,F-C,73.0,239,Texas A&M,Jefferson College (JC),19/02/1989
+adamsjo01w,C,75.0,180,New Mexico,none,24/05/1981
+aguilel01w,G,67.0,165,George Washington,none,15/10/1976
+ajavoma01w,G,68.0,160,Rutgers,none,07/05/1986
+alberma01w,G,64.0,167,Ohio State,none,12/04/1975
+aldrima01w,G,71.0,153,UNC Charlotte,none,15/09/1973
+alexaer01w,G,67.0,140,California-Santa Barbara,none,25/04/1975
+alhalta01w,F-G,72.0,149,DePaul,none,17/10/1974
+allench01w,G,71.0,135,Notre Dame,none,23/07/1986
+amachma01w,F,73.0,175,none,none,30/01/1978
+ambermo01w,F,76.0,169,Arizona State,none,21/12/1970
+anderam01w,F,72.0,167,Brigham Young,none,14/03/1984
+anderch01w,C,78.0,190,Vanderbilt,none,22/01/1981
+anderjo01w,G,68.0,166,Wisconsin,none,22/07/1986
+anderke01w,G,67.0,125,Wisconsin,none,17/05/1974
+andrame01w,F,71.0,165,Old Dominion,none,31/12/1975
+angelyv01w,G,68.0,160,Ohio State,none,14/10/1963
+anosini01w,C,75.0,211,Tennessee,none,27/02/1986
+appelja01w,C,76.0,210,Stanford,none,14/05/1988
+arcaija01w,G,71.0,147,none,none,11/04/1969
+artiska01w,F,73.0,155,Northeastern,none,09/07/1973
+askamma01w,C,77.0,198,none,none,07/08/1970
+atkinla01w,G-F,72.0,172,North Carolina,none,22/03/1984
+atunrmo01w,G-F,70.0,143,Texas A&M,none,14/04/1986
+augusse01w,F,72.0,179,Louisiana State,none,30/04/1984
+aycocan01w,G-F,74.0,172,Kansas,none,28/02/1973
+ayimmi01w,F,75.0,167,Pepperdine,none,06/05/1988
+azizle01w,F,75.0,177,Syracuse,none,28/02/1979
+azzije01w,G,68.0,143,Stanford,none,31/08/1968
+badertr01w,G,64.0,125,Boise State,none,26/02/1973
+bakerla01w,G,67.0,140,California,none,18/12/1968
+bakersh01w,G,68.0,125,Georgia,none,03/12/1982
+balesal01w,C,79.0,218,Duke,none,04/04/1985
+banchrh01w,C,75.0,185,Washington,none,01/05/1973
+baranel01w,F,77.0,182,Academy of Sport Moscow,none,28/01/1972
+barksla01w,G,70.0,156,North Carolina,none,03/10/1979
+barnead01w,F,71.0,165,Arizona,none,03/02/1977
+barnequ01w,C,77.0,185,Indiana,none,26/09/1976
+bassmi01w,F,75.0,184,Duke,none,02/12/1983
+batkosu01w,C,76.0,203,none,none,17/12/1980
+batteja01w,F,73.0,163,Notre Dame,none,26/03/1983
+battlas01w,F,72.0,170,Connecticut,none,31/05/1982
+bauerca01w,F-C,76.0,180,Montana State,none,27/06/1972
+beardal01w,G-F,71.0,160,Duke,none,14/05/1982
+becenry01w,G,66.0,140,Arizona State,Scottsdale CC (JC),11/08/1971
+beckki01w,G,68.0,125,George Washington,none,27/12/1985
+bellje01w,F,73.0,160,Florida International,none,26/05/1970
+bennije01w,F,75.0,185,Vanderbilt,none,06/10/1981
+berezva01w,C,76.0,167,Rice,none,10/04/1986
+berggas01w,G,70.0,170,Illinois,none,18/11/1976
+berrysh01w,F-C,75.0,175,Iowa,none,06/07/1967
+berthlu01w,F-C,74.0,188,Old Dominion,none,31/03/1978
+berubca01w,F,72.0,155,Connecticut,none,02/09/1975
+beviltu01w,G,67.0,145,none,none,19/07/1972
+bibbyje01w,G,67.0,139,none,none,23/08/1979
+bibrzag01w,G-F,74.0,168,none,none,21/10/1982
+birdsu01w,G,69.0,150,Connecticut,none,16/10/1980
+bishoab01w,F-C,74.0,167,none,none,29/11/1988
+bjedoni01w,C,78.0,195,none,none,18/05/1971
+bjorkan01w,F,72.0,166,Tennessee,none,14/07/1989
+bjorkte01w,C,76.0,175,Colorado,none,29/06/1982
+blackch01w,C,77.0,188,Duke,none,12/11/1985
+blackde01w,G,63.0,124,St. Joseph's,none,29/07/1966
+bladerh01w,G,67.0,138,Vanderbilt,none,29/10/1972
+blodgci01w,G,69.0,130,Maine,none,23/12/1975
+blueni01w,G,68.0,163,UCLA,none,29/03/1984
+blueoc01w,F,73.0,163,Miami (FL),none,18/08/1976
+bobbish01w,G,62.0,130,Tennessee,none,06/12/1985
+boddiwh01w,G,69.0,149,Auburn,none,23/01/1987
+boldeba01w,G,74.0,180,Louisiana Tech,none,16/06/1969
+boltoru01w,G,69.0,150,Auburn,none,25/05/1967
+bondla01w,G,67.0,132,Missouri,none,13/02/1984
+bonfisu01w,G,68.0,145,none,none,08/09/1974
+bonnede01w,G,76.0,136,Auburn,none,21/08/1987
+bookeka01w,C,73.0,170,Vanderbilt,none,10/04/1965
+bosweca01w,F-G,72.0,168,Illinois State,none,10/11/1962
+bouceje01w,G,68.0,130,Virginia,none,20/12/1973
+bouchke01w,F,74.0,163,none,none,13/01/1968
+bowenli01w,G,67.0,145,Michigan State,none,25/10/1983
+boydca01w,F,73.0,172,none,none,31/10/1975
+bradlki01w,F-C,77.0,185,Oral Roberts,none,26/08/1974
+brancli01w,G,64.0,167,Texas A&M,none,0000-00-00
+branzal01w,F,76.0,180,Florida International,none,17/07/1971
+branzge01w,F,76.0,175,Florida International,none,25/07/1976
+braxtja01w,F-C,75.0,178,Louisiana Tech,none,06/10/1973
+braxtka01w,F-C,78.0,210,Georgia,none,18/02/1983
+brazian01w,F,74.0,169,Texas Tech,none,18/09/1976
+brcanra01w,C,80.0,198,none,none,15/04/1967
+brelaje01w,F,75.0,170,North Carolina,none,23/02/1988
+bristre01w,G,70.0,139,Arizona,none,10/02/1978
+brogami01w,F,73.0,177,none,none,08/02/1973
+brondsa01w,G,67.0,136,U. Western Sydney,none,20/08/1968
+brownci01w,F-C,74.0,183,Long Beach State,none,16/03/1965
+brownco01w,G,69.0,150,North Carolina,none,21/10/1980
+browned01w,G-F,69.0,163,Texas,none,01/07/1978
+brownki01w,G,70.0,134,Georgia,none,13/01/1979
+brownla01w,C,75.0,180,Louisiana Tech,none,01/12/1972
+brownle01w,F,72.0,166,Virginia,none,03/06/1977
+brownru01w,F,74.0,175,Furman,none,05/05/1972
+brumfma01w,G,68.0,133,Rice,none,06/06/1978
+brungje01w,F,73.0,165,Penn State,none,16/04/1982
+brunsre01w,F,75.0,175,Georgetown,none,11/12/1981
+bullevi01w,F,75.0,185,Maryland,none,04/10/1967
+burgean01w,G,67.0,141,none,none,10/04/1969
+burgehe01w,C,77.0,195,Virginia,none,11/11/1971
+burgehe02w,F,77.0,180,Virginia,none,11/11/1971
+burgeli01w,F,73.0,173,Alabama,none,27/07/1969
+burraal01w,C,75.0,218,Louisiana Tech,none,23/06/1975
+burseja01w,C,77.0,199,Tulane,none,19/05/1979
+buttsta01w,G,71.0,160,Tennessee,none,10/03/1982
+byearla01w,G-F,71.0,206,DePaul,NE Oklahoma A&M (JC),12/08/1973
+byrdla01w,G,66.0,131,Eastern Michigan,none,01/02/1960
+cabezli01w,F-C,75.0,178,Central Florida CC,none,25/10/1973
+cainke01w,C,78.0,220,Tennessee,none,16/05/1989
+camba01w,C,80.0,215,none,none,18/08/1991
+campbed01w,G,68.0,152,Texas,none,26/11/1968
+campbmi01w,F-C,77.0,170,USC,none,20/02/1974
+cantydo01w,G-F,69.0,162,Alabama,none,02/03/1977
+careyja01w,G,66.0,135,Texas,none,12/03/1981
+carsoes01w,G-F,72.0,165,Rutgers,none,28/07/1986
+carteam01w,F,74.0,185,Louisiana State,none,21/06/1982
+cartede01w,G-F,72.0,185,Georgia,none,03/01/1972
+cartesy01w,G,66.0,167,Texas A&M,none,18/11/1990
+cashsw01w,F,73.0,162,Connecticut,none,22/09/1979
+cassija01w,C,75.0,187,Maine,none,12/09/1978
+castriz01w,F-G,72.0,140,none,none,13/03/1982
+catchta01w,F,73.0,167,Tennessee,none,21/07/1979
+caufila01w,G,69.0,159,Oklahoma,none,25/05/1980
+cebriel01w,C,77.0,190,none,none,07/02/1971
+chacoke01w,G,69.0,151,George Mason,none,21/12/1974
+chambco01w,G,69.0,160,Georgia,none,06/07/1985
+chanequ01w,G,71.0,160,Louisiana State,none,14/04/1986
+chapmji01w,C,75.0,206,Indiana,none,04/11/1979
+charlda01w,F-C,75.0,141,Tennessee,none,22/11/1968
+charlti01w,C,76.0,198,Connecticut,none,05/12/1988
+chaseso01w,G,69.0,150,Maryland,none,09/03/1976
+cheekjo01w,F,73.0,201,Duke,none,25/06/1988
+cheruam01w,G,70.0,140,Indiana,none,18/04/1970
+chestfe01w,F,75.0,180,DePaul,none,24/03/1988
+choneka01w,C,75.0,180,North Carolina State,none,11/01/1981
+chriska01w,F,74.0,171,UC Santa Barbara,none,16/11/1980
+chriska02w,F,72.0,180,Duke,none,11/09/1989
+chrissh01w,F,73.0,170,Arkansas,none,15/02/1982
+cironkr01w,G,68.0,150,Illinois State,none,19/05/1987
+clarkal01w,F,70.0,167,Middle Tennessee State,none,07/07/1987
+clarkma01w,F-C,75.0,167,Arizona,none,01/01/1971
+clearmi01w,G,66.0,126,Australian Institute of Sport,none,16/07/1974
+clinest01w,G,65.0,148,UC Santa Barbara,none,22/04/1978
+coggicl01w,G,71.0,170,Kansas State,none,19/05/1985
+cokermo01w,F,73.0,180,Old Dominion,none,28/11/1982
+colemco01w,F,72.0,170,Ohio State,none,13/04/1981
+colemma01w,G-F,73.0,160,Maryland,none,04/01/1987
+colleka01w,G-F,70.0,145,Maryland,none,17/03/1971
+colsosy01w,G,68.0,140,Texas A&M,none,06/08/1989
+compame01w,G,69.0,143,St. Joseph's,none,18/09/1975
+congran01w,F-C,74.0,183,Mercer,none,03/06/1970
+conklab01w,F,75.0,175,Tennessee,none,10/02/1975
+consuca01w,G,68.0,144,Iowa,none,04/03/1979
+coopeca01w,C,76.0,176,Purdue,none,05/02/1979
+coopecy01w,G,70.0,150,USC,none,14/04/1963
+crawlsy01w,F-C,77.0,187,North Carolina,none,27/09/1972
+crockda01w,F,73.0,158,Baylor,none,11/02/1981
+crockwi01w,F,74.0,215,Connecticut,none,05/07/1984
+cronika01w,G,72.0,155,Colorado State,none,08/09/1977
+crosssh01w,G,70.0,155,Tennessee,none,07/09/1983
+crumpca01w,G,70.0,158,Alabama,none,29/10/1962
+cummiki01w,F,75.0,188,Long Beach State,none,29/08/1963
+cunnibe01w,G,72.0,163,Notre Dame,none,05/06/1975
+cunnida01w,F,72.0,187,Rutgers,none,27/01/1980
+cunnima01w,F-C,76.0,167,Vanderbilt,none,20/05/1973
+currimo01w,F,72.0,177,Duke,none,25/02/1983
+curryed01w,G,64.0,138,Oregon,none,09/07/1979
+dalesst01w,G-F,72.0,155,Oklahoma,none,05/09/1979
+daleygr01w,G,66.0,147,Tulane,none,26/06/1978
+darlihe01w,G,66.0,164,Penn State,none,29/08/1978
+davenje01w,C,77.0,215,Ohio State,none,24/06/1985
+davisbr01w,G,72.0,172,Oregon,none,01/01/1983
+daviscl01w,F,73.0,165,Texas,none,04/06/1967
+davisde01w,G,67.0,138,Vanderbilt,none,08/11/1984
+davisla01w,G,67.0,145,Tennessee,none,08/10/1974
+davista01w,F,70.0,160,Washington,none,25/09/1972
+davista02w,G,71.0,167,Florida State,none,07/06/1987
+dedenka01w,F,76.0,170,Washington,none,23/09/1969
+deforan01w,G,70.0,160,Nebraska,none,14/04/1976
+derevje01w,G,70.0,140,George Mason,none,29/03/1982
+desouer01w,F-C,77.0,190,none,none,03/03/1982
+dickeke01w,F,71.0,165,Texas Tech,none,20/04/1978
+dillata01w,G,69.0,154,Texas,none,06/05/1981
+dixonin01w,C,75.0,167,California,none,16/09/1972
+dixonta01w,G,69.0,148,Kansas,none,14/12/1975
+doagela01w,G,66.0,137,Nebraska,none,15/05/1975
+domonna01w,G,70.0,132,Iowa,none,28/09/1975
+donapbe01w,F-C,74.0,195,Stanford,none,27/08/1980
+doronsh01w,G,69.0,145,Maryland,none,01/04/1985
+dossaci01w,C,77.0,187,none,none,31/01/1975
+douglka01w,G-F,72.0,167,Purdue,none,07/05/1979
+duffyme01w,G,67.0,135,Notre Dame,none,13/07/1984
+dunlavi01w,F,73.0,160,Kentucky,none,19/09/1989
+dupreca01w,F,74.0,162,Temple,none,16/08/1984
+dydekka01w,F-C,79.0,190,Evangel,none,21/03/1970
+dydekma01w,C,75.9,223,none,none,28/04/1974
+edwarmi01w,G,69.0,150,Rutgers,none,06/03/1966
+edwarsi01w,C,76.0,164,Iowa,none,17/11/1973
+edwarte01w,G-F,71.0,155,Georgia,none,09/07/1964
+edwarto01w,G,70.0,160,Tennessee,none,13/03/1968
+elysh01w,F,74.0,182,Tennessee,none,09/08/1983
+enissh01w,F-C,73.0,185,Alabama,none,03/12/1974
+erbsu01w,C,78.0,240,North Carolina State,none,25/07/1977
+ervinla01w,F,76.0,171,Arkansas,none,24/03/1985
+evansda01w,G,67.0,167,James Madison,none,30/06/1989
+evansde01w,G,64.0,125,Virginia,none,11/10/1970
+fallotr01w,G-F,75.0,165,none,none,23/07/1972
+farriba01w,C-F,75.0,200,Tulane,none,10/09/1976
+feastal01w,F,71.0,168,Harvard,none,11/02/1976
+feifesu01w,G,73.0,162,none,none,29/01/1979
+feldeja01w,F,73.0,167,Southern Mississippi,none,16/10/1969
+ferdima01w,G,69.0,153,Louisiana State,none,13/10/1978
+fernama01w,G,71.0,138,none,none,21/12/1981
+ferrama01w,F,75.0,190,none,none,11/02/1972
+figgsuk01w,G,69.0,142,Purdue,none,31/03/1977
+fijalis01w,C,77.0,200,Colorado,none,23/05/1972
+firsool01w,C,78.0,215,Kansas State,none,23/04/1976
+floremi01w,G,66.0,125,Stanford,none,19/10/1977
+flukety01w,C,77.0,209,Tennessee,none,27/12/1984
+folklkr01w,F,74.0,190,Stanford,none,19/12/1975
+fordch01w,F,75.0,198,Louisiana Tech,none,06/06/1981
+fordki01w,G-F,70.0,153,Georgia Tech,none,04/04/1975
+fordst01w,F,74.0,185,Georgia,none,14/01/1969
+fosteto01w,F,73.0,175,Iowa,none,16/10/1971
+fowlesy01w,C,78.0,200,Louisiana State,none,06/10/1985
+francde01w,F,70.0,193,Iowa State,none,24/08/1975
+frankaq01w,G,64.0,154,Texas A&M,none,29/09/1985
+frazeme01w,F,75.0,191,Liberty,none,29/03/1987
+freemla01w,F,73.0,175,Auburn,none,17/03/1971
+fresest01w,G,68.0,126,Iowa State,none,23/09/1976
+frettla01w,F,75.0,170,Georgia,none,12/06/1975
+friertr01w,F,74.0,186,Louisiana Tech,none,23/08/1979
+frohlli01w,F-C,75.0,185,none,none,23/06/1979
+frostsh01w,C,76.0,184,Tennessee,none,19/12/1966
+futreca01w,G,70.0,154,Duquesne,none,10/07/1982
+gaithka01w,C,75.0,170,Notre Dame,none,13/08/1975
+gamblam01w,F,70.0,163,Arizona,none,17/12/1964
+ganttr01w,C,74.0,181,Lamar,none,10/10/1971
+garcibe01w,G,65.0,135,none,none,03/09/1976
+gardike01w,F,73.0,168,Virginia Tech,none,19/05/1984
+gardnan01w,F-C,75.0,190,Howard,none,23/12/1979
+garnean01w,F-C,75.0,160,Penn State,none,05/01/1979
+gaydeco01w,G,69.0,150,Louisiana State,none,11/05/1971
+gaypi01w,G-F,71.0,183,Louisiana State,none,21/08/1974
+gearlka01w,G-F,73.0,184,Purdue,none,26/10/1984
+gessiki01w,F,75.0,175,USC,none,29/12/1970
+gibsoke01w,F-G,70.0,136,Maryland,none,10/11/1976
+gilbrbr01w,G,73.0,167,USC,none,16/08/1990
+gilloje01w,F-C,75.0,180,Mississippi,none,13/06/1964
+gilmous01w,G,71.0,158,Rutgers,none,24/08/1978
+gisseka01w,F,73.0,178,Penn State,North Carolina State,27/07/1985
+givench01w,G,70.0,167,Middle Tennessee State,none,26/07/1985
+godbyli01w,F-C,78.0,163,Auburn,none,17/10/1968
+gomisem01w,G,71.0,134,none,none,18/10/1983
+goodemo01w,G,66.0,130,Stanford,none,08/02/1972
+goodeti01w,F,71.0,165,Iowa,none,23/10/1975
+goodlsa01w,C,77.0,239,Georgia Tech,none,09/08/1990
+goodsad01w,F,72.0,165,Old Dominion,none,19/10/1966
+gordobr01w,F,72.0,159,Tennessee,none,27/04/1967
+goringi01w,C,79.0,225,North Carolina State (jr-sr),Arkansas-Fort Smith (fr-so),07/06/1983
+gortmsh01w,G,70.0,158,South Carolina,none,07/12/1979
+grahama01w,C,75.0,240,Houston,none,18/12/1970
+granter01w,G,68.0,125,Texas Tech,none,13/06/1984
+gravede01w,C,77.0,212,Howard,none,16/09/1975
+graylal01w,G,68.0,176,California,none,21/04/1987
+grecomi01w,G,69.0,145,UCLA,none,24/03/1980
+greenci01w,C,77.0,183,Texas Tech,none,04/04/1983
+greenka01w,G,70.0,170,Connecticut,none,13/07/1987
+grginve01w,F,73.0,160,none,none,13/01/1975
+griffke01w,F,74.0,179,Nebraska,none,02/07/1987
+griffyo01w,C-F,75.0,188,Florida Atlantic,none,01/03/1970
+groomla01w,G-F,70.0,160,Georgia,none,12/09/1970
+grubigo01w,G,71.0,165,none,none,20/08/1972
+grudasa01w,F-C,76.0,185,none,none,25/06/1987
+guytowa01w,F,73.0,178,South Florida,none,14/10/1965
+hagiwmi01w,G,71.0,161,none,none,27/04/1970
+hairska01w,F,72.0,150,Temple,none,18/08/1985
+hallam01w,F,75.0,180,Washington,none,29/12/1977
+hallvi01w,F,73.0,180,Texas,none,03/10/1969
+hamblan01w,G,70.0,170,Iowa,none,30/09/1976
+hammobe01w,G,66.0,136,Colorado State,none,11/03/1977
+hamptky01w,F,74.0,210,Arizona State,none,03/11/1962
+hamzoro01w,G,69.0,152,none,none,17/08/1970
+hardili01w,G,68.0,139,Duke,none,12/06/1984
+hardish01w,G,69.0,165,Louisiana Tech,none,27/06/1969
+harpela01w,F-C,77.0,190,Maryland,none,11/04/1986
+harriam01w,F,77.0,202,Xavier,none,16/01/1988
+harrido01w,F,75.0,190,Old Dominion,none,29/09/1966
+harrifr01w,G,72.0,154,Texas,none,12/03/1965
+harrili01w,F,73.0,164,Tennessee,none,02/01/1971
+harrokr01w,G,64.0,139,none,none,04/03/1975
+haydeva01w,C,76.0,240,Florida,none,05/06/1982
+hayesti01w,G,70.0,167,Connecticut,none,20/09/1989
+haynikr01w,G,69.0,147,Michigan State,none,17/06/1983
+headde01w,G,70.0,160,Tennessee,none,16/08/1970
+hedgpch01w,G,69.0,143,Stanford,none,17/02/1972
+hemmera01w,F-C,75.0,167,Stanford,none,02/04/1973
+hendene01w,G,68.0,144,Texas,none,28/02/1973
+hendetr01w,C,75.0,200,Georgia,none,31/12/1974
+henniso01w,G,67.0,143,Stanford,none,04/10/1969
+henryan01w,F,75.0,205,Florida,none,13/02/1986
+herriam01w,C,76.0,189,Iowa,none,06/06/1977
+hibbeka01w,G-F,70.0,140,Louisiana State,none,29/09/1977
+hicksje01w,F-C,76.0,188,Maryland,none,02/12/1971
+hightal01w,G,70.0,139,Louisiana State,none,06/04/1988
+hillec01w,G,67.0,173,Northern Illinois,none,06/04/1971
+hledeko01w,G,69.0,150,Duquesne,none,29/03/1975
+hodgeda01w,G-F,73.0,170,St. Joseph's,none,21/01/1968
+hodgedo01w,G,69.0,160,Louisiana State,none,19/07/1982
+hodgero01w,G,71.0,165,Florida State,none,19/07/1982
+hodgesa01w,F-G,69.0,167,New Orleans,none,31/07/1962
+hoffmeb01w,F,74.0,215,USC,none,27/08/1982
+holdsch01w,F,74.0,172,Tennessee,none,09/08/1977
+hollake01w,G,68.0,129,Georgia,none,05/11/1974
+holliqu01w,C,77.0,201,Virginia Commonwealth,none,15/11/1988
+holmejo01w,F,70.0,150,Purdue,none,31/03/1969
+holmese01w,G-F,73.0,155,UNLV,none,13/06/1986
+holtam01w,F,72.0,168,Middle Tennessee State,none,07/06/1985
+hopeky01w,C,74.0,165,Miami (FL),none,23/11/1977
+hopsosu01w,F-C,74.0,175,Mars Hill,none,21/06/1974
+hornbal01w,G,71.0,155,Tennessee,none,16/10/1985
+houstch01w,F,72.0,189,Connecticut,none,10/04/1986
+houtsas01w,G,66.0,140,Georgia,none,31/12/1987
+howarje01w,G,66.0,130,North Carolina State,none,21/01/1975
+howarme01w,G,69.0,145,SW Missouri State,none,02/04/1972
+hudsopa01w,F,71.0,139,Northwestern State,none,19/09/1968
+humphta01w,C,75.0,190,Georgia,none,29/12/1985
+ibekwif01w,F,74.0,167,Arizona,none,05/10/1989
+irvinsa01w,F,75.0,185,Texas Christian,none,23/02/1982
+ivanyda01w,G,70.0,135,Florida International,none,18/03/1976
+iveyni01w,G,67.0,149,Notre Dame,none,24/09/1977
+jacksan01w,C,76.0,205,Texas,none,30/03/1976
+jacksde01w,F,74.0,155,Alabama-Birmingham,none,15/12/1979
+jacksgw01w,F,75.0,182,Tennessee,none,23/10/1980
+jacksla01w,F-C,77.0,187,none,none,11/05/1981
+jacksta01w,F-C,75.0,179,Florida,none,03/12/1962
+jacksta02w,G,66.0,118,Louisiana Tech,none,22/04/1978
+jacksti01w,F,71.0,148,Iowa,none,21/04/1972
+jacksti02w,F,75.0,185,Texas,none,26/04/1985
+jacobam01w,G,68.0,152,Boston College,none,29/06/1982
+jacobje01w,G,68.0,130,Purdue,none,20/02/1973
+jamesta01w,F,69.0,158,Miami (FL),none,13/06/1984
+januabr01w,G,68.0,144,Arizona State,none,11/01/1987
+jekaban01w,G,69.0,180,none,none,12/08/1983
+joensca01w,G-F,71.0,165,George Washington,none,12/02/1981
+johnsad01w,G,70.0,154,Ohio State,none,05/02/1974
+johnsch01w,C,75.0,185,Wisconsin-Green Bay,none,19/03/1981
+johnsda01w,C,74.0,197,Tennessee,none,19/02/1973
+johnsgl01w,F,75.0,170,Tennessee,none,27/07/1990
+johnsja01w,F,72.0,201,Kansas,none,16/03/1979
+johnsla01w,F,73.0,150,Memphis,none,17/08/1975
+johnsle01w,F,74.0,220,Western Kentucky,none,12/01/1975
+johnsni01w,G,69.0,146,Alabama,none,07/02/1973
+johnspo01w,C,75.0,165,Michigan,none,06/11/1975
+johnssh01w,G,67.0,152,South Carolina,none,18/08/1974
+johnssh02w,G,71.0,167,Miami,none,08/12/1990
+johnste01w,G,63.0,132,Louisiana State,none,06/09/1982
+johnsti01w,C,76.0,240,Tennessee,none,27/12/1975
+johnsvi01w,G-F,69.0,150,Louisiana Tech,none,15/04/1972
+jollyke01w,G,69.0,148,Tennessee,none,03/05/1977
+jonesas01w,F,74.0,196,Connecticut,none,01/08/1980
+jonesch01w,G-F,69.0,150,Houston,none,25/03/1982
+jonesja01w,G,69.0,158,UNC Charlotte,none,13/09/1978
+jonesla01w,G,73.0,180,Ohio State,none,24/07/1977
+jonesma01w,G,70.0,150,North Carolina,none,12/10/1975
+jonesme01w,G,69.0,147,Florida,none,21/07/1973
+jordapa01w,C,75.0,205,UNLV,none,27/04/1968
+joyneja01w,F,70.0,154,UCLA,none,03/03/1962
+kaplaan01w,C,77.0,180,Stanford,none,22/04/1973
+kausaan01w,F,72.0,155,Emporia State,none,30/11/1970
+kellycr01w,F,74.0,190,Western Kentucky,none,15/09/1986
+kingbsu01w,G,67.0,135,Stanford,none,27/07/1981
+kingija01w,G,68.0,150,none,none,20/01/1976
+kizerly01w,F-C,76.0,215,Maryland,none,04/04/1990
+klimezu01w,F,74.0,181,Vanderbilt,none,21/01/1979
+kobryew01w,F-C,75.0,210,none,none,07/05/1982
+koehnla01w,G,68.0,145,Kansas State,none,13/05/1982
+korstil01w,G,70.0,160,none,none,30/05/1980
+kossgr01w,F,73.0,145,Montana,none,12/06/1974
+kostaan01w,G,67.0,137,none,none,26/03/1978
+kostita01w,F,73.0,163,Oregon State,none,10/11/1972
+kraayca01w,F,76.0,180,Oregon,none,30/09/1981
+kubikni01w,G,69.0,145,Nebraska,none,01/03/1978
+kukloan01w,G,72.0,150,none,none,16/07/1971
+laceyal01w,G,72.0,159,Iowa State,none,26/12/1987
+lacyje01w,F,75.0,175,Pepperdine,none,21/03/1983
+lacyna01w,G,70.0,165,UTEP (sr),Texas Christian (fr-jr),08/07/1985
+lacyve01w,C,76.0,234,Louisiana Tech,none,09/02/1967
+lambesh01w,G,67.0,125,Baylor,Grayson County (JC),21/07/1980
+lambmo01w,C,77.0,206,USC,none,11/10/1964
+langeme01w,F-C,78.0,205,UNLV,none,28/04/1969
+langhcr01w,F-C,74.0,184,Maryland,none,27/10/1986
+langja01w,F,72.0,185,Colorado,none,23/06/1972
+larakr01w,G,68.0,130,none,none,30/09/1969
+larkier01w,F,73.0,210,North Carolina,none,02/04/1986
+lassiam01w,F,73.0,160,Missouri,none,09/06/1979
+lattaiv01w,G,66.0,143,North Carolina,none,24/09/1984
+lavenja01w,C,76.0,185,Ohio State,none,12/11/1988
+lawsoed01w,G,66.0,130,none,none,14/05/1979
+lawsoka01w,G,69.0,165,Tennessee,none,14/02/1981
+lazicka01w,F-C,70.0,147,none,none,25/05/1980
+lehnish01w,G,69.0,147,Kansas State,none,27/10/1986
+lennobe01w,G,68.0,143,Louisiana Tech,none,04/12/1976
+leslili01w,C,77.0,170,USC,none,07/07/1972
+leuchye01w,C,77.0,195,West Virginia,none,30/04/1983
+levanni01w,G,68.0,163,Xavier,none,17/05/1979
+levesni01w,G,63.0,115,Wake Forest,none,11/04/1972
+lewista01w,F-C,74.0,212,Louisiana Tech,none,10/07/1979
+lewisty01w,G,70.0,152,North Carolina State,none,08/05/1979
+liebena01w,G,70.0,150,Old Dominion,none,01/07/1958
+lilleta01w,G,66.0,130,Oregon,none,29/02/1988
+listr01w,G-F,70.0,167,Providence,none,0000-00-00
+littlca01w,F,74.0,180,North Carolina,none,18/01/1985
+lloydan01w,F,74.0,175,Texas,none,09/02/1965
+lobore01w,F,76.0,190,Connecticut,none,06/10/1973
+lovelst01w,F,76.0,170,Purdue,none,05/12/1974
+luckepa01w,F,73.0,165,Houston,none,14/05/1975
+luzhe01w,G,68.0,144,none,none,23/11/1972
+lyttlsa01w,F,76.0,175,Houston,none,20/09/1983
+mabikmw01w,G-F,71.0,165,none,none,27/07/1976
+macchla01w,F,73.0,169,none,none,24/05/1979
+machacl01w,C-F,77.0,180,Old Dominion,none,04/10/1976
+mahonme01w,F,72.0,160,Kansas State,none,13/02/1983
+mahonsh01w,F,76.0,178,Western Kentucky,none,03/07/1977
+maigaha01w,G-F,73.0,160,Old Dominion,none,25/04/1978
+malcona01w,F,73.0,170,Providence,none,27/11/1975
+malloam01w,G,64.0,148,St. Joseph's,none,21/04/1970
+malloso01w,C,77.0,210,Georgia Tech,none,02/09/1981
+maltsev01w,G,71.0,165,none,none,20/12/1978
+mannish01w,F-C,75.0,186,North Carolina State,none,20/03/1969
+mannkr01w,F,73.0,185,UC Santa Barbara,none,10/08/1983
+mapprh01w,C,74.0,190,North Carolina State,none,13/10/1969
+marcimi01w,G,70.0,154,Tennessee,none,29/10/1973
+margiga01w,F,73.0,164,Drexel,none,12/02/1987
+martima01w,F,76.0,172,UCLA,none,17/04/1978
+martinu01w,G,69.0,167,none,none,29/02/1984
+mascira01w,F,72.0,169,none,none,30/09/1980
+maslemi01w,F,74.0,170,Penn State,none,10/10/1974
+matteca01w,G,69.0,167,Ohio State,none,22/08/1982
+matteka01w,C,80.0,240,Liberty,none,17/11/1982
+maxwean01w,F,71.0,186,New Mexico State,none,07/04/1974
+maxwemo01w,F,69.0,162,Louisiana Tech,none,21/12/1976
+maytuet01w,F,72.0,167,Oklahoma,none,28/04/1973
+mazzake01w,G,72.0,155,Penn State,none,02/02/1982
+mccaibr01w,G,63.0,135,Florida,none,21/09/1979
+mccaiti01w,G-F,70.0,167,Kentucky,none,06/10/1976
+mccanra01w,F,73.0,161,North Carolina,none,17/11/1986
+mccarja01w,C,74.0,205,Minnesota,none,03/11/1982
+mccarjo01w,G,67.0,130,Illinois-Chicago,none,26/10/1974
+mccarst01w,G-F,69.0,155,Purdue,none,20/06/1977
+mcclaka01w,F-C,74.0,180,Georgia,none,19/09/1965
+mcconsu01w,G,65.0,125,Penn State,none,29/07/1966
+mccouan01w,F,73.0,160,Louisville,none,10/09/1986
+mccrada01w,G-F,71.0,170,Kansas,none,08/10/1987
+mccrani01w,G,71.0,158,Tennessee,none,11/12/1971
+mccrini01w,G,68.0,125,USC,none,22/03/1972
+mcculda01w,F-C,75.0,180,Western Kentucky,none,18/01/1975
+mcgeepa01w,C-F,75.0,200,USC,none,01/12/1962
+mcgheca01w,F-C,73.0,179,Tennessee,none,06/03/1968
+mckivte01w,C-F,75.0,220,Tulane,none,05/10/1980
+mcwilta01w,F-C,74.0,188,St. Edwards,none,20/10/1970
+melvich01w,C-F,75.0,185,North Carolina State,none,03/05/1976
+mendigi01w,G,71.0,174,Washington,none,09/01/1982
+miaomi01w,G,71.0,153,none,none,03/06/1981
+millebr01w,C,76.0,167,Florida State,none,10/08/1987
+milleco01w,G,69.0,140,Georgia,none,06/09/1978
+milleke01w,G,70.0,140,Georgia,none,06/09/1978
+millsta01w,C,75.0,232,Alabama,none,29/02/1976
+miltode01w,F,73.0,185,Florida,none,11/09/1974
+mitchle01w,G,65.0,130,Utah,none,15/06/1985
+mizrali01w,G,67.0,130,Maryland,none,24/06/1970
+moeggli01w,F,73.0,195,Michigan State,none,25/05/1984
+moisead01w,G,66.0,140,none,none,06/12/1978
+mokanch01w,F,77.0,167,Mississippi State (jr-sr),Southeastern Illinois (fr-so),13/10/1988
+monroja01w,C,77.0,162,Florida State,none,04/09/1988
+montaan01w,F,73.0,190,George Washington,none,24/10/1980
+montgal01w,G-F,73.0,185,Georgia Tech,none,12/11/1988
+montgre01w,G,67.0,139,Connecticut,none,02/12/1986
+mooreja01w,C,73.0,207,Long Beach State,none,06/11/1979
+mooreje01w,F-C,75.0,175,Connecticut,none,09/07/1982
+moorelo01w,G,69.0,165,Tennessee,none,21/03/1983
+moorema01w,F,72.0,175,Connecticut,none,11/06/1989
+moorena01w,G,70.0,145,Alabama,none,04/11/1984
+moorepe01w,F,72.0,135,Long Beach State,none,25/01/1969
+mooreta01w,G-F,71.0,167,Wisconsin,none,11/04/1980
+mooreyo01w,F,72.0,174,Mississippi,none,01/07/1974
+moosca01w,F-C,78.0,182,Stanford,none,23/05/1978
+morehmo01w,F-C,75.0,175,Auburn,none,18/01/1974
+morgale01w,F,73.0,167,Francis Marion,none,01/11/1969
+morrich01w,F,73.2,167,Southern Nazarene,none,0000-00-00
+morrije01w,G,69.0,146,San Diego State,none,21/07/1987
+morrila01w,F,73.0,160,Auburn,none,26/05/1974
+morrizi01w,C,76.0,167,none,none,15/02/1989
+mosbybe01w,F,73.0,172,Baylor,Florida,14/02/1984
+mosleju01w,F,73.0,170,Hawai'i,none,17/03/1968
+moweje01w,C,77.0,236,Oregon,none,25/02/1978
+mulitna01w,C,75.0,207,Stanford,none,06/03/1976
+murphsh01w,G,71.0,164,USC,none,15/04/1985
+nagyan01w,G,67.0,147,Florida International,none,16/11/1971
+nanch01w,C,78.0,204,none,none,06/01/1983
+ndiayas01w,F-C,75.0,182,Southern Nazarene,none,05/11/1973
+ndongem01w,C,74.0,170,none,none,25/04/1983
+nemcoev01w,F,74.0,178,none,none,03/12/1972
+neroja01w,F,71.0,180,Alabama-Birmingham,none,08/11/1968
+nevescl01w,G,68.0,136,none,none,17/02/1975
+newtoch01w,G,71.0,154,Rutgers,none,17/02/1983
+ngarsch01w,C,75.0,168,Missouri,none,23/06/1983
+ngoyibe01w,C,76.0,195,none,none,26/08/1982
+nichoti01w,G,63.0,146,Penn State,none,27/09/1973
+nieuwma01w,C,77.0,180,Valparaiso,none,12/04/1980
+nikolmi01w,F,75.0,185,none,none,04/07/1971
+nnamach01w,G,72.0,156,Georgia Tech,none,15/06/1985
+nolande01w,G-F,69.0,147,Georgia,none,25/08/1979
+novosna01w,G,71.0,165,Notre Dame,none,0000-00-00
+nygaava01w,F,73.0,166,Stanford,none,13/03/1975
+ogayu01w,G,66.0,140,none,none,17/10/1982
+ogwumnn01w,F,74.0,167,Stanford,none,02/07/1990
+oheaje01w,G-F,73.0,174,Australian Institute of Sport,none,06/06/1987
+ohldeni01w,F-C,77.0,190,Kansas State,none,13/03/1982
+olajuab01w,C,76.0,236,Oklahoma,none,06/07/1988
+oneilkr01w,G-F,73.0,158,Washington,none,12/04/1983
+orrki01w,G,66.0,141,Duke,none,16/09/1975
+osburde01w,C,76.0,167,Oregon,none,11/02/1972
+osipoir01w,C,77.0,190,none,none,25/06/1981
+owenhe01w,F,77.0,212,Stanford,none,06/05/1976
+owenssh01w,C,74.0,175,Kentucky,none,16/05/1978
+pageda01w,F,74.0,179,Nebraska,none,14/11/1986
+pagemu01w,F,74.0,160,Florida,none,18/09/1975
+paigeyo01w,G,66.0,147,West Virginia,none,18/09/1983
+paliesa01w,G,67.0,159,none,none,23/07/1981
+palmewe01w,F,74.0,165,Virginia,none,12/08/1974
+parisco01w,C,76.0,250,Oklahoma,none,21/09/1987
+parkeca01w,F,76.0,175,Tennessee,none,19/04/1986
+pascafl01w,C,76.0,187,none,none,19/01/1982
+paschti01w,F,73.0,165,Florida State,none,22/03/1969
+pavlimi01w,F-C,75.0,175,Denver,none,27/11/1977
+payeka01w,G,68.0,150,Stanford,none,06/03/1974
+pederka01w,F,76.0,190,Stanford,none,04/04/1989
+penicti01w,G,71.0,145,Old Dominion,none,18/09/1974
+pennjo01w,F,72.0,160,South Carolina,none,10/09/1979
+perazja01w,G-F,72.0,170,Maryland,none,06/12/1960
+perkiji01w,G,68.0,155,Texas Tech,none,23/02/1982
+perpeer01w,F-G,75.0,181,The Master's College,none,05/06/1979
+perroki01w,G,65.0,130,SW Louisiana,none,18/01/1967
+peterde01w,F,74.0,170,Notre Dame,none,08/10/1989
+petroso01w,F,73.0,167,none,none,18/02/1989
+pettibr01w,G,69.0,150,Florida,none,01/01/1971
+philler01w,G,67.0,162,none,none,19/05/1985
+phillpo01w,F,74.0,173,Georgia,none,13/01/1988
+phillta01w,F-C,74.0,200,Central Florida,none,06/03/1969
+phillta02w,C,78.0,198,Xavier,none,24/01/1989
+pierspl01w,F-C,74.0,181,Texas Tech,none,30/08/1981
+plowdvi01w,F,72.0,167,Miami (FL),none,22/07/1971
+pohleje01w,G,72.0,179,Stanford,none,02/05/1989
+pollica01w,F,77.0,165,Texas,none,16/03/1966
+pondeca01w,G,69.0,160,Rutgers,none,07/01/1983
+potthan01w,F,73.0,191,Penn State,none,12/06/1974
+powelel01w,G,68.0,150,Louisiana State,none,09/08/1975
+powelni01w,F,74.0,175,Stanford,none,22/06/1982
+prahasa01w,G,67.0,129,Ohio State,none,23/01/1990
+pricear01w,G-F,69.0,133,Mississippi,none,03/04/1985
+pricefr01w,G,69.0,178,Iowa,none,28/04/1968
+priceka01w,G,70.0,148,Stephen F. Austin,none,03/12/1975
+pridely01w,F-G,74.0,180,Kansas,none,16/10/1978
+princep01w,G,69.0,167,Rutgers,none,11/01/1988
+pringla01w,F-C,75.0,162,North Carolina,none,11/09/1986
+queenbr01w,F,74.0,185,Boston College,none,10/04/1984
+quiglal01w,G,70.0,140,DePaul,none,20/06/1986
+quinnno01w,G,72.0,175,UCLA,none,03/01/1985
+quinnte01w,F,76.0,165,Seton Hall,none,07/09/1974
+radunha01w,C,75.0,187,none,none,10/01/1978
+raglafe01w,G,67.0,133,Oregon State,none,03/02/1980
+randase01w,G,69.0,164,Tennessee,none,07/02/1979
+rasmukr01w,F,76.0,174,Michigan State,none,01/11/1978
+ravenbr01w,G,72.0,162,Texas,none,01/08/1988
+raymost01w,G,65.0,139,Northern Illinois,none,15/01/1985
+raymota01w,F,74.0,195,Connecticut,none,12/04/1980
+reddja01w,F,73.0,164,Washington,none,05/11/1977
+redmoka01w,G-F,73.0,167,Gonzaga,Washington,11/10/1988
+reedbr01w,F,73.0,168,Southern Mississippi,none,17/02/1977
+reedch01w,F,73.0,165,Arkansas-Little Rock,none,28/03/1989
+reedmi01w,G,71.0,165,Western Kentucky,none,24/05/1973
+reidtr01w,F,71.0,150,North Carolina,none,01/11/1976
+reissta01w,G,66.0,129,Virginia,none,02/04/1970
+resska01w,F,76.0,194,Boston College,none,26/06/1985
+reynoch01w,F,74.0,180,Houston,none,08/02/1972
+rileyan01w,G,65.0,136,Oklahoma State,none,22/07/1988
+rileyru01w,C,77.0,198,Notre Dame,none,28/08/1979
+rizzoje01w,G,66.0,146,Connecticut,none,15/05/1974
+roberav01w,G,69.0,145,Ohio State,none,29/01/1970
+roberny01w,C,75.0,209,Old Dominion,none,10/03/1976
+robinas01w,C,76.0,180,Tennessee,none,12/08/1982
+robincr01w,F-G,71.0,155,SE Oklahoma State,none,22/01/1974
+robinda01w,G,69.0,125,Oklahoma,none,10/05/1989
+robinre01w,G,71.0,166,Virginia,none,15/06/1978
+robinsc01w,G,71.0,155,Louisiana State,none,09/01/1983
+rolanja01w,G-F,73.0,167,Purdue,none,03/02/1975
+rossad01w,G,68.0,142,Texas Christian,none,23/11/1984
+rouilni01w,G,67.0,130,Loyola Marymount,none,23/01/1970
+roundsa01w,G,67.0,145,Georgia,none,04/10/1976
+ruffje01w,G-F,71.0,140,Washington State,none,12/09/1974
+rushle01w,F,73.0,175,Oklahoma,none,25/10/1984
+ryankr01w,F,71.0,150,Sacramento State,none,19/11/1972
+rycraeu01w,C,75.0,175,Cal State Fullerton,none,06/12/1968
+salesny01w,G-F,72.0,184,Connecticut,none,10/05/1976
+sampsch01w,G,71.0,175,Kansas,none,01/09/1974
+sampsto01w,G,70.0,167,North Carolina,none,02/03/1972
+samsh01w,F-G,72.0,160,Vanderbilt,none,05/05/1974
+sanchis01w,G,70.0,152,none,none,28/11/1976
+sandeam01w,G,71.0,156,Hawai'i,none,05/06/1983
+sandish01w,G,72.0,145,none,none,22/01/1969
+sanfona01w,F-C,76.0,200,Kansas,none,10/05/1976
+sanniol01w,C,74.0,167,West Virginia,none,21/08/1986
+santoal01w,C,77.0,181,none,none,02/12/1973
+santoke01w,F,75.0,188,none,none,10/11/1979
+sarenra01w,C,78.0,222,none,none,27/06/1974
+sauerpa01w,C,76.0,203,Connecticut,none,08/12/1977
+saundja01w,F,71.0,145,Texas A&M,none,21/08/1979
+saureau01w,G,70.0,163,none,none,31/10/1976
+savasla01w,G,68.0,134,Washington,none,18/03/1974
+schumke01w,C,77.0,183,Connecticut,none,14/10/1977
+schwege01w,G-F,72.0,160,Duke,none,31/01/1979
+scottol01w,C,74.0,175,Stanford,none,05/08/1976
+scottra01w,F,75.0,169,Colorado,none,12/08/1975
+shakiel01w,F-C,75.0,190,none,none,02/06/1970
+sharpkb01w,G,69.0,145,Cincinnati,none,18/04/1981
+sheetsh01w,G,66.0,130,Colorado,none,15/08/1975
+shegoch01w,C,77.0,167,North Carolina,none,22/02/1990
+shielas01w,G,70.0,155,SW Tennessee CC,none,15/07/1985
+shudlca01w,C,72.0,167,Minnesota,none,13/05/1972
+shulead01w,G,66.0,153,Georgia,none,24/04/1969
+simondy01w,G,65.0,137,Arizona State,none,29/09/1989
+simpsda01w,F,75.0,160,Houston,none,11/04/1969
+slaisma01w,G,68.0,173,Cincinnati,none,23/08/1973
+slauggw01w,F,75.0,181,Tulane,none,01/07/1980
+slavtge01w,G,73.0,160,Florida International,none,20/10/1979
+smithai01w,F,74.0,173,Louisiana State,none,18/07/1980
+smithbr01w,F-C,75.0,195,Stanford,none,30/04/1984
+smithch01w,G,67.0,140,Arkansas,none,14/08/1975
+smithch02w,F,70.0,145,Stanford,none,02/05/1975
+smithch03w,G,72.0,148,North Carolina,none,23/08/1973
+smithcr01w,G,66.0,121,Iowa,none,12/03/1984
+smithje01w,C,75.0,198,Michigan,none,10/04/1982
+smithka01w,G-F,71.0,174,Ohio State,none,04/06/1974
+smithki01w,F,73.0,158,Utah,none,07/05/1984
+smithla01w,G,67.0,150,Mississippi State,none,06/02/1974
+smithta01w,F-C,76.0,160,Iowa,none,01/04/1977
+smithty01w,F,72.0,167,Delaware,none,21/04/1985
+smithwa01w,G,71.0,175,Duke,none,09/07/1985
+snellbe01w,G,69.0,170,University of Sydney,none,01/10/1981
+snowmi01w,C,77.0,158,Tennessee,none,20/03/1980
+sobrale01w,F,73.0,183,none,none,22/11/1974
+sobrama01w,C,75.0,163,none,none,23/03/1964
+spencsi01w,G,75.0,183,Tennessee,none,07/03/1985
+spornra01w,F,74.0,150,none,none,26/05/1968
+stafftr01w,F,73.0,180,California,none,11/11/1970
+staleda01w,G,66.0,134,Virginia,none,04/05/1970
+stansti01w,F-C,75.0,183,North Carolina State,none,16/01/1983
+starbka01w,G,73.0,153,Stanford,none,30/07/1975
+stedika01w,F-G,72.0,173,Stanford,none,11/12/1967
+stepama01w,C,80.0,187,none,none,23/02/1979
+stephre01w,G,71.0,160,UCLA,none,28/12/1969
+stephst01w,C,76.0,205,Texas,none,21/01/1982
+sterkca01w,F,74.0,170,Central Michigan,none,0000-00-00
+stevema01w,F-C,75.0,166,Auburn,none,04/02/1982
+stileja01w,G,68.0,144,Missouri State,none,21/12/1978
+stillva01w,F-C,73.0,151,Kentucky,none,14/05/1961
+stinsan01w,G,70.0,158,North Carolina State,none,25/11/1967
+stiresh01w,F,71.0,208,Kansas State,none,21/05/1972
+stockta01w,F-C,74.0,165,Florida,none,29/01/1979
+streiju01w,F,74.0,165,none,none,14/05/1972
+stricsh01w,G-F,74.0,178,Tennessee,none,30/07/1990
+strotan01w,G-F,75.0,166,Connecticut,none,11/12/1983
+suberto01w,G,67.0,137,Virginia,none,23/11/1974
+summela01w,C,74.0,167,none,none,13/12/1983
+sun-mju01w,C,73.0,168,none,none,12/10/1974
+suttota01w,C,76.0,199,Rutgers,none,27/01/1978
+swanike01w,G,67.0,144,Connecticut,none,10/08/1986
+swoopsh01w,F-G,72.0,145,Texas Tech,none,25/03/1971
+swordca01w,C,78.0,210,Boston College,none,19/07/1989
+sykesap01w,G-F,72.0,167,Rutgers,none,30/07/1990
+tatede01w,G,68.0,150,Maryland,none,13/05/1966
+tateso01w,G,66.0,157,Arkansas State,none,07/09/1971
+tauradi01w,F-G,72.0,172,Connecticut,none,11/06/1982
+tayloli01w,C,80.0,200,UC Santa Barbara,none,20/05/1981
+taylope01w,F,73.0,168,none,none,24/05/1981
+teaslni01w,G,72.0,169,North Carolina,none,22/03/1979
+teilaza01w,C,79.0,170,Western Illinois,none,24/09/1983
+terryka01w,C-F,75.0,183,Georgia Tech,none,21/10/1983
+thirdtr01w,F,71.0,160,Washington,none,27/02/1968
+thomaca01w,F,75.0,200,Vanderbilt,none,31/10/1985
+thomach01w,C,75.0,185,Georgia,none,14/08/1982
+thomaja01w,G,69.0,145,Duke,none,30/09/1989
+thomakr01w,C,77.0,195,Duke,none,10/06/1989
+thomala01w,F,74.0,165,Mississippi State,none,06/07/1981
+thomast01w,F,70.0,154,Michigan,none,29/08/1978
+thompal01w,F,73.0,180,Texas Tech,none,30/06/1976
+thompam01w,F,73.0,170,Oklahoma,none,18/11/1987
+thomppa01w,F,73.0,193,Tennessee,none,16/01/1975
+thompti01w,F,74.0,178,USC,none,10/02/1975
+thorbsh01w,G,69.0,149,Utah,none,07/08/1982
+thorner01w,G,70.0,150,Brigham Young,none,19/05/1981
+threaro01w,G,67.0,150,Wisconsin,none,01/07/1970
+tilliic01w,C-F,77.0,165,Duke,none,06/12/1981
+timmsmi01w,G,67.0,132,none,none,28/06/1965
+tolerpe01w,G,68.0,132,Long Beach State,none,24/03/1966
+tolivkr01w,G,67.0,130,Maryland,none,27/01/1987
+torniel01w,F,73.0,160,none,none,27/05/1965
+torrele01w,C,75.0,171,Florida State,none,06/04/1978
+traviti01w,G-F,71.0,145,Flordia,none,20/03/1978
+tremich01w,G,66.0,142,Auburn,none,20/10/1969
+tricetr01w,F-C,74.0,180,North Carolina State,none,04/08/1965
+tunsine01w,G-F,73.0,170,Iowa State,none,22/08/1970
+turneba01w,G-F,72.0,172,Connecticut,none,08/06/1984
+tutermo01w,G,72.0,155,Arizona State,none,25/08/1975
+tuvicsl01w,C,76.0,194,none,none,19/09/1977
+tzekopo01w,C,76.0,189,none,none,30/04/1968
+udokamf01w,F,72.0,187,DePaul,none,16/06/1976
+ujhelpe01w,F-C,76.0,200,South Carolina,none,17/12/1980
+umoh-it01w,G,67.0,140,Clemson,none,21/02/1977
+valdeam01w,F,73.0,160,none,none,18/08/1976
+vandeco01w,G,68.0,130,Gonzaga,none,08/02/1989
+vanemal01w,F,75.0,175,UCLA,none,14/04/1968
+vangomi01w,C,78.0,187,Duke,none,10/05/1977
+vaughki01w,C,76.0,208,Rutgers,none,24/01/1987
+vaughkr01w,F,73.0,160,Virginia Commonwealth,none,08/09/1986
+vealkr01w,G,70.0,150,none,none,24/07/1981
+veselja01w,F,75.0,195,none,none,31/12/1983
+vidicbo01w,G,69.0,133,Oregon State,none,07/01/1973
+viglida01w,G,70.0,157,Texas,none,07/03/1975
+vilipda01w,F-C,76.0,207,none,none,30/03/1975
+vodicka01w,F-C,76.0,190,none,none,19/12/1972
+vodopna01w,F,75.0,181,none,none,06/04/1981
+voigtka01w,G,73.0,162,Wisconsin,none,07/04/1975
+vukadmi01w,G,73.0,150,California,none,18/11/1968
+walkeas01w,F-C,73.0,200,California,none,24/02/1987
+walkeay01w,F,75.0,142,Louisiana Tech,none,10/09/1979
+walkede01w,F,75.0,168,Virginia,none,28/11/1977
+walkema01w,C,75.0,253,Pittsburgh,none,17/10/1986
+walsema01w,F,74.0,184,Penn State,none,28/10/1978
+wardvo01w,C,78.0,170,Tennessee,none,16/03/1973
+warleav01w,C,75.0,167,Liberty,none,17/05/1987
+washico01w,G,66.0,138,Notre Dame,none,17/01/1971
+washito01w,F,71.0,160,Florida,none,30/12/1977
+wautean01w,C,76.0,193,none,none,12/10/1980
+weathte01w,G,68.0,161,Louisiana Tech,none,08/12/1965
+webbum01w,G-F,70.0,162,North Carolina State,none,26/06/1975
+weberma01w,C,77.0,200,Iona,none,01/06/1982
+weckeke01w,F,73.0,172,Kansas State,none,16/12/1982
+whaleli01w,G,68.0,150,Minnesota,none,09/05/1982
+whitede01w,F,71.0,180,Louisiana State,none,03/04/1980
+whiteer01w,G,63.0,135,Louisiana State,none,26/08/1986
+whiteta01w,G,67.0,154,Mississippi State,none,27/09/1982
+whitiva01w,C-F,74.0,199,Stanford,none,09/04/1972
+whitmta01w,F,74.0,190,Memphis,none,05/06/1977
+whittje01w,C,77.0,176,none,none,05/09/1973
+whittkh01w,F,73.0,185,North Carolina State,none,05/08/1986
+wickssu01w,F,75.0,191,Rutgers,none,26/11/1966
+widemja01w,G,66.0,135,Stanford,none,16/10/1975
+wiggica01w,G,71.0,154,Stanford,none,14/02/1987
+wilkeda01w,G,65.0,121,Long Beach State,none,27/02/1969
+wilkibr01w,C,75.0,185,Iowa State,none,15/06/1983
+williad01w,F-C,77.0,170,USC,none,15/02/1977
+willian01w,G,72.0,149,Illinois,none,21/07/1983
+willibe01w,G,69.0,145,Texas,none,09/11/1965
+willide01w,G,68.0,160,Louisiana Tech,none,23/09/1972
+williki01w,G,66.0,136,DePaul,Westark CC,14/10/1974
+willile01w,F,72.0,200,Auburn,none,10/02/1981
+willile02w,G-F,71.0,155,DePaul,none,04/07/1979
+willili01w,G,71.0,170,UCLA,none,13/06/1984
+willina01w,F-C,74.0,210,UCLA,none,30/11/1970
+williri01w,G,66.0,135,Connecticut,none,14/01/1976
+williri02w,G,67.0,165,Miami,none,28/05/1990
+willisa01w,G-F,72.0,167,Auburn,none,24/09/1973
+willish01w,G,66.0,135,Oregon,none,14/04/1980
+willita01w,G,71.0,170,Auburn,none,23/07/1974
+willito01w,G,68.0,138,Texas A&M,none,11/01/1982
+williwe01w,G,67.0,141,Arkansas,none,18/11/1978
+wilsoam01w,F,71.0,176,Louisiana Tech,none,06/02/1977
+wirthch01w,F,73.0,185,Vanderbilt,none,18/04/1987
+wisdoli01w,F,74.0,186,Purdue,none,26/05/1986
+witheso01w,G,70.0,145,Florida,none,06/07/1969
+wojtaju01w,G-F,72.0,175,Wisconsin-Green Bay,none,09/04/1989
+wolteka01w,C,79.0,227,Connecticut,none,15/08/1975
+wolvean01w,F-C,75.0,205,Oregon,none,08/12/1978
+woodaly01w,G,72.0,160,Kansas,none,12/08/1959
+woodki01w,C,76.0,167,Wisconsin-Green Bay,none,16/09/1972
+wooslti01w,G,67.0,132,Tennessee,none,04/04/1973
+wrighfa01w,G,66.0,130,San Diego State,none,28/01/1973
+wrighmo01w,G,71.0,178,Virginia,none,15/07/1988
+wrighsh01w,F,70.0,155,Purdue,none,21/09/1981
+wrighta01w,G,71.0,165,Penn State,none,20/11/1983
+wyckobr01w,F,73.0,183,Florida State,none,30/03/1980
+wynneda01w,F,74.0,175,Seton Hall,none,02/02/1975
+yamasli01w,G,73.0,190,Stanford,none,02/06/1980
+yasenco01w,G,72.0,160,Purdue,none,05/12/1973
+yilmane01w,F-C,76.0,193,none,none,06/06/1980
+youngca01w,G,69.0,175,Auburn,none,28/07/1969
+youngso01w,F,73.0,165,Baylor,none,15/12/1983
+youngta01w,F,74.0,166,James Madison,none,30/10/1986
+zakalok01w,C,78.0,174,none,none,18/12/1977
+zarafr01w,G,70.0,146,none,none,08/12/1976
+zellosh01w,G,70.0,155,Pittsburgh,none,28/08/1986
+zhengha01w,C,80.0,254,none,none,07/03/1967
+zirkozu01w,G,69.0,145,none,none,06/06/1980
+zollsh01w,G,67.0,148,Virginia,none,11/07/1986
+frankba01w,F-C,74.1,167,Wisconsin,none,0000-00-00
+abrahta01w,C,74.0,190,George Washington,none,27/09/1975
+abrossv01w,F,74.0,169,Connecticut,none,09/07/1980
+adairje01w,C,76.0,197,George Washington,none,19/12/1986
+adamsda01w,F-C,73.0,239,Texas A&M,Jefferson College (JC),19/02/1989
+adamsjo01w,C,75.0,180,New Mexico,none,24/05/1981
+aguilel01w,G,67.0,165,George Washington,none,15/10/1976
+ajavoma01w,G,68.0,160,Rutgers,none,07/05/1986
+alberma01w,G,64.0,167,Ohio State,none,12/04/1975
+aldrima01w,G,71.0,153,UNC Charlotte,none,15/09/1973
+alexaer01w,G,67.0,140,California-Santa Barbara,none,25/04/1975
+alhalta01w,F-G,72.0,149,DePaul,none,17/10/1974
+allench01w,G,71.0,135,Notre Dame,none,23/07/1986
+amachma01w,F,73.0,175,none,none,30/01/1978
+ambermo01w,F,76.0,169,Arizona State,none,21/12/1970
+anderam01w,F,72.0,167,Brigham Young,none,14/03/1984
+anderch01w,C,78.0,190,Vanderbilt,none,22/01/1981
+anderjo01w,G,68.0,166,Wisconsin,none,22/07/1986
+anderke01w,G,67.0,125,Wisconsin,none,17/05/1974
+andrame01w,F,71.0,165,Old Dominion,none,31/12/1975
+angelyv01w,G,68.0,160,Ohio State,none,14/10/1963
+anosini01w,C,75.0,211,Tennessee,none,27/02/1986
+appelja01w,C,76.0,210,Stanford,none,14/05/1988
+arcaija01w,G,71.0,147,none,none,11/04/1969
+artiska01w,F,73.0,155,Northeastern,none,09/07/1973
+askamma01w,C,77.0,198,none,none,07/08/1970
+atkinla01w,G-F,72.0,172,North Carolina,none,22/03/1984
+atunrmo01w,G-F,70.0,143,Texas A&M,none,14/04/1986
+augusse01w,F,72.0,179,Louisiana State,none,30/04/1984
+aycocan01w,G-F,74.0,172,Kansas,none,28/02/1973
+ayimmi01w,F,75.0,167,Pepperdine,none,06/05/1988
+azizle01w,F,75.0,177,Syracuse,none,28/02/1979
+azzije01w,G,68.0,143,Stanford,none,31/08/1968
+badertr01w,G,64.0,125,Boise State,none,26/02/1973
+bakerla01w,G,67.0,140,California,none,18/12/1968
+bakersh01w,G,68.0,125,Georgia,none,03/12/1982
+balesal01w,C,79.0,218,Duke,none,04/04/1985
+banchrh01w,C,75.0,185,Washington,none,01/05/1973
+baranel01w,F,77.0,182,Academy of Sport Moscow,none,28/01/1972
+barksla01w,G,70.0,156,North Carolina,none,03/10/1979
+barnead01w,F,71.0,165,Arizona,none,03/02/1977
+barnequ01w,C,77.0,185,Indiana,none,26/09/1976
+bassmi01w,F,75.0,184,Duke,none,02/12/1983
+batkosu01w,C,76.0,203,none,none,17/12/1980
+batteja01w,F,73.0,163,Notre Dame,none,26/03/1983
+battlas01w,F,72.0,170,Connecticut,none,31/05/1982
+bauerca01w,F-C,76.0,180,Montana State,none,27/06/1972
+beardal01w,G-F,71.0,160,Duke,none,14/05/1982
+becenry01w,G,66.0,140,Arizona State,Scottsdale CC (JC),11/08/1971
+beckki01w,G,68.0,125,George Washington,none,27/12/1985
+bellje01w,F,73.0,160,Florida International,none,26/05/1970
+bennije01w,F,75.0,185,Vanderbilt,none,06/10/1981
+berezva01w,C,76.0,167,Rice,none,10/04/1986
+berggas01w,G,70.0,170,Illinois,none,18/11/1976
+berrysh01w,F-C,75.0,175,Iowa,none,06/07/1967
+berthlu01w,F-C,74.0,188,Old Dominion,none,31/03/1978
+berubca01w,F,72.0,155,Connecticut,none,02/09/1975
+beviltu01w,G,67.0,145,none,none,19/07/1972
+bibbyje01w,G,67.0,139,none,none,23/08/1979
+bibrzag01w,G-F,74.0,168,none,none,21/10/1982
+birdsu01w,G,69.0,150,Connecticut,none,16/10/1980
+bishoab01w,F-C,74.0,167,none,none,29/11/1988
+bjedoni01w,C,78.0,195,none,none,18/05/1971
+bjorkan01w,F,72.0,166,Tennessee,none,14/07/1989
+bjorkte01w,C,76.0,175,Colorado,none,29/06/1982
+blackch01w,C,77.0,188,Duke,none,12/11/1985
+blackde01w,G,63.0,124,St. Joseph's,none,29/07/1966
+bladerh01w,G,67.0,138,Vanderbilt,none,29/10/1972
+blodgci01w,G,69.0,130,Maine,none,23/12/1975
+blueni01w,G,68.0,163,UCLA,none,29/03/1984
+blueoc01w,F,73.0,163,Miami (FL),none,18/08/1976
+bobbish01w,G,62.0,130,Tennessee,none,06/12/1985
+boddiwh01w,G,69.0,149,Auburn,none,23/01/1987
+boldeba01w,G,74.0,180,Louisiana Tech,none,16/06/1969
+boltoru01w,G,69.0,150,Auburn,none,25/05/1967
+bondla01w,G,67.0,132,Missouri,none,13/02/1984
+bonfisu01w,G,68.0,145,none,none,08/09/1974
+bonnede01w,G,76.0,136,Auburn,none,21/08/1987
+bookeka01w,C,73.0,170,Vanderbilt,none,10/04/1965
+bosweca01w,F-G,72.0,168,Illinois State,none,10/11/1962
+bouceje01w,G,68.0,130,Virginia,none,20/12/1973
+bouchke01w,F,74.0,163,none,none,13/01/1968
+bowenli01w,G,67.0,145,Michigan State,none,25/10/1983
+boydca01w,F,73.0,172,none,none,31/10/1975
+bradlki01w,F-C,77.0,185,Oral Roberts,none,26/08/1974
+brancli01w,G,64.0,167,Texas A&M,none,0000-00-00
+branzal01w,F,76.0,180,Florida International,none,17/07/1971
+branzge01w,F,76.0,175,Florida International,none,25/07/1976
+braxtja01w,F-C,75.0,178,Louisiana Tech,none,06/10/1973
+braxtka01w,F-C,78.0,210,Georgia,none,18/02/1983
+brazian01w,F,74.0,169,Texas Tech,none,18/09/1976
+brcanra01w,C,80.0,198,none,none,15/04/1967
+brelaje01w,F,75.0,170,North Carolina,none,23/02/1988
+bristre01w,G,70.0,139,Arizona,none,10/02/1978
+brogami01w,F,73.0,177,none,none,08/02/1973
+brondsa01w,G,67.0,136,U. Western Sydney,none,20/08/1968
+brownci01w,F-C,74.0,183,Long Beach State,none,16/03/1965
+brownco01w,G,69.0,150,North Carolina,none,21/10/1980
+browned01w,G-F,69.0,163,Texas,none,01/07/1978
+brownki01w,G,70.0,134,Georgia,none,13/01/1979
+brownla01w,C,75.0,180,Louisiana Tech,none,01/12/1972
+brownle01w,F,72.0,166,Virginia,none,03/06/1977
+brownru01w,F,74.0,175,Furman,none,05/05/1972
+brumfma01w,G,68.0,133,Rice,none,06/06/1978
+brungje01w,F,73.0,165,Penn State,none,16/04/1982
+brunsre01w,F,75.0,175,Georgetown,none,11/12/1981
+bullevi01w,F,75.0,185,Maryland,none,04/10/1967
+burgean01w,G,67.0,141,none,none,10/04/1969
+burgehe01w,C,77.0,195,Virginia,none,11/11/1971
+burgehe02w,F,77.0,180,Virginia,none,11/11/1971
+burgeli01w,F,73.0,173,Alabama,none,27/07/1969
+burraal01w,C,75.0,218,Louisiana Tech,none,23/06/1975
+burseja01w,C,77.0,199,Tulane,none,19/05/1979
+buttsta01w,G,71.0,160,Tennessee,none,10/03/1982
+byearla01w,G-F,71.0,206,DePaul,NE Oklahoma A&M (JC),12/08/1973
+byrdla01w,G,66.0,131,Eastern Michigan,none,01/02/1960
+cabezli01w,F-C,75.0,178,Central Florida CC,none,25/10/1973
+cainke01w,C,78.0,220,Tennessee,none,16/05/1989
+camba01w,C,80.0,215,none,none,18/08/1991
+campbed01w,G,68.0,152,Texas,none,26/11/1968
+campbmi01w,F-C,77.0,170,USC,none,20/02/1974
+cantydo01w,G-F,69.0,162,Alabama,none,02/03/1977
+careyja01w,G,66.0,135,Texas,none,12/03/1981
+carsoes01w,G-F,72.0,165,Rutgers,none,28/07/1986
+carteam01w,F,74.0,185,Louisiana State,none,21/06/1982
+cartede01w,G-F,72.0,185,Georgia,none,03/01/1972
+cartesy01w,G,66.0,167,Texas A&M,none,18/11/1990
+cashsw01w,F,73.0,162,Connecticut,none,22/09/1979
+cassija01w,C,75.0,187,Maine,none,12/09/1978
+castriz01w,F-G,72.0,140,none,none,13/03/1982
+catchta01w,F,73.0,167,Tennessee,none,21/07/1979
+caufila01w,G,69.0,159,Oklahoma,none,25/05/1980
+cebriel01w,C,77.0,190,none,none,07/02/1971
+chacoke01w,G,69.0,151,George Mason,none,21/12/1974
+chambco01w,G,69.0,160,Georgia,none,06/07/1985
+chanequ01w,G,71.0,160,Louisiana State,none,14/04/1986
+chapmji01w,C,75.0,206,Indiana,none,04/11/1979
+charlda01w,F-C,75.0,141,Tennessee,none,22/11/1968
+charlti01w,C,76.0,198,Connecticut,none,05/12/1988
+chaseso01w,G,69.0,150,Maryland,none,09/03/1976
+cheekjo01w,F,73.0,201,Duke,none,25/06/1988
+cheruam01w,G,70.0,140,Indiana,none,18/04/1970
+chestfe01w,F,75.0,180,DePaul,none,24/03/1988
+choneka01w,C,75.0,180,North Carolina State,none,11/01/1981
+chriska01w,F,74.0,171,UC Santa Barbara,none,16/11/1980
+chriska02w,F,72.0,180,Duke,none,11/09/1989
+chrissh01w,F,73.0,170,Arkansas,none,15/02/1982
+cironkr01w,G,68.0,150,Illinois State,none,19/05/1987
+clarkal01w,F,70.0,167,Middle Tennessee State,none,07/07/1987
+clarkma01w,F-C,75.0,167,Arizona,none,01/01/1971
+clearmi01w,G,66.0,126,Australian Institute of Sport,none,16/07/1974
+clinest01w,G,65.0,148,UC Santa Barbara,none,22/04/1978
+coggicl01w,G,71.0,170,Kansas State,none,19/05/1985
+cokermo01w,F,73.0,180,Old Dominion,none,28/11/1982
+colemco01w,F,72.0,170,Ohio State,none,13/04/1981
+colemma01w,G-F,73.0,160,Maryland,none,04/01/1987
+colleka01w,G-F,70.0,145,Maryland,none,17/03/1971
+colsosy01w,G,68.0,140,Texas A&M,none,06/08/1989
+compame01w,G,69.0,143,St. Joseph's,none,18/09/1975
+congran01w,F-C,74.0,183,Mercer,none,03/06/1970
+conklab01w,F,75.0,175,Tennessee,none,10/02/1975
+consuca01w,G,68.0,144,Iowa,none,04/03/1979
+coopeca01w,C,76.0,176,Purdue,none,05/02/1979
+coopecy01w,G,70.0,150,USC,none,14/04/1963
+crawlsy01w,F-C,77.0,187,North Carolina,none,27/09/1972
+crockda01w,F,73.0,158,Baylor,none,11/02/1981
+crockwi01w,F,74.0,215,Connecticut,none,05/07/1984
+cronika01w,G,72.0,155,Colorado State,none,08/09/1977
+crosssh01w,G,70.0,155,Tennessee,none,07/09/1983
+crumpca01w,G,70.0,158,Alabama,none,29/10/1962
+cummiki01w,F,75.0,188,Long Beach State,none,29/08/1963
+cunnibe01w,G,72.0,163,Notre Dame,none,05/06/1975
+cunnida01w,F,72.0,187,Rutgers,none,27/01/1980
+cunnima01w,F-C,76.0,167,Vanderbilt,none,20/05/1973
+currimo01w,F,72.0,177,Duke,none,25/02/1983
+curryed01w,G,64.0,138,Oregon,none,09/07/1979
+dalesst01w,G-F,72.0,155,Oklahoma,none,05/09/1979
+daleygr01w,G,66.0,147,Tulane,none,26/06/1978
+darlihe01w,G,66.0,164,Penn State,none,29/08/1978
+davenje01w,C,77.0,215,Ohio State,none,24/06/1985
+davisbr01w,G,72.0,172,Oregon,none,01/01/1983
+daviscl01w,F,73.0,165,Texas,none,04/06/1967
+davisde01w,G,67.0,138,Vanderbilt,none,08/11/1984
+davisla01w,G,67.0,145,Tennessee,none,08/10/1974
+davista01w,F,70.0,160,Washington,none,25/09/1972
+davista02w,G,71.0,167,Florida State,none,07/06/1987
+dedenka01w,F,76.0,170,Washington,none,23/09/1969
+deforan01w,G,70.0,160,Nebraska,none,14/04/1976
+derevje01w,G,70.0,140,George Mason,none,29/03/1982
+desouer01w,F-C,77.0,190,none,none,03/03/1982
+dickeke01w,F,71.0,165,Texas Tech,none,20/04/1978
+dillata01w,G,69.0,154,Texas,none,06/05/1981
+dixonin01w,C,75.0,167,California,none,16/09/1972
+dixonta01w,G,69.0,148,Kansas,none,14/12/1975
+doagela01w,G,66.0,137,Nebraska,none,15/05/1975
+domonna01w,G,70.0,132,Iowa,none,28/09/1975
+donapbe01w,F-C,74.0,195,Stanford,none,27/08/1980
+doronsh01w,G,69.0,145,Maryland,none,01/04/1985
+dossaci01w,C,77.0,187,none,none,31/01/1975
+douglka01w,G-F,72.0,167,Purdue,none,07/05/1979
+duffyme01w,G,67.0,135,Notre Dame,none,13/07/1984
+dunlavi01w,F,73.0,160,Kentucky,none,19/09/1989
+dupreca01w,F,74.0,162,Temple,none,16/08/1984
+dydekka01w,F-C,79.0,190,Evangel,none,21/03/1970
+dydekma01w,C,75.9,223,none,none,28/04/1974
+edwarmi01w,G,69.0,150,Rutgers,none,06/03/1966
+edwarsi01w,C,76.0,164,Iowa,none,17/11/1973
+edwarte01w,G-F,71.0,155,Georgia,none,09/07/1964
+edwarto01w,G,70.0,160,Tennessee,none,13/03/1968
+elysh01w,F,74.0,182,Tennessee,none,09/08/1983
+enissh01w,F-C,73.0,185,Alabama,none,03/12/1974
+erbsu01w,C,78.0,240,North Carolina State,none,25/07/1977
+ervinla01w,F,76.0,171,Arkansas,none,24/03/1985
+evansda01w,G,67.0,167,James Madison,none,30/06/1989
+evansde01w,G,64.0,125,Virginia,none,11/10/1970
+fallotr01w,G-F,75.0,165,none,none,23/07/1972
+farriba01w,C-F,75.0,200,Tulane,none,10/09/1976
+feastal01w,F,71.0,168,Harvard,none,11/02/1976
+feifesu01w,G,73.0,162,none,none,29/01/1979
+feldeja01w,F,73.0,167,Southern Mississippi,none,16/10/1969
+ferdima01w,G,69.0,153,Louisiana State,none,13/10/1978
+fernama01w,G,71.0,138,none,none,21/12/1981
+ferrama01w,F,75.0,190,none,none,11/02/1972
+figgsuk01w,G,69.0,142,Purdue,none,31/03/1977
+fijalis01w,C,77.0,200,Colorado,none,23/05/1972
+firsool01w,C,78.0,215,Kansas State,none,23/04/1976
+floremi01w,G,66.0,125,Stanford,none,19/10/1977
+flukety01w,C,77.0,209,Tennessee,none,27/12/1984
+folklkr01w,F,74.0,190,Stanford,none,19/12/1975
+fordch01w,F,75.0,198,Louisiana Tech,none,06/06/1981
+fordki01w,G-F,70.0,153,Georgia Tech,none,04/04/1975
+fordst01w,F,74.0,185,Georgia,none,14/01/1969
+fosteto01w,F,73.0,175,Iowa,none,16/10/1971
+fowlesy01w,C,78.0,200,Louisiana State,none,06/10/1985
+francde01w,F,70.0,193,Iowa State,none,24/08/1975
+frankaq01w,G,64.0,154,Texas A&M,none,29/09/1985
+frankba01w,F-C,74.5,167,Wisconsin,none,0000-00-00
+frazeme01w,F,75.0,191,Liberty,none,29/03/1987
+freemla01w,F,73.0,175,Auburn,none,17/03/1971
+fresest01w,G,68.0,126,Iowa State,none,23/09/1976
+frettla01w,F,75.0,170,Georgia,none,12/06/1975
+friertr01w,F,74.0,186,Louisiana Tech,none,23/08/1979
+frohlli01w,F-C,75.0,185,none,none,23/06/1979
+frostsh01w,C,76.0,184,Tennessee,none,19/12/1966
+futreca01w,G,70.0,154,Duquesne,none,10/07/1982
+gaithka01w,C,75.0,170,Notre Dame,none,13/08/1975
+gamblam01w,F,70.0,163,Arizona,none,17/12/1964
+ganttr01w,C,74.0,181,Lamar,none,10/10/1971
+garcibe01w,G,65.0,135,none,none,03/09/1976
+gardike01w,F,73.0,168,Virginia Tech,none,19/05/1984
+gardnan01w,F-C,75.0,190,Howard,none,23/12/1979
+garnean01w,F-C,75.0,160,Penn State,none,05/01/1979
+gaydeco01w,G,69.0,150,Louisiana State,none,11/05/1971
+gaypi01w,G-F,71.0,183,Louisiana State,none,21/08/1974
+gearlka01w,G-F,73.0,184,Purdue,none,26/10/1984
+gessiki01w,F,75.0,175,USC,none,29/12/1970
+gibsoke01w,F-G,70.0,136,Maryland,none,10/11/1976
+gilbrbr01w,G,73.0,167,USC,none,16/08/1990
+gilloje01w,F-C,75.0,180,Mississippi,none,13/06/1964
+gilmous01w,G,71.0,158,Rutgers,none,24/08/1978
+gisseka01w,F,73.0,178,Penn State,North Carolina State,27/07/1985
+givench01w,G,70.0,167,Middle Tennessee State,none,26/07/1985
+godbyli01w,F-C,78.0,163,Auburn,none,17/10/1968
+gomisem01w,G,71.0,134,none,none,18/10/1983
+goodemo01w,G,66.0,130,Stanford,none,08/02/1972
+goodeti01w,F,71.0,165,Iowa,none,23/10/1975
+goodlsa01w,C,77.0,239,Georgia Tech,none,09/08/1990
+goodsad01w,F,72.0,165,Old Dominion,none,19/10/1966
+gordobr01w,F,72.0,159,Tennessee,none,27/04/1967
+goringi01w,C,79.0,225,North Carolina State (jr-sr),Arkansas-Fort Smith (fr-so),07/06/1983
+gortmsh01w,G,70.0,158,South Carolina,none,07/12/1979
+grahama01w,C,75.0,240,Houston,none,18/12/1970
+granter01w,G,68.0,125,Texas Tech,none,13/06/1984
+gravede01w,C,77.0,212,Howard,none,16/09/1975
+graylal01w,G,68.0,176,California,none,21/04/1987
+grecomi01w,G,69.0,145,UCLA,none,24/03/1980
+greenci01w,C,77.0,183,Texas Tech,none,04/04/1983
+greenka01w,G,70.0,170,Connecticut,none,13/07/1987
+grginve01w,F,73.0,160,none,none,13/01/1975
+griffke01w,F,74.0,179,Nebraska,none,02/07/1987
+griffyo01w,C-F,75.0,188,Florida Atlantic,none,01/03/1970
+groomla01w,G-F,70.0,160,Georgia,none,12/09/1970
+grubigo01w,G,71.0,165,none,none,20/08/1972
+grudasa01w,F-C,76.0,185,none,none,25/06/1987
+guytowa01w,F,73.0,178,South Florida,none,14/10/1965
+hagiwmi01w,G,71.0,161,none,none,27/04/1970
+hairska01w,F,72.0,150,Temple,none,18/08/1985
+hallam01w,F,75.0,180,Washington,none,29/12/1977
+hallvi01w,F,73.0,180,Texas,none,03/10/1969
+hamblan01w,G,70.0,170,Iowa,none,30/09/1976
+hammobe01w,G,66.0,136,Colorado State,none,11/03/1977
+hamptky01w,F,74.0,210,Arizona State,none,03/11/1962
+hamzoro01w,G,69.0,152,none,none,17/08/1970
+hardili01w,G,68.0,139,Duke,none,12/06/1984
+hardish01w,G,69.0,165,Louisiana Tech,none,27/06/1969
+harpela01w,F-C,77.0,190,Maryland,none,11/04/1986
+harriam01w,F,77.0,202,Xavier,none,16/01/1988
+harrido01w,F,75.0,190,Old Dominion,none,29/09/1966
+harrifr01w,G,72.0,154,Texas,none,12/03/1965
+harrili01w,F,73.0,164,Tennessee,none,02/01/1971
+harrokr01w,G,64.0,139,none,none,04/03/1975
+haydeva01w,C,76.0,240,Florida,none,05/06/1982
+hayesti01w,G,70.0,167,Connecticut,none,20/09/1989
+haynikr01w,G,69.0,147,Michigan State,none,17/06/1983
+headde01w,G,70.0,160,Tennessee,none,16/08/1970
+hedgpch01w,G,69.0,143,Stanford,none,17/02/1972
+hemmera01w,F-C,75.0,167,Stanford,none,02/04/1973
+hendene01w,G,68.0,144,Texas,none,28/02/1973
+hendetr01w,C,75.0,200,Georgia,none,31/12/1974
+henniso01w,G,67.0,143,Stanford,none,04/10/1969
+henryan01w,F,75.0,205,Florida,none,13/02/1986
+herriam01w,C,76.0,189,Iowa,none,06/06/1977
+hibbeka01w,G-F,70.0,140,Louisiana State,none,29/09/1977
+hicksje01w,F-C,76.0,188,Maryland,none,02/12/1971
+hightal01w,G,70.0,139,Louisiana State,none,06/04/1988
+hillec01w,G,67.0,173,Northern Illinois,none,06/04/1971
+hledeko01w,G,69.0,150,Duquesne,none,29/03/1975
+hodgeda01w,G-F,73.0,170,St. Joseph's,none,21/01/1968
+hodgedo01w,G,69.0,160,Louisiana State,none,19/07/1982
+hodgero01w,G,71.0,165,Florida State,none,19/07/1982
+hodgesa01w,F-G,69.0,167,New Orleans,none,31/07/1962
+hoffmeb01w,F,74.0,215,USC,none,27/08/1982
+holdsch01w,F,74.0,172,Tennessee,none,09/08/1977
+hollake01w,G,68.0,129,Georgia,none,05/11/1974
+holliqu01w,C,77.0,201,Virginia Commonwealth,none,15/11/1988
+holmejo01w,F,70.0,150,Purdue,none,31/03/1969
+holmese01w,G-F,73.0,155,UNLV,none,13/06/1986
+holtam01w,F,72.0,168,Middle Tennessee State,none,07/06/1985
+hopeky01w,C,74.0,165,Miami (FL),none,23/11/1977
+hopsosu01w,F-C,74.0,175,Mars Hill,none,21/06/1974
+hornbal01w,G,71.0,155,Tennessee,none,16/10/1985
+houstch01w,F,72.0,189,Connecticut,none,10/04/1986
+houtsas01w,G,66.0,140,Georgia,none,31/12/1987
+howarje01w,G,66.0,130,North Carolina State,none,21/01/1975
+howarme01w,G,69.0,145,SW Missouri State,none,02/04/1972
+hudsopa01w,F,71.0,139,Northwestern State,none,19/09/1968
+humphta01w,C,75.0,190,Georgia,none,29/12/1985
+ibekwif01w,F,74.0,167,Arizona,none,05/10/1989
+irvinsa01w,F,75.0,185,Texas Christian,none,23/02/1982
+ivanyda01w,G,70.0,135,Florida International,none,18/03/1976
+iveyni01w,G,67.0,149,Notre Dame,none,24/09/1977
+jacksan01w,C,76.0,205,Texas,none,30/03/1976
+jacksde01w,F,74.0,155,Alabama-Birmingham,none,15/12/1979
+jacksgw01w,F,75.0,182,Tennessee,none,23/10/1980
+jacksla01w,F-C,77.0,187,none,none,11/05/1981
+jacksta01w,F-C,75.0,179,Florida,none,03/12/1962
+jacksta02w,G,66.0,118,Louisiana Tech,none,22/04/1978
+jacksti01w,F,71.0,148,Iowa,none,21/04/1972
+jacksti02w,F,75.0,185,Texas,none,26/04/1985
+jacobam01w,G,68.0,152,Boston College,none,29/06/1982
+jacobje01w,G,68.0,130,Purdue,none,20/02/1973
+jamesta01w,F,69.0,158,Miami (FL),none,13/06/1984
+januabr01w,G,68.0,144,Arizona State,none,11/01/1987
+jekaban01w,G,69.0,180,none,none,12/08/1983
+joensca01w,G-F,71.0,165,George Washington,none,12/02/1981
+johnsad01w,G,70.0,154,Ohio State,none,05/02/1974
+johnsch01w,C,75.0,185,Wisconsin-Green Bay,none,19/03/1981
+johnsda01w,C,74.0,197,Tennessee,none,19/02/1973
+johnsgl01w,F,75.0,170,Tennessee,none,27/07/1990
+johnsja01w,F,72.0,201,Kansas,none,16/03/1979
+johnsla01w,F,73.0,150,Memphis,none,17/08/1975
+johnsle01w,F,74.0,220,Western Kentucky,none,12/01/1975
+johnsni01w,G,69.0,146,Alabama,none,07/02/1973
+johnspo01w,C,75.0,165,Michigan,none,06/11/1975
+johnssh01w,G,67.0,152,South Carolina,none,18/08/1974
+johnssh02w,G,71.0,167,Miami,none,08/12/1990
+johnste01w,G,63.0,132,Louisiana State,none,06/09/1982
+johnsti01w,C,76.0,240,Tennessee,none,27/12/1975
+johnsvi01w,G-F,69.0,150,Louisiana Tech,none,15/04/1972
+jollyke01w,G,69.0,148,Tennessee,none,03/05/1977
+jonesas01w,F,74.0,196,Connecticut,none,01/08/1980
+jonesch01w,G-F,69.0,150,Houston,none,25/03/1982
+jonesja01w,G,69.0,158,UNC Charlotte,none,13/09/1978
+jonesla01w,G,73.0,180,Ohio State,none,24/07/1977
+jonesma01w,G,70.0,150,North Carolina,none,12/10/1975
+jonesme01w,G,69.0,147,Florida,none,21/07/1973
+jordapa01w,C,75.0,205,UNLV,none,27/04/1968
+joyneja01w,F,70.0,154,UCLA,none,03/03/1962
+kaplaan01w,C,77.0,180,Stanford,none,22/04/1973
+kausaan01w,F,72.0,155,Emporia State,none,30/11/1970
+kellycr01w,F,74.0,190,Western Kentucky,none,15/09/1986
+kingbsu01w,G,67.0,135,Stanford,none,27/07/1981
+kingija01w,G,68.0,150,none,none,20/01/1976
+kizerly01w,F-C,76.0,215,Maryland,none,04/04/1990
+klimezu01w,F,74.0,181,Vanderbilt,none,21/01/1979
+kobryew01w,F-C,75.0,210,none,none,07/05/1982
+koehnla01w,G,68.0,145,Kansas State,none,13/05/1982
+korstil01w,G,70.0,160,none,none,30/05/1980
+kossgr01w,F,73.0,145,Montana,none,12/06/1974
+kostaan01w,G,67.0,137,none,none,26/03/1978
+kostita01w,F,73.0,163,Oregon State,none,10/11/1972
+kraayca01w,F,76.0,180,Oregon,none,30/09/1981
+kubikni01w,G,69.0,145,Nebraska,none,01/03/1978
+kukloan01w,G,72.0,150,none,none,16/07/1971
+laceyal01w,G,72.0,159,Iowa State,none,26/12/1987
+lacyje01w,F,75.0,175,Pepperdine,none,21/03/1983
+lacyna01w,G,70.0,165,UTEP (sr),Texas Christian (fr-jr),08/07/1985
+lacyve01w,C,76.0,234,Louisiana Tech,none,09/02/1967
+lambesh01w,G,67.0,125,Baylor,Grayson County (JC),21/07/1980
+lambmo01w,C,77.0,206,USC,none,11/10/1964
+langeme01w,F-C,78.0,205,UNLV,none,28/04/1969
+langhcr01w,F-C,74.0,184,Maryland,none,27/10/1986
+langja01w,F,72.0,185,Colorado,none,23/06/1972
+larakr01w,G,68.0,130,none,none,30/09/1969
+larkier01w,F,73.0,210,North Carolina,none,02/04/1986
+lassiam01w,F,73.0,160,Missouri,none,09/06/1979
+lattaiv01w,G,66.0,143,North Carolina,none,24/09/1984
+lavenja01w,C,76.0,185,Ohio State,none,12/11/1988
+lawsoed01w,G,66.0,130,none,none,14/05/1979
+lawsoka01w,G,69.0,165,Tennessee,none,14/02/1981
+lazicka01w,F-C,70.0,147,none,none,25/05/1980
+lehnish01w,G,69.0,147,Kansas State,none,27/10/1986
+lennobe01w,G,68.0,143,Louisiana Tech,none,04/12/1976
+leslili01w,C,77.0,170,USC,none,07/07/1972
+leuchye01w,C,77.0,195,West Virginia,none,30/04/1983
+levanni01w,G,68.0,163,Xavier,none,17/05/1979
+levesni01w,G,63.0,115,Wake Forest,none,11/04/1972
+lewista01w,F-C,74.0,212,Louisiana Tech,none,10/07/1979
+lewisty01w,G,70.0,152,North Carolina State,none,08/05/1979
+liebena01w,G,70.0,150,Old Dominion,none,01/07/1958
+lilleta01w,G,66.0,130,Oregon,none,29/02/1988
+listr01w,G-F,70.0,167,Providence,none,0000-00-00
+littlca01w,F,74.0,180,North Carolina,none,18/01/1985
+lloydan01w,F,74.0,175,Texas,none,09/02/1965
+lobore01w,F,76.0,190,Connecticut,none,06/10/1973
+lovelst01w,F,76.0,170,Purdue,none,05/12/1974
+luckepa01w,F,73.0,165,Houston,none,14/05/1975
+luzhe01w,G,68.0,144,none,none,23/11/1972
+lyttlsa01w,F,76.0,175,Houston,none,20/09/1983
+mabikmw01w,G-F,71.0,165,none,none,27/07/1976
+macchla01w,F,73.0,169,none,none,24/05/1979
+machacl01w,C-F,77.0,180,Old Dominion,none,04/10/1976
+mahonme01w,F,72.0,160,Kansas State,none,13/02/1983
+mahonsh01w,F,76.0,178,Western Kentucky,none,03/07/1977
+maigaha01w,G-F,73.0,160,Old Dominion,none,25/04/1978
+malcona01w,F,73.0,170,Providence,none,27/11/1975
+malloam01w,G,64.0,148,St. Joseph's,none,21/04/1970
+malloso01w,C,77.0,210,Georgia Tech,none,02/09/1981
+maltsev01w,G,71.0,165,none,none,20/12/1978
+mannish01w,F-C,75.0,186,North Carolina State,none,20/03/1969
+mannkr01w,F,73.0,185,UC Santa Barbara,none,10/08/1983
+mapprh01w,C,74.0,190,North Carolina State,none,13/10/1969
+marcimi01w,G,70.0,154,Tennessee,none,29/10/1973
+margiga01w,F,73.0,164,Drexel,none,12/02/1987
+martima01w,F,76.0,172,UCLA,none,17/04/1978
+martinu01w,G,69.0,167,none,none,29/02/1984
+mascira01w,F,72.0,169,none,none,30/09/1980
+maslemi01w,F,74.0,170,Penn State,none,10/10/1974
+matteca01w,G,69.0,167,Ohio State,none,22/08/1982
+matteka01w,C,80.0,240,Liberty,none,17/11/1982
+maxwean01w,F,71.0,186,New Mexico State,none,07/04/1974
+maxwemo01w,F,69.0,162,Louisiana Tech,none,21/12/1976
+maytuet01w,F,72.0,167,Oklahoma,none,28/04/1973
+mazzake01w,G,72.0,155,Penn State,none,02/02/1982
+mccaibr01w,G,63.0,135,Florida,none,21/09/1979
+mccaiti01w,G-F,70.0,167,Kentucky,none,06/10/1976
+mccanra01w,F,73.0,161,North Carolina,none,17/11/1986
+mccarja01w,C,74.0,205,Minnesota,none,03/11/1982
+mccarjo01w,G,67.0,130,Illinois-Chicago,none,26/10/1974
+mccarst01w,G-F,69.0,155,Purdue,none,20/06/1977
+mcclaka01w,F-C,74.0,180,Georgia,none,19/09/1965
+mcconsu01w,G,65.0,125,Penn State,none,29/07/1966
+mccouan01w,F,73.0,160,Louisville,none,10/09/1986
+mccrada01w,G-F,71.0,170,Kansas,none,08/10/1987
+mccrani01w,G,71.0,158,Tennessee,none,11/12/1971
+mccrini01w,G,68.0,125,USC,none,22/03/1972
+mcculda01w,F-C,75.0,180,Western Kentucky,none,18/01/1975
+mcgeepa01w,C-F,75.0,200,USC,none,01/12/1962
+mcgheca01w,F-C,73.0,179,Tennessee,none,06/03/1968
+mckivte01w,C-F,75.0,220,Tulane,none,05/10/1980
+mcwilta01w,F-C,74.0,188,St. Edwards,none,20/10/1970
+melvich01w,C-F,75.0,185,North Carolina State,none,03/05/1976
+mendigi01w,G,71.0,174,Washington,none,09/01/1982
+miaomi01w,G,71.0,153,none,none,03/06/1981
+millebr01w,C,76.0,167,Florida State,none,10/08/1987
+milleco01w,G,69.0,140,Georgia,none,06/09/1978
+milleke01w,G,70.0,140,Georgia,none,06/09/1978
+millsta01w,C,75.0,232,Alabama,none,29/02/1976
+miltode01w,F,73.0,185,Florida,none,11/09/1974
+mitchle01w,G,65.0,130,Utah,none,15/06/1985
+mizrali01w,G,67.0,130,Maryland,none,24/06/1970
+moeggli01w,F,73.0,195,Michigan State,none,25/05/1984
+moisead01w,G,66.0,140,none,none,06/12/1978
+mokanch01w,F,77.0,167,Mississippi State (jr-sr),Southeastern Illinois (fr-so),13/10/1988
+monroja01w,C,77.0,162,Florida State,none,04/09/1988
+montaan01w,F,73.0,190,George Washington,none,24/10/1980
+montgal01w,G-F,73.0,185,Georgia Tech,none,12/11/1988
+montgre01w,G,67.0,139,Connecticut,none,02/12/1986
+mooreja01w,C,73.0,207,Long Beach State,none,06/11/1979
+mooreje01w,F-C,75.0,175,Connecticut,none,09/07/1982
+moorelo01w,G,69.0,165,Tennessee,none,21/03/1983
+moorema01w,F,72.0,175,Connecticut,none,11/06/1989
+moorena01w,G,70.0,145,Alabama,none,04/11/1984
+moorepe01w,F,72.0,135,Long Beach State,none,25/01/1969
+mooreta01w,G-F,71.0,167,Wisconsin,none,11/04/1980
+mooreyo01w,F,72.0,174,Mississippi,none,01/07/1974
+moosca01w,F-C,78.0,182,Stanford,none,23/05/1978
+morehmo01w,F-C,75.0,175,Auburn,none,18/01/1974
+morgale01w,F,73.0,167,Francis Marion,none,01/11/1969
+morrije01w,G,69.0,146,San Diego State,none,21/07/1987
+morrila01w,F,73.0,160,Auburn,none,26/05/1974
+morrizi01w,C,76.0,167,none,none,15/02/1989
+mosbybe01w,F,73.0,172,Baylor,Florida,14/02/1984
+mosleju01w,F,73.0,170,Hawai'i,none,17/03/1968
+moweje01w,C,77.0,236,Oregon,none,25/02/1978
+mulitna01w,C,75.0,207,Stanford,none,06/03/1976
+murphsh01w,G,71.0,164,USC,none,15/04/1985
+nagyan01w,G,67.0,147,Florida International,none,16/11/1971
+nanch01w,C,78.0,204,none,none,06/01/1983
+ndiayas01w,F-C,75.0,182,Southern Nazarene,none,05/11/1973
+ndongem01w,C,74.0,170,none,none,25/04/1983
+nemcoev01w,F,74.0,178,none,none,03/12/1972
+neroja01w,F,71.0,180,Alabama-Birmingham,none,08/11/1968
+nevescl01w,G,68.0,136,none,none,17/02/1975
+newtoch01w,G,71.0,154,Rutgers,none,17/02/1983
+ngarsch01w,C,75.0,168,Missouri,none,23/06/1983
+ngoyibe01w,C,76.0,195,none,none,26/08/1982
+nichoti01w,G,63.0,146,Penn State,none,27/09/1973
+nieuwma01w,C,77.0,180,Valparaiso,none,12/04/1980
+nikolmi01w,F,75.0,185,none,none,04/07/1971
+nnamach01w,G,72.0,156,Georgia Tech,none,15/06/1985
+nolande01w,G-F,69.0,147,Georgia,none,25/08/1979
+novosna01w,G,71.0,165,Notre Dame,none,0000-00-00
+nygaava01w,F,73.0,166,Stanford,none,13/03/1975
+ogayu01w,G,66.0,140,none,none,17/10/1982
+ogwumnn01w,F,74.0,167,Stanford,none,02/07/1990
+oheaje01w,G-F,73.0,174,Australian Institute of Sport,none,06/06/1987
+ohldeni01w,F-C,77.0,190,Kansas State,none,13/03/1982
+olajuab01w,C,76.0,236,Oklahoma,none,06/07/1988
+oneilkr01w,G-F,73.0,158,Washington,none,12/04/1983
+orrki01w,G,66.0,141,Duke,none,16/09/1975
+osburde01w,C,76.0,167,Oregon,none,11/02/1972
+osipoir01w,C,77.0,190,none,none,25/06/1981
+owenhe01w,F,77.0,212,Stanford,none,06/05/1976
+owenssh01w,C,74.0,175,Kentucky,none,16/05/1978
+pageda01w,F,74.0,179,Nebraska,none,14/11/1986
+pagemu01w,F,74.0,160,Florida,none,18/09/1975
+paigeyo01w,G,66.0,147,West Virginia,none,18/09/1983
+paliesa01w,G,67.0,159,none,none,23/07/1981
+palmewe01w,F,74.0,165,Virginia,none,12/08/1974
+parisco01w,C,76.0,250,Oklahoma,none,21/09/1987
+parkeca01w,F,76.0,175,Tennessee,none,19/04/1986
+pascafl01w,C,76.0,187,none,none,19/01/1982
+paschti01w,F,73.0,165,Florida State,none,22/03/1969
+pavlimi01w,F-C,75.0,175,Denver,none,27/11/1977
+payeka01w,G,68.0,150,Stanford,none,06/03/1974
+pederka01w,F,76.0,190,Stanford,none,04/04/1989
+penicti01w,G,71.0,145,Old Dominion,none,18/09/1974
+pennjo01w,F,72.0,160,South Carolina,none,10/09/1979
+perazja01w,G-F,72.0,170,Maryland,none,06/12/1960
+perkiji01w,G,68.0,155,Texas Tech,none,23/02/1982
+perpeer01w,F-G,75.0,181,The Master's College,none,05/06/1979
+perroki01w,G,65.0,130,SW Louisiana,none,18/01/1967
+peterde01w,F,74.0,170,Notre Dame,none,08/10/1989
+petroso01w,F,73.0,167,none,none,18/02/1989
+pettibr01w,G,69.0,150,Florida,none,01/01/1971
+philler01w,G,67.0,162,none,none,19/05/1985
+phillpo01w,F,74.0,173,Georgia,none,13/01/1988
+phillta01w,F-C,74.0,200,Central Florida,none,06/03/1969
+phillta02w,C,78.0,198,Xavier,none,24/01/1989
+pierspl01w,F-C,74.0,181,Texas Tech,none,30/08/1981
+plowdvi01w,F,72.0,167,Miami (FL),none,22/07/1971
+pohleje01w,G,72.0,179,Stanford,none,02/05/1989
+pollica01w,F,77.0,165,Texas,none,16/03/1966
+pondeca01w,G,69.0,160,Rutgers,none,07/01/1983
+potthan01w,F,73.0,191,Penn State,none,12/06/1974
+powelel01w,G,68.0,150,Louisiana State,none,09/08/1975
+powelni01w,F,74.0,175,Stanford,none,22/06/1982
+prahasa01w,G,67.0,129,Ohio State,none,23/01/1990
+pricear01w,G-F,69.0,133,Mississippi,none,03/04/1985
+pricefr01w,G,69.0,178,Iowa,none,28/04/1968
+priceka01w,G,70.0,148,Stephen F. Austin,none,03/12/1975
+pridely01w,F-G,74.0,180,Kansas,none,16/10/1978
+princep01w,G,69.0,167,Rutgers,none,11/01/1988
+pringla01w,F-C,75.0,162,North Carolina,none,11/09/1986
+queenbr01w,F,74.0,185,Boston College,none,10/04/1984
+quiglal01w,G,70.0,140,DePaul,none,20/06/1986
+quinnno01w,G,72.0,175,UCLA,none,03/01/1985
+quinnte01w,F,76.0,165,Seton Hall,none,07/09/1974
+radunha01w,C,75.0,187,none,none,10/01/1978
+raglafe01w,G,67.0,133,Oregon State,none,03/02/1980
+randase01w,G,69.0,164,Tennessee,none,07/02/1979
+rasmukr01w,F,76.0,174,Michigan State,none,01/11/1978
+ravenbr01w,G,72.0,162,Texas,none,01/08/1988
+raymost01w,G,65.0,139,Northern Illinois,none,15/01/1985
+raymota01w,F,74.0,195,Connecticut,none,12/04/1980
+reddja01w,F,73.0,164,Washington,none,05/11/1977
+redmoka01w,G-F,73.0,167,Gonzaga,Washington,11/10/1988
+reedbr01w,F,73.0,168,Southern Mississippi,none,17/02/1977
+reedch01w,F,73.0,165,Arkansas-Little Rock,none,28/03/1989
+reedmi01w,G,71.0,165,Western Kentucky,none,24/05/1973
+reidtr01w,F,71.0,150,North Carolina,none,01/11/1976
+reissta01w,G,66.0,129,Virginia,none,02/04/1970
+resska01w,F,76.0,194,Boston College,none,26/06/1985
+reynoch01w,F,74.0,180,Houston,none,08/02/1972
+rileyan01w,G,65.0,136,Oklahoma State,none,22/07/1988
+rileyru01w,C,77.0,198,Notre Dame,none,28/08/1979
+rizzoje01w,G,66.0,146,Connecticut,none,15/05/1974
+roberav01w,G,69.0,145,Ohio State,none,29/01/1970
+roberny01w,C,75.0,209,Old Dominion,none,10/03/1976
+robinas01w,C,76.0,180,Tennessee,none,12/08/1982
+robincr01w,F-G,71.0,155,SE Oklahoma State,none,22/01/1974
+robinda01w,G,69.0,125,Oklahoma,none,10/05/1989
+robinre01w,G,71.0,166,Virginia,none,15/06/1978
+robinsc01w,G,71.0,155,Louisiana State,none,09/01/1983
+rolanja01w,G-F,73.0,167,Purdue,none,03/02/1975
+rossad01w,G,68.0,142,Texas Christian,none,23/11/1984
+rouilni01w,G,67.0,130,Loyola Marymount,none,23/01/1970
+roundsa01w,G,67.0,145,Georgia,none,04/10/1976
+ruffje01w,G-F,71.0,140,Washington State,none,12/09/1974
+rushle01w,F,73.0,175,Oklahoma,none,25/10/1984
+ryankr01w,F,71.0,150,Sacramento State,none,19/11/1972
+rycraeu01w,C,75.0,175,Cal State Fullerton,none,06/12/1968
+salesny01w,G-F,72.0,184,Connecticut,none,10/05/1976
+sampsch01w,G,71.0,175,Kansas,none,01/09/1974
+sampsto01w,G,70.0,167,North Carolina,none,02/03/1972
+samsh01w,F-G,72.0,160,Vanderbilt,none,05/05/1974
+sanchis01w,G,70.0,152,none,none,28/11/1976
+sandeam01w,G,71.0,156,Hawai'i,none,05/06/1983
+sandish01w,G,72.0,145,none,none,22/01/1969
+sanfona01w,F-C,76.0,200,Kansas,none,10/05/1976
+sanniol01w,C,74.0,167,West Virginia,none,21/08/1986
+santoal01w,C,77.0,181,none,none,02/12/1973
+santoke01w,F,75.0,188,none,none,10/11/1979
+sarenra01w,C,78.0,222,none,none,27/06/1974
+sauerpa01w,C,76.0,203,Connecticut,none,08/12/1977
+saundja01w,F,71.0,145,Texas A&M,none,21/08/1979
+saureau01w,G,70.0,163,none,none,31/10/1976
+savasla01w,G,68.0,134,Washington,none,18/03/1974
+schumke01w,C,77.0,183,Connecticut,none,14/10/1977
+schwege01w,G-F,72.0,160,Duke,none,31/01/1979
+scottol01w,C,74.0,175,Stanford,none,05/08/1976
+scottra01w,F,75.0,169,Colorado,none,12/08/1975
+shakiel01w,F-C,75.0,190,none,none,02/06/1970
+sharpkb01w,G,69.0,145,Cincinnati,none,18/04/1981
+sheetsh01w,G,66.0,130,Colorado,none,15/08/1975
+shegoch01w,C,77.0,167,North Carolina,none,22/02/1990
+shielas01w,G,70.0,155,SW Tennessee CC,none,15/07/1985
+shudlca01w,C,72.0,167,Minnesota,none,13/05/1972
+shulead01w,G,66.0,153,Georgia,none,24/04/1969
+simondy01w,G,65.0,137,Arizona State,none,29/09/1989
+simpsda01w,F,75.0,160,Houston,none,11/04/1969
+slaisma01w,G,68.0,173,Cincinnati,none,23/08/1973
+slauggw01w,F,75.0,181,Tulane,none,01/07/1980
+slavtge01w,G,73.0,160,Florida International,none,20/10/1979
+smithai01w,F,74.0,173,Louisiana State,none,18/07/1980
+smithbr01w,F-C,75.0,195,Stanford,none,30/04/1984
+smithch01w,G,67.0,140,Arkansas,none,14/08/1975
+smithch02w,F,70.0,145,Stanford,none,02/05/1975
+smithch03w,G,72.0,148,North Carolina,none,23/08/1973
+smithcr01w,G,66.0,121,Iowa,none,12/03/1984
+smithje01w,C,75.0,198,Michigan,none,10/04/1982
+smithka01w,G-F,71.0,174,Ohio State,none,04/06/1974
+smithki01w,F,73.0,158,Utah,none,07/05/1984
+smithla01w,G,67.0,150,Mississippi State,none,06/02/1974
+smithta01w,F-C,76.0,160,Iowa,none,01/04/1977
+smithty01w,F,72.0,167,Delaware,none,21/04/1985
+smithwa01w,G,71.0,175,Duke,none,09/07/1985
+snellbe01w,G,69.0,170,University of Sydney,none,01/10/1981
+snowmi01w,C,77.0,158,Tennessee,none,20/03/1980
+sobrale01w,F,73.0,183,none,none,22/11/1974
+sobrama01w,C,75.0,163,none,none,23/03/1964
+spencsi01w,G,75.0,183,Tennessee,none,07/03/1985
+spornra01w,F,74.0,150,none,none,26/05/1968
+stafftr01w,F,73.0,180,California,none,11/11/1970
+staleda01w,G,66.0,134,Virginia,none,04/05/1970
+stansti01w,F-C,75.0,183,North Carolina State,none,16/01/1983
+starbka01w,G,73.0,153,Stanford,none,30/07/1975
+stedika01w,F-G,72.0,173,Stanford,none,11/12/1967
+stepama01w,C,80.0,187,none,none,23/02/1979
+stephre01w,G,71.0,160,UCLA,none,28/12/1969
+stephst01w,C,76.0,205,Texas,none,21/01/1982
+sterkca01w,F,74.0,170,Central Michigan,none,0000-00-00
+stevema01w,F-C,75.0,166,Auburn,none,04/02/1982
+stileja01w,G,68.0,144,Missouri State,none,21/12/1978
+stillva01w,F-C,73.0,151,Kentucky,none,14/05/1961
+stinsan01w,G,70.0,158,North Carolina State,none,25/11/1967
+stiresh01w,F,71.0,208,Kansas State,none,21/05/1972
+stockta01w,F-C,74.0,165,Florida,none,29/01/1979
+streiju01w,F,74.0,165,none,none,14/05/1972
+stricsh01w,G-F,74.0,178,Tennessee,none,30/07/1990
+strotan01w,G-F,75.0,166,Connecticut,none,11/12/1983
+suberto01w,G,67.0,137,Virginia,none,23/11/1974
+summela01w,C,74.0,167,none,none,13/12/1983
+sun-mju01w,C,73.0,168,none,none,12/10/1974
+suttota01w,C,76.0,199,Rutgers,none,27/01/1978
+swanike01w,G,67.0,144,Connecticut,none,10/08/1986
+swoopsh01w,F-G,72.0,145,Texas Tech,none,25/03/1971
+swordca01w,C,78.0,210,Boston College,none,19/07/1989
+sykesap01w,G-F,72.0,167,Rutgers,none,30/07/1990
+tatede01w,G,68.0,150,Maryland,none,13/05/1966
+tateso01w,G,66.0,157,Arkansas State,none,07/09/1971
+tauradi01w,F-G,72.0,172,Connecticut,none,11/06/1982
+tayloli01w,C,80.0,200,UC Santa Barbara,none,20/05/1981
+taylope01w,F,73.0,168,none,none,24/05/1981
+teaslni01w,G,72.0,169,North Carolina,none,22/03/1979
+teilaza01w,C,79.0,170,Western Illinois,none,24/09/1983
+terryka01w,C-F,75.0,183,Georgia Tech,none,21/10/1983
+thirdtr01w,F,71.0,160,Washington,none,27/02/1968
+thomaca01w,F,75.0,200,Vanderbilt,none,31/10/1985
+thomach01w,C,75.0,185,Georgia,none,14/08/1982
+thomaja01w,G,69.0,145,Duke,none,30/09/1989
+thomakr01w,C,77.0,195,Duke,none,10/06/1989
+thomala01w,F,74.0,165,Mississippi State,none,06/07/1981
+thomast01w,F,70.0,154,Michigan,none,29/08/1978
+thompal01w,F,73.0,180,Texas Tech,none,30/06/1976
+thompam01w,F,73.0,170,Oklahoma,none,18/11/1987
+thomppa01w,F,73.0,193,Tennessee,none,16/01/1975
+thompti01w,F,74.0,178,USC,none,10/02/1975
+thorbsh01w,G,69.0,149,Utah,none,07/08/1982
+thorner01w,G,70.0,150,Brigham Young,none,19/05/1981
+threaro01w,G,67.0,150,Wisconsin,none,01/07/1970
+tilliic01w,C-F,77.0,165,Duke,none,06/12/1981
+timmsmi01w,G,67.0,132,none,none,28/06/1965
+tolerpe01w,G,68.0,132,Long Beach State,none,24/03/1966
+tolivkr01w,G,67.0,130,Maryland,none,27/01/1987
+torniel01w,F,73.0,160,none,none,27/05/1965
+torrele01w,C,75.0,171,Florida State,none,06/04/1978
+traviti01w,G-F,71.0,145,Flordia,none,20/03/1978
+tremich01w,G,66.0,142,Auburn,none,20/10/1969
+tricetr01w,F-C,74.0,180,North Carolina State,none,04/08/1965
+tunsine01w,G-F,73.0,170,Iowa State,none,22/08/1970
+turneba01w,G-F,72.0,172,Connecticut,none,08/06/1984
+tutermo01w,G,72.0,155,Arizona State,none,25/08/1975
+tuvicsl01w,C,76.0,194,none,none,19/09/1977
+tzekopo01w,C,76.0,189,none,none,30/04/1968
+udokamf01w,F,72.0,187,DePaul,none,16/06/1976
+ujhelpe01w,F-C,76.0,200,South Carolina,none,17/12/1980
+umoh-it01w,G,67.0,140,Clemson,none,21/02/1977
+valdeam01w,F,73.0,160,none,none,18/08/1976
+vandeco01w,G,68.0,130,Gonzaga,none,08/02/1989
+vanemal01w,F,75.0,175,UCLA,none,14/04/1968
+vangomi01w,C,78.0,187,Duke,none,10/05/1977
+vaughki01w,C,76.0,208,Rutgers,none,24/01/1987
+vaughkr01w,F,73.0,160,Virginia Commonwealth,none,08/09/1986
+vealkr01w,G,70.0,150,none,none,24/07/1981
+veselja01w,F,75.0,195,none,none,31/12/1983
+vidicbo01w,G,69.0,133,Oregon State,none,07/01/1973
+viglida01w,G,70.0,157,Texas,none,07/03/1975
+vilipda01w,F-C,76.0,207,none,none,30/03/1975
+vodicka01w,F-C,76.0,190,none,none,19/12/1972
+vodopna01w,F,75.0,181,none,none,06/04/1981
+voigtka01w,G,73.0,162,Wisconsin,none,07/04/1975
+vukadmi01w,G,73.0,150,California,none,18/11/1968
+walkeas01w,F-C,73.0,200,California,none,24/02/1987
+walkeay01w,F,75.0,142,Louisiana Tech,none,10/09/1979
+walkede01w,F,75.0,168,Virginia,none,28/11/1977
+walkema01w,C,75.0,253,Pittsburgh,none,17/10/1986
+walsema01w,F,74.0,184,Penn State,none,28/10/1978
+wardvo01w,C,78.0,170,Tennessee,none,16/03/1973
+warleav01w,C,75.0,167,Liberty,none,17/05/1987
+washico01w,G,66.0,138,Notre Dame,none,17/01/1971
+washito01w,F,71.0,160,Florida,none,30/12/1977
+wautean01w,C,76.0,193,none,none,12/10/1980
+weathte01w,G,68.0,161,Louisiana Tech,none,08/12/1965
+webbum01w,G-F,70.0,162,North Carolina State,none,26/06/1975
+weberma01w,C,77.0,200,Iona,none,01/06/1982
+weckeke01w,F,73.0,172,Kansas State,none,16/12/1982
+whaleli01w,G,68.0,150,Minnesota,none,09/05/1982
+whitede01w,F,71.0,180,Louisiana State,none,03/04/1980
+whiteer01w,G,63.0,135,Louisiana State,none,26/08/1986
+whiteta01w,G,67.0,154,Mississippi State,none,27/09/1982
+whitiva01w,C-F,74.0,199,Stanford,none,09/04/1972
+whitmta01w,F,74.0,190,Memphis,none,05/06/1977
+whittje01w,C,77.0,176,none,none,05/09/1973
+whittkh01w,F,73.0,185,North Carolina State,none,05/08/1986
+wickssu01w,F,75.0,191,Rutgers,none,26/11/1966
+widemja01w,G,66.0,135,Stanford,none,16/10/1975
+wiggica01w,G,71.0,154,Stanford,none,14/02/1987
+wilkeda01w,G,65.0,121,Long Beach State,none,27/02/1969
+wilkibr01w,C,75.0,185,Iowa State,none,15/06/1983
+williad01w,F-C,77.0,170,USC,none,15/02/1977
+willian01w,G,72.0,149,Illinois,none,21/07/1983
+willibe01w,G,69.0,145,Texas,none,09/11/1965
+willide01w,G,68.0,160,Louisiana Tech,none,23/09/1972
+williki01w,G,66.0,136,DePaul,Westark CC,14/10/1974
+willile01w,F,72.0,200,Auburn,none,10/02/1981
+willile02w,G-F,71.0,155,DePaul,none,04/07/1979
+willili01w,G,71.0,170,UCLA,none,13/06/1984
+willina01w,F-C,74.0,210,UCLA,none,30/11/1970
+williri01w,G,66.0,135,Connecticut,none,14/01/1976
+williri02w,G,67.0,165,Miami,none,28/05/1990
+willisa01w,G-F,72.0,167,Auburn,none,24/09/1973
+willish01w,G,66.0,135,Oregon,none,14/04/1980
+willita01w,G,71.0,170,Auburn,none,23/07/1974
+willito01w,G,68.0,138,Texas A&M,none,11/01/1982
+williwe01w,G,67.0,141,Arkansas,none,18/11/1978
+wilsoam01w,F,71.0,176,Louisiana Tech,none,06/02/1977
+wirthch01w,F,73.0,185,Vanderbilt,none,18/04/1987
+wisdoli01w,F,74.0,186,Purdue,none,26/05/1986
+witheso01w,G,70.0,145,Florida,none,06/07/1969
+wojtaju01w,G-F,72.0,175,Wisconsin-Green Bay,none,09/04/1989
+wolteka01w,C,79.0,227,Connecticut,none,15/08/1975
+wolvean01w,F-C,75.0,205,Oregon,none,08/12/1978
+woodaly01w,G,72.0,160,Kansas,none,12/08/1959
+woodki01w,C,76.0,167,Wisconsin-Green Bay,none,16/09/1972
+wooslti01w,G,67.0,132,Tennessee,none,04/04/1973
+wrighfa01w,G,66.0,130,San Diego State,none,28/01/1973
+wrighmo01w,G,71.0,178,Virginia,none,15/07/1988
+wrighsh01w,F,70.0,155,Purdue,none,21/09/1981
+wrighta01w,G,71.0,165,Penn State,none,20/11/1983
+wyckobr01w,F,73.0,183,Florida State,none,30/03/1980
+wynneda01w,F,74.0,175,Seton Hall,none,02/02/1975
+yamasli01w,G,73.0,190,Stanford,none,02/06/1980
+yasenco01w,G,72.0,160,Purdue,none,05/12/1973
+yilmane01w,F-C,76.0,193,none,none,06/06/1980
+youngca01w,G,69.0,175,Auburn,none,28/07/1969
+youngso01w,F,73.0,165,Baylor,none,15/12/1983
+youngta01w,F,74.0,166,James Madison,none,30/10/1986
+zakalok01w,C,78.0,174,none,none,18/12/1977
+zarafr01w,G,70.0,146,none,none,08/12/1976
+zellosh01w,G,70.0,155,Pittsburgh,none,28/08/1986
+zhengha01w,C,80.0,254,none,none,07/03/1967
+zirkozu01w,G,69.0,145,none,none,06/06/1980
+zollsh01w,G,67.0,148,Virginia,none,11/07/1986
+morrich01w,F,73.1,167,Southern Nazarene,none,0000-00-00
