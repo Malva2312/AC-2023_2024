@@ -24,7 +24,7 @@ def create_table_from_csv(database_name, table_name, schema, csv_file):
         df = pd.read_csv(csv_file)
 
         # Insert data into the table
-        df.to_sql(table_name, conn, if_exists='replace', index=False)
+        df.to_sql(table_name, conn, schema=schema, if_exists='replace', index=False)
 
         # Commit changes and close the connection
         conn.commit()
