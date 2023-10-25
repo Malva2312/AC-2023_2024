@@ -4,6 +4,12 @@ from helper import create_table_from_csv
 
 database_name = "database.db"
 
+conn = sqlite3.connect(database_name)
+cursor = conn.cursor()
+cursor.execute("PRAGMA foreign_keys = ON;")
+conn.commit()
+conn.close()
+
 ### Awards
 awards = "Awards"
 awards_csv_file = "../basketballPlayoffs/awards_players.csv"
@@ -29,13 +35,14 @@ coaches_schema = '''
         won INTEGER,
         lost INTEGER,
         post_wins INTEGER,
-        post_losses INTEGER
+        post_losses INTEGER,
+        PRIMARY KEY(coachID, stint)
     )
 '''
 
 ### Player Teams
 player_teams = "Player_Teams"
-players_teams_csv_file = "../basketballPlayoffs\players_teams.csv"
+players_teams_csv_file = "../basketballPlayoffs/players_teams.csv"
 players_teams_schema = '''
     CREATE TABLE IF NOT EXISTS Player_Teams (
         playerID VARCHAR(255),
@@ -197,7 +204,8 @@ teams_schema = '''
         confL INTEGER,
         min INTEGER,
         attend INTEGER,
-        arena VARCHAR(255)
+        arena VARCHAR(255),
+        PRIMARY KEY (year, tmID)
     )
 '''
 
