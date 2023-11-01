@@ -488,3 +488,36 @@ def schema_builder(dataframe):
     schema = schema[:-2]
 
     return schema
+
+
+def copy_missing_tables(source_db, dest_db):
+    # Connect to the source database
+    source_conn = sqlite3.connect(source_db)
+    source_cursor = source_conn.cursor()
+
+    # Connect to the destination database
+    dest_conn = sqlite3.connect(dest_db)
+    dest_cursor = dest_conn.cursor()
+
+    # Fetch the table names from the source database
+    source_cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
+    tables = source_cursor.fetchall()
+
+    # Copy the missing tables
+    for table in tables:
+        table_name = table[0]
+        dest_cursor.execute(f"SELECT count(name) FROM sqlite_master WHERE type='table' AND name='{table_name}';")
+        if dest_cursor.fetchone()[0] == 0:
+            source_cursor.execute(f"SELECT * FROM {table_name}")
+            rows = source_cursor.fetchall()
+            schema_query = f"PRAGMA table_info({table_name})"
+            source_cursor.execute(schema_query)
+            schema = source_cursor.fetchall()
+            schema_string = ','.join([f"{col[1]} {col[2]}" for col in schema])
+            dest_cursor.execute(f"CREATE TABLE {table_name} ({schema_string})")
+            dest_cursor.executemany(f"INSERT INTO {table_name} VALUES ({','.join(['?'] * len(rows[0]))})", rows)
+
+    # Commit the changes and close the connections
+    dest_conn.commit()
+    source_conn.close()
+    dest_conn.close()
