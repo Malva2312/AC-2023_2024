@@ -47,7 +47,6 @@ def plot_metrics_over_years(all_results, start, total_years):
 
 #Sliding window
 def sliding_window_analysis(df, start, total_years, window_size, target, metrics, pipeline):
-    results = dict()
     all_results = {m: [] for m in metrics.keys()}
 
     for i in range(total_years - window_size):
@@ -69,18 +68,13 @@ def sliding_window_analysis(df, start, total_years, window_size, target, metrics
 
         # Store the results
         for m in metrics.keys():
-            if m not in results:
-                results[m] = []
-            results[m] = metrics[m](y_test, y_pred)
-
-        for m in metrics.keys():
             all_results[m].append(metrics[m](y_test, y_pred))
     return all_results
 
 
 # Expanding window
 def expanding_window_analysis(df, start, total_years, target, metrics, pipeline):
-    results = dict()
+
     all_results = {m: [] for m in metrics.keys()}
 
     for i in range(start, total_years + 1):
@@ -102,18 +96,12 @@ def expanding_window_analysis(df, start, total_years, target, metrics, pipeline)
 
         # Store the results
         for m in metrics.keys():
-            if m not in results:
-                results[m] = []
-            results[m].append(metrics[m](y_test, y_pred))
-
-        for m in metrics.keys():
             all_results[m].append(metrics[m](y_test, y_pred))
     return all_results
 
 
 # Mixed window
 def mixed_window_analysis(df, total_years, start, start_sliding, metrics, pipeline, target):
-    results = dict()
     all_results = {m: [] for m in metrics.keys()}
 
     for i in range(2, total_years + 1):
@@ -137,17 +125,23 @@ def mixed_window_analysis(df, total_years, start, start_sliding, metrics, pipeli
         # Fit the pipeline to the training data
         pipeline.fit(x_train, y_train)
         #print(classification_report(y_test, y_pred))
-        
+
         # Predict the test data
         y_pred = pipeline.predict(x_test)
 
         # Store the results
         for m in metrics.keys():
-            if m not in results:
-                results[m] = []
-            results[m].append(metrics[m](y_test, y_pred))
-
-        for m in metrics.keys():
             all_results[m].append(metrics[m](y_test, y_pred))
 
-    return results, all_results
+    return all_results
+
+def plot_metrics_for_models(all_results, all_models, start, total_years, metrics):
+    for metric_name in metrics.keys():
+        plt.figure()
+        for model_name in all_models.keys():
+            plt.plot(range(start, total_years + 1), all_results[model_name][metric_name], label=model_name)
+        plt.title(f'{metric_name} over the years')
+        plt.xlabel('Year')
+        plt.ylabel(metric_name)
+        plt.legend()
+        plt.show()
