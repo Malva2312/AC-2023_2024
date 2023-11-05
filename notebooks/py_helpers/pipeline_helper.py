@@ -145,3 +145,15 @@ def plot_metrics_for_models(all_results, all_models, start, total_years, metrics
         plt.ylabel(metric_name)
         plt.legend()
         plt.show()
+
+
+def find_non_numeric_non_binary_columns(df):
+    non_numeric_non_binary_columns = []
+    for column in df.columns:
+        if df[column].dtype != 'int64' and df[column].dtype != 'bool':
+            non_numeric_non_binary_columns.append(column)
+        else:
+            unique_values = df[column].unique()
+            if not all(val in [0, 1] for val in unique_values):
+                non_numeric_non_binary_columns.append(column)
+    return non_numeric_non_binary_columns
