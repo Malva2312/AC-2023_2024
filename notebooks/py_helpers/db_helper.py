@@ -1,6 +1,7 @@
 import sqlite3
 import csv
 import pandas as pd
+import re
 
 
 def create_db(database_name):
@@ -417,18 +418,11 @@ def original_schema():
 
 
 def alter_schema_drop_columns(schema, columns_to_drop):
-    schema = f", {schema}, "  # Add delimiters at the start and end
-    for col in columns_to_drop:
-        schema = schema.replace(f", {col} INTEGER, ", ",").replace(f", {col} INTEGER ", ",")
-        schema = schema.replace(f", {col} REAL, ", ",").replace(f", {col} REAL ", ",")
-        schema = schema.replace(f", {col} TEXT, ", ",").replace(f", {col} TEXT ", ",")
-        schema = schema.replace(f", {col} BLOB, ", ",").replace(f", {col} BLOB ", ",")
-        schema = schema.replace(f", ,", ",")  # Remove any double commas
-        schema = schema.strip(", ")  # Remove any leading or trailing commas and spaces
-    return schema
-
-
-
+    pattern = r"(?:^|,)\s*(?:{0})\s+\w+".format('|'.join(re.escape(col) for col in columns_to_drop))
+    new_schema = re.sub(pattern, '', schema)
+    new_schema = re.sub(r',\s*,', ',', new_schema)
+    new_schema = new_schema.strip().rstrip(',')
+    return new_schema
 
 def retrieve_data(database_name, table_name):
     # Connect to the SQLite database
@@ -517,7 +511,32 @@ def copy_missing_tables(source_db, dest_db):
             dest_cursor.execute(f"CREATE TABLE {table_name} ({schema_string})")
             dest_cursor.executemany(f"INSERT INTO {table_name} VALUES ({','.join(['?'] * len(rows[0]))})", rows)
 
-    # Commit the changes and close the connections
-    dest_conn.commit()
-    source_conn.close()
-    dest_conn.close()
+
+
+def get_unique_values(list1, list2):
+    set1 = set(list1)
+    set2 = set(list2)
+    unique_list1 = list(set1.difference(set2))
+    unique_list2 = list(set2.difference(set1))
+    return unique_list1, unique_list2
+
+
+def update_schema(schema, attribute_name, new_attribute_type):
+    schema_list = schema.split(',')
+    attribute_exists = any(attribute_name in s for s in schema_list)
+
+    new_schema_list = []
+
+    if attribute_exists:
+        for s in schema_list:
+            if attribute_name in s:
+                attribute, _ = [part.strip() for part in s.split()]
+                new_schema_list.append(f"{attribute_name} {new_attribute_type}")
+            else:
+                new_schema_list.append(s.strip())
+    else:
+        new_schema_list = [f"{schema.strip()}, {attribute_name} {new_attribute_type}"]
+
+    new_schema = ', '.join(new_schema_list)
+    return new_schema
+
