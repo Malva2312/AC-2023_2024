@@ -49,10 +49,14 @@ def plot_metrics_over_years(all_results, start, total_years):
 def sliding_window_analysis(df, start, total_years, window_size, target, metrics, pipeline):
     all_results = {m: [] for m in metrics.keys()}
 
-    for i in range(total_years - window_size):
+    if (start <= window_size):
+        print('The start year must be greater than the window size')
+        return
+
+    for i in range(total_years - start +1):
         # Split the data into train and test sets
-        train = df[(df['year'] >= start + i) & (df['year'] < start + i + window_size)]
-        test = df[df['year'] == start + i + window_size]
+        train = df[(df['year'] >= start + i - window_size) & (df['year'] < start + i )]
+        test = df[df['year'] == start + i]
 
         x_train = train.drop(target, axis=1)
         y_train = train[target]
@@ -92,7 +96,7 @@ def expanding_window_analysis(df, start, total_years, target, metrics, pipeline)
 
         # Predict the test data
         y_pred = pipeline.predict(x_test)
-        #print(classification_report(y_test, y_pred))
+        # print(classification_report(y_test, y_pred))
 
         # Store the results
         for m in metrics.keys():
@@ -104,7 +108,7 @@ def expanding_window_analysis(df, start, total_years, target, metrics, pipeline)
 def mixed_window_analysis(df, total_years, start, start_sliding, metrics, pipeline, target):
     all_results = {m: [] for m in metrics.keys()}
 
-    for i in range(2, total_years + 1):
+    for i in range(start, total_years + 1):
         # Expanding window
         if i < start_sliding:
             window_size = i + 1
@@ -124,7 +128,7 @@ def mixed_window_analysis(df, total_years, start, start_sliding, metrics, pipeli
 
         # Fit the pipeline to the training data
         pipeline.fit(x_train, y_train)
-        #print(classification_report(y_test, y_pred))
+        # print(classification_report(y_test, y_pred))
 
         # Predict the test data
         y_pred = pipeline.predict(x_test)
