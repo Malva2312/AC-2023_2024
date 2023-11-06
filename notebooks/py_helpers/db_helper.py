@@ -511,6 +511,11 @@ def copy_missing_tables(source_db, dest_db):
             dest_cursor.execute(f"CREATE TABLE {table_name} ({schema_string})")
             dest_cursor.executemany(f"INSERT INTO {table_name} VALUES ({','.join(['?'] * len(rows[0]))})", rows)
 
+    # Commit the changes and close the connections
+    dest_conn.commit()
+    source_conn.close()
+    dest_conn.close()
+
 
 
 def get_unique_values(list1, list2):
